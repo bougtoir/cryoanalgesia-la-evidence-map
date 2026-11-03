@@ -1,0 +1,28 @@
+sentinel_id,citation,pmid,description,retrieved,retrieval_route
+COPPER RCT,Paediatr Anaesth. 2025;35:347-358,40035332,Cryoanalgesia for Pain Management After Pectus Excavatum Repair (COPPER) in Adolescents: A Randomized Controlled Trial,yes,openalex|pubmed|OA1_core_cryo_x_LA|OA2_thoracic|Q1_core_cryo_x_LA|Q2_core_cryo_x_pain|Q5_thoracic|Q8_ctgov_style_broad
+EJPS-488,Eur J Pediatr Surg. 2024;34:488-492,38242172,Intercostal Nerve Cryoablation or Epidural Analgesia for Multimodal Pain Management after the Nuss Procedure,yes,openalex|pubmed|OA1_core_cryo_x_LA|OA2_thoracic|Q1_core_cryo_x_LA|Q2_core_cryo_x_pain|Q5_thoracic|Q8_ctgov_style_broad
+JPS-1444,J Pediatr Surg. 2020;55:1444-1447,31699436,Postoperative pain control modalities for pectus excavatum repair: A prospective observational study of cryoablation,yes,openalex|pubmed|OA1_core_cryo_x_LA|OA2_thoracic|OA3_dental|Q1_core_cryo_x_LA|Q2_core_cryo_x_pain|Q3_dental|Q5_thoracic|Q8_ctgov_style_broad
+EJPS-RCT-2024,Eur J Pediatr Surg. 2024;34:338-345,37364610,A Randomized Controlled Trial of Cryoanalgesia for Pain Management following Pectus Excavatum Repair,yes,openalex|pubmed|OA1_core_cryo_x_LA|OA2_thoracic|OA4_vascular|Q1_core_cryo_x_LA|Q2_core_cryo_x_pain|Q4_vascular|Q5_thoracic|Q8_ctgov_style_broad
+Finneran-RCT,Anesthesiology 2025 rib-fracture RCT,legacy,US-guided percutaneous cryoneurolysis vs ropivacaine intercostal nerve block,verify-in-screening,legacy Tier-A study; confirmed via title match in screening pass
+ICE-vanPolen,Eur J Cardiothorac Surg 2026,legacy,intercostal nerve cryoablation vs thoracic epidural analgesia,verify-in-screening,legacy Tier-A study; confirmed via title match in screening pass
+Gonzalez-2026,BMC Anesthesiol 2026,legacy,Continuous serratus-intercostal plane block versus intercostal cryoanalgesia,verify-in-screening,legacy Tier-A study; confirmed via title match in screening pass
+Mariconti-2026,Reg Anesth Pain Med 2026,legacy,percutaneous intercostal cryoanalgesia vs thoracic epidural,verify-in-screening,legacy Tier-A study; confirmed via title match in screening pass
+Weksler-adjunct,J Thorac Cardiovasc Surg 2025,legacy,intercostal blocks +/- cryoablation adjunct RCT,verify-in-screening,legacy Tier-A study; confirmed via title match in screening pass
+Park-MA,Ann Med Surg 2021,34408872,Cryoanalgesia for postsurgical pain relief in adults: A systematic review and meta-analysis,yes,openalex|pubmed|OA2_thoracic|Q2_core_cryo_x_pain|Q5_thoracic
+Cha-SR,Trauma Surg Acute Care Open 2021,legacy,intercostal cryoneurolysis chest wall pain SR,verify-in-screening,legacy Tier-A study; confirmed via title match in screening pass
+Wang-MA,PLoS One 2023,legacy,vapocoolant venipuncture meta-analysis,verify-in-screening,legacy Tier-A study; confirmed via title match in screening pass
+Griffith-Cochrane,Cochrane 2016,legacy,vapocoolants cannulation pain Cochrane review,verify-in-screening,legacy Tier-A study; confirmed via title match in screening pass
+NMA-2025,BMC Anesthesiol 2025,legacy,pediatric vascular-access NMA,verify-in-screening,legacy Tier-A study; confirmed via title match in screening pass
+Swisher-TKA,Pain Ther 2022,legacy,US-guided percutaneous cryoneurolysis TKA sham pilot RCT,verify-in-screening,legacy Tier-A study; confirmed via title match in screening pass
+Rai-2024,J Dent Anesth Pain Med,legacy,ice vs benzocaine palatal injection,verify-in-screening,legacy Tier-A study; confirmed via title match in screening pass
+Chilakamuri-2020,J Dent Anesth Pain Med,legacy,ice vs topical gel children,verify-in-screening,legacy Tier-A study; confirmed via title match in screening pass
+Hindocha-2019,BMC Anesthesiol,legacy,ice vs lidocaine 5% gel,verify-in-screening,legacy Tier-A study; confirmed via title match in screening pass
+Lakshmanan-2021,Int J Clin Pediatr Dent,legacy,cryotherapy vs LA children,verify-in-screening,legacy Tier-A study; confirmed via title match in screening pass
+Peedikayil-2024,J Dent Anesth Pain Med,legacy,cryotherapy adjunct MIH,verify-in-screening,legacy Tier-A study; confirmed via title match in screening pass
+Abbasi-2023,J Oral Dis Diagn Ther,legacy,ethyl chloride vs lidocaine gel,verify-in-screening,legacy Tier-A study; confirmed via title match in screening pass
+Abdelrahman-2026,Front Dent Med,legacy,ethyl chloride vs benzocaine children,verify-in-screening,legacy Tier-A study; confirmed via title match in screening pass
+Akhgar-2025,Emerg Med J,legacy,vapocoolant vs lidocaine-prilocaine cannulation,verify-in-screening,legacy Tier-A study; confirmed via title match in screening pass
+Roongpisuthipong-2023,J Am Acad Dermatol,legacy,ice vs lidocaine-prilocaine laser hair removal,verify-in-screening,legacy Tier-A study; confirmed via title match in screening pass
+Kuwahara-2001,Dermatol Surg,legacy,ice vs EMLA dermatologic procedures,verify-in-screening,legacy Tier-A study; confirmed via title match in screening pass
+Gupta-2020,Indian J Drugs Dermatol,legacy,cryogel/ice vs topical anesthetics,verify-in-screening,legacy Tier-A study; confirmed via title match in screening pass
+Garrido-2026,Front Med,legacy,ethyl chloride vs mepivacaine etonogestrel implant,verify-in-screening,legacy Tier-A study; confirmed via title match in screening pass

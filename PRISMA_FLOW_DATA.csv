@@ -1,0 +1,19 @@
+stage,quantity,n
+Identification,records identified from databases,18105
+Identification,PubMed,9509
+Identification,OpenAlex,6239
+Identification,ClinicalTrials.gov,357
+Identification,Crossref,2000
+Screening,duplicate records removed,6580
+Screening,records screened (title),11525
+Screening,records excluded (title),8527
+Eligibility,records assessed at abstract/metadata level,2998
+Eligibility,records excluded (abstract),1785
+Eligibility,reports assessed for eligibility,1213
+Eligibility,reports excluded at eligibility,708
+Included,primary study reports included,414
+Included,Tier A (direct LA comparator),126
+Included,Tier B (indirect comparator),177
+Included,Tier C (noncomparative),111
+Tracked separately,synthesis reports,49
+Tracked separately,protocols/ongoing,42

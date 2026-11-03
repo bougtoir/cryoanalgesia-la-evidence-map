@@ -1,0 +1,108 @@
+{
+ "manifest": [
+  {
+   "source": "OpenAlex",
+   "platform": "OpenAlex API (open index; declared substitute for Scopus/WoS \u2014 no subscription access)",
+   "date": "2026-11-03",
+   "query_id": "OA1_core",
+   "query": "(cryoanalgesia OR cryoanesthesia OR cryoneurolysis OR cryoablation OR vapocoolant OR \"ethyl chloride\" OR \"ice massage\") AND (\"local anesthetic\" OR \"local anesthesia\" OR lidocaine OR bupivacaine OR ropivacaine OR mepivacaine OR EMLA OR \"nerve block\" OR epidural OR \"regional anesthesia\" OR \"topical anesthetic\" OR benzocaine)",
+   "filters": "none",
+   "language": "all (English applied at screening)",
+   "date_restriction": "none",
+   "raw_hits": 6141,
+   "exported_records": 2000,
+   "export_file": "/home/ubuntu/pm_work/exports/openalex_OA1_core.json"
+  },
+  {
+   "source": "OpenAlex",
+   "platform": "OpenAlex API (open index; declared substitute for Scopus/WoS \u2014 no subscription access)",
+   "date": "2026-11-03",
+   "query_id": "OA2_cryo_pain",
+   "query": "(cryoanalgesia OR cryoanesthesia OR cryoneurolysis OR cryoablation OR vapocoolant OR \"ethyl chloride\" OR \"ice massage\") AND (analgesia OR pain OR anesthesia)",
+   "filters": "none",
+   "language": "all (English applied at screening)",
+   "date_restriction": "none",
+   "raw_hits": 15828,
+   "exported_records": 2000,
+   "export_file": "/home/ubuntu/pm_work/exports/openalex_OA2_cryo_pain.json"
+  },
+  {
+   "source": "ClinicalTrials.gov",
+   "platform": "API v2",
+   "date": "2026-11-03",
+   "query_id": "ctgov_cryoanalgesia",
+   "query": "cryoanalgesia",
+   "filters": "none",
+   "language": "n/a",
+   "date_restriction": "none",
+   "raw_hits": 49,
+   "exported_records": 49,
+   "export_file": "/home/ubuntu/pm_work/exports/ctgov_cryoanalgesia.json"
+  },
+  {
+   "source": "ClinicalTrials.gov",
+   "platform": "API v2",
+   "date": "2026-11-03",
+   "query_id": "ctgov_cryoneurolysis",
+   "query": "cryoneurolysis",
+   "filters": "none",
+   "language": "n/a",
+   "date_restriction": "none",
+   "raw_hits": 62,
+   "exported_records": 62,
+   "export_file": "/home/ubuntu/pm_work/exports/ctgov_cryoneurolysis.json"
+  },
+  {
+   "source": "ClinicalTrials.gov",
+   "platform": "API v2",
+   "date": "2026-11-03",
+   "query_id": "ctgov_cryoablation_AND_analgesia",
+   "query": "cryoablation AND analgesia",
+   "filters": "none",
+   "language": "n/a",
+   "date_restriction": "none",
+   "raw_hits": 41,
+   "exported_records": 41,
+   "export_file": "/home/ubuntu/pm_work/exports/ctgov_cryoablation_AND_analgesia.json"
+  },
+  {
+   "source": "ClinicalTrials.gov",
+   "platform": "API v2",
+   "date": "2026-11-03",
+   "query_id": "ctgov_cryoablation_AND_pain",
+   "query": "cryoablation AND pain",
+   "filters": "none",
+   "language": "n/a",
+   "date_restriction": "none",
+   "raw_hits": 126,
+   "exported_records": 126,
+   "export_file": "/home/ubuntu/pm_work/exports/ctgov_cryoablation_AND_pain.json"
+  },
+  {
+   "source": "ClinicalTrials.gov",
+   "platform": "API v2",
+   "date": "2026-11-03",
+   "query_id": "ctgov_vapocoolant",
+   "query": "vapocoolant",
+   "filters": "none",
+   "language": "n/a",
+   "date_restriction": "none",
+   "raw_hits": 34,
+   "exported_records": 34,
+   "export_file": "/home/ubuntu/pm_work/exports/ctgov_vapocoolant.json"
+  },
+  {
+   "source": "ClinicalTrials.gov",
+   "platform": "API v2",
+   "date": "2026-11-03",
+   "query_id": "ctgov_ethyl_chloride_spray",
+   "query": "ethyl chloride spray",
+   "filters": "none",
+   "language": "n/a",
+   "date_restriction": "none",
+   "raw_hits": 45,
+   "exported_records": 45,
+   "export_file": "/home/ubuntu/pm_work/exports/ctgov_ethyl_chloride_spray.json"
+  }
+ ]
+}

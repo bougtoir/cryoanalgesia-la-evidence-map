@@ -1,0 +1,21 @@
+quantity,value
+records_identified_total,18105
+records_pubmed,9509
+records_openalex,6239
+records_ctgov,357
+records_crossref,2000
+records_after_dedup,11525
+title_screened,11525
+title_excluded,8527
+abstract_assessed,2998
+abstract_excluded,1785
+eligibility_assessed,1213
+primary_study_reports,414
+tier_A,126
+tier_B,177
+tier_C,111
+synthesis_reports,49
+protocols_ongoing,42
+language_policy,"English-only (prospective, declared)"
+searched_databases,"['PubMed', 'OpenAlex', 'ClinicalTrials.gov', 'Crossref']"
+blocked_sources,OpenAlex OA6-OA8 quota; CENTRAL/WHO ICTRP/Embase/Scopus/WoS not accessible
