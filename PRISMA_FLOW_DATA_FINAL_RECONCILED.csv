@@ -1,0 +1,21 @@
+quantity,n
+records identified from databases,43969
+MEDLINE via PubMed,9532
+CENTRAL,622
+Scopus,33453
+ClinicalTrials.gov,362
+duplicate records removed,20467
+records screened (title),23502
+records excluded at title,19143
+reports assessed at abstract/metadata,4359
+reports excluded at abstract,3128
+reports assessed for eligibility,1231
+reports excluded at eligibility,662
+primary study reports included,428
+unique cohorts,420
+linked secondary reports,8
+Tier A (direct LA comparator),124
+Tier B (indirect comparator),152
+Tier C (noncomparative),144
+synthesis reports,101
+protocols/ongoing,40
