@@ -1,0 +1,31 @@
+metric,value
+records_identified_total,43969
+records_pubmed,9532
+records_central,622
+records_scopus,33453
+records_ctgov,362
+records_after_dedup,23502
+title_screened,23502
+title_excluded,19143
+abstract_assessed,4359
+abstract_excluded,3128
+eligibility_assessed,1231
+eligibility_excluded,662
+primary_study_reports,430
+unique_cohorts,422
+tier_A,131
+tier_B,145
+tier_C,146
+synthesis_reports,100
+protocols_ongoing,39
+randomized_primary,179
+cohort_observational_primary,108
+linked_secondary_reports,8
+sensory_testing_excluded,3
+non_analgesic_cryoablation_excluded,2
+non_patient_or_consensus_excluded,2
+clinical_domain_counts,"{""other_procedural"": 32, ""chronic_pain_neurolysis"": 54, ""orthopedic_msk"": 48, ""thoracic_chestwall"": 138, ""periop_other"": 36, ""vascular_access"": 57, ""dental_oral"": 36, ""obstetric_periop"": 10, ""derm_office"": 19}"
+language_policy,English full text only (registered policy)
+search_date,2026-11-09
+osf_doi,10.17605/OSF.IO/KJ5RS
+notes,"Clinical-semantic repair: sensory/diagnostic-testing cold (3), non-analgesic cryoablation (2), non-patient/consensus records (2) excluded; domain re-audited hierarchically (new obstetric_periop domain); tiers recomputed on comparator semantics; cohorts = conservative merges."

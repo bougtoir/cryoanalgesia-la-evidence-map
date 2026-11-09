@@ -1,0 +1,438 @@
+record_id,citation,old_tier,retained_yes_no,new_tier,LA_comparator_yes_no,comparator_semantics,therapeutic_cryo_yes_no,rationale
+R011c472188,Wang JK 1985 Pain,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R0199b3fc28,Zakrzewska JM 1988 Br J Oral Maxillofac Surg,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R01c1639d1d,Tsiplakos P 2025 Cureus,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R020fea803d,Song SH 2022 Medicine (Baltimore),A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R046e900c90,Ravindhran B 2019 World J Surg,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R0501bfee08,Ebner CA 1996 Issues Compr Pediatr Nurs,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R05ed166d37,Li F 2014 Exp Ther Med,B,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R06142e8bc4,Drake L 2026 Innovations (Phila),B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R062fedbd76,Jiravisitkul P 2026 World J Clin Pediatr,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R074af0228d,Toselli L 2024 J Pediatr Surg,B,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R07c67ea6f1,Milleret R. 1983 Journal Des Maladies Vasculaires,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R08f1b3981d,Sepsas E 2013 Interact Cardiovasc Thorac Surg,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R0966aa9e3a,Nicolás M 2022 Ultrasound J,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R09fc4d058b,Bianco GL 2025 Pain Ther,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R0afd5f9f8a,Melzack R 1980 Pain,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R0b4583d59b,"ChiCTR-TRC-14004790 2014 https://trialsearch.who.int/Trial2.aspx?TrialID=ChiCTR-TRC-14004790, 2014 | adde",C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R0cc6bf3d6e,Puangrab S 2025 Adv Clin Exp Med,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R0dbc514dda,Nemecek Z 2023 Pain Manag,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R0eebc3be03,Farahmand S 2017 Acta Med Iran,B,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R0fa9c19c16,Graves C 2017 J Pediatr Surg,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R100457ab75,McElhinney KL 2024 Pediatr Blood Cancer,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R1059c5d105,Cohen Reis E 1997 Pediatrics,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R11ccfeb951,Akdemir MA 2026 J Perianesth Nurs,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R11d19032ae,Filipovski I 2024 Cureus,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R120c2b06b0,Wolter T 2011 Acta Neurochir (Wien),C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R12127ae45a,Moesker AA 2014 Pain Pract,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R129688c7f9,Tailliez N 2025 Pain Manag Nurs,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R13a2099783,Laktašić Žerjavić N 2021 Psychiatr Danub,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R14e072a633,Clark RA 2022 J Am Coll Surg,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R151338afbd,Foster L 2026 Trauma Case Rep,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R155875ceb0,Parrado R 2019 J Laparoendosc Adv Surg Tech A,B,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R16871d452d,Ilfeld BM 2023 Anesthesiology,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R16a11cfc66,Weksler B 2025 J Thorac Cardiovasc Surg,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R17bfed0832,Momenzadeh S 2011 Acta Med Iran,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R17c80883c2,Fossum K 2016 Am J Emerg Med,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R181c72fd4b,Yasin J 2020 Diagn Interv Radiol,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R185bfb4664,Lathwal G 2015 Int J Clin Pediatr Dent,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R188343bcb8,Prologo JD 2020 Am J Hosp Palliat Care,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R19e6ad4a14,David Prologo J 2013 J Vasc Interv Radiol,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R1a58f5705c,Hashemi M 2026 Am J Phys Med Rehabil,A,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R1c09853571,Gabriel RA 2020 Korean J Anesthesiol,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R1cb6117866,Koliakos E 2025 J Thorac Cardiovasc Surg,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R1cf3ba191f,Sujka J 2018 J Laparoendosc Adv Surg Tech A,C,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R1e34411d10,Dokollari A. 2023 Reviews in Cardiovascular Medicine,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R1f08988e8f,"CTRI/2024/05/067452 2024 https://trialsearch.who.int/Trial2.aspx?TrialID=CTRI/2024/05/067452, 2024 | adde",C,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R1f0f3bd730,Roxburgh JC 1987 Thorax,A,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R1f50ba970e,Koons B 2023 JTCVS Open,A,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R1fe3a9ac56,Ng MK 2026 J Arthroplasty,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R1ff12a6098,Stasiak F 2026 Cancer Treat Res Commun,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R2038cbd8f8,Raja SG 2026 Med Sci (Basel),B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R20baf9d72a,Kelechi TJ 2018 Int J Nurs Stud,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R2465d4fe71,"NCT06213155 2024 https://clinicaltrials.gov/study/NCT06213155, 2024 | added to CENTRAL: 30 April",B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R24d1e72021,Steele TO 2020 Int Forum Allergy Rhinol,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R25dca99007,Chary A 2022 Semin Intervent Radiol,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R262f2db9da,Heitsman CG 2026 J Pediatr Surg,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R26b04b09d6,Chittora M 2024 J Indian Soc Pedod Prev Dent,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R2703fc3a9f,Hershfeld B 2026 Cureus,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R27149455fb,Baxter AL 2009 Clin J Pain,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R272fe038db,Filippiadis D 2021 Cardiovasc Intervent Radiol,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R2879812a13,Maxwell S 2013 Man Ther,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R28da858a28,"NCT04786145 2021 https://clinicaltrials.gov/show/NCT04786145, 2021 | added to CENTRAL: 31 March 2",C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R290392037f,Kvarstein G 2019 Scand J Pain,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R297b6604a9,Park YH 2019 Arch Orthop Trauma Surg,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R2a55e33f7a,Yang MK 2004 Anaesthesia,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R2a831e4d78,Seow-En I 2025 Ann Coloproctol,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R2aa7f1e2da,Zeineddin S 2023 J Pediatr Surg,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R2abbe1e980,Jacq G 2026 Aust Crit Care,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R2c09f76849,Young S 2026 Am J Hosp Palliat Care,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R2c80c909fa,Cruz Álvarez JE 2025 Cureus,C,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R2cca350621,Sahoo RK 2021 A A Pract,C,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R2cd08d5a84,Al-Waeli H.R. 2025 International Journal of Body Mind and Culture,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R2d08f46c71,Smiley A 2018 AANA J,B,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R2d77ada343,Glynn CJ 1980 Thorax,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R2d8ffb7b10,McCaffrey JM 2026 Surg Oncol,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R2e06d90b4c,Joucken K 1987 Acta Anaesthesiol Belg,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R2e6bc681b5,Anderson AB 2024 J Orthop Trauma,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R2ecef89b3e,Tsyhankov O.V. 2025 Journal of V N Karazin Kharkiv National University Series Medicine,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R2ed6befb97,Ilfeld BM 2022 Anesthesiology,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R2f8cbc9105,Rashid RM 2025 Pain Physician,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R323ca56688,Fraser JA 2022 J Pediatr Surg,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R3257bab0c0,Vejdanihemmat V. 2025 Complementary Therapies in Medicine,B,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R32c0ef7779,Clemence J Jr 2020 Semin Thorac Cardiovasc Surg,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R32eb83e66c,Eldafrawi S 2025 Sci Rep,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R3330239e2a,Ikeda K 2010 Gan To Kagaku Ryoho,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R333c0e2833,Villalta CI 2024 Trauma Surg Acute Care Open,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R3492002401,von Falck C 2022 Cardiovasc Intervent Radiol,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R35023f5a7c,Mejia S 2026 PM R,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R35bfcb46d1,Gyorfi M. 2024 Perioperative Pain Management A Clinical Guide,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R364d19144d,Mammana M 2026 Updates Surg,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R371ec510a8,Katz J 1980 Lancet,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R37319a45b7,Santana L 2025 Eur J Pediatr Surg,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R37b9c01dc1,Tung J 2022 J Robot Surg,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R38c3678c14,Ghasemi M 2022 BMC Pediatr,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R38c70084a9,Moorjani N 2001 Eur J Cardiothorac Surg,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R38d17ac131,Dalili D 2021 Skeletal Radiol,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R391aa328f4,Jayasuriya NSS 2017 Singapore Dent J,C,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R39233e542d,Kılbasanlı S 2026 BMC Pregnancy Childbirth,A,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R3b5af34d49,Parrish MT 2026 Pediatr Surg Int,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R3b80c70291,Lee K 2023 Appl Nurs Res,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R3bb8b372f8,Bellini M 2015 Anaesthesiol Intensive Ther,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R3cd2affa6f,Ebrahimi-Rigi H. 2016 Der Pharmacia Lettre,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R3d1300a685,Zacha S 2022 Front Pediatr,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R3e01ba7e71,Drake L 2026 JTCVS Open,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R3e13d2f38d,Nezami N 2023 J Vasc Interv Radiol,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R3ef7214fd9,Rice S 2026 Pediatr Dermatol,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R3f2d300c16,Arshad SA 2022 J Surg Res,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R3ff4830a96,Ferrillo MG 2025 Pain Physician,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R402743bbdc,Abdelrahman N 2026 Front Dent Med,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R40c20ce4fc,Moon YE 2013 Arch Phys Med Rehabil,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R40cfea15d8,Marotta N. 2025 Journal of Sports Medicine and Physical Fitness,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R410ca8330e,Rotenberg BW 2013 Laryngoscope,B,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R415bb8e376,Pucks N 2015 J Plast Reconstr Aesthet Surg,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R4215d560e2,Lai K 2022 J Laparoendosc Adv Surg Tech A,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R421b7889b3,Maiwand MO 1986 J Thorac Cardiovasc Surg,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R4258b29173,Rettig RL 2021 Pediatr Surg Int,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R437def7d82,Yoon JH 2016 J Vasc Interv Radiol,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R4397307a86,Sutthapakti B 2026 Knee,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R45247c3b73,Kotel'nikov V.P. 1989 Fel Dsher I Akusherka,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R45cf2b7574,France JE 2008 Eur J Emerg Med,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R45e7ba2314,Fattahi B 2025 J Endod,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R46153006ad,Szostawicki M. 2026 Polish Annals of Medicine,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R46cdbd552b,Radnovich R 2017 Osteoarthritis Cartilage,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R483d5a3246,Hegde BN 2023 J Pediatr Surg,C,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R487006042e,Aminabadi NA 2009 J Contemp Dent Pract,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R48b6ed5a40,AmruthaVarshini I 2021 Int J Clin Pediatr Dent,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R48d9bb8276,Semerci R 2023 J Pediatr Nurs,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R49297e1c14,Pourak K 2024 Interdiscip Cardiovasc Thorac Surg,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R4986062096,Stapleton G 2025 Curr Pain Headache Rep,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R4998388ccd,Finneran Iv JJ 2020 Korean J Anesthesiol,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R4a75628220,Tanaka S 2026 Anesth Pain Med (Seoul),B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R4aae6ca2ea,Forrester JD 2026 J Trauma Acute Care Surg,B,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R4b42b1ece2,Ng MK 2026 J Arthroplasty,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R4caf1c09c9,Dhingra N 2022 J Clin Pediatr Dent,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R4e4bdbc7d9,Yao YH 2005 Di Yi Jun Yi Da Xue Xue Bao,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R4f3254c073,Rao PB 2019 Anesth Essays Res,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R50185574d2,Melzack R 1980 Can Med Assoc J,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R510d994c75,Ba YF 2015 Surg Today,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R51c5737c94,Carmona A 2026 J Surg Res,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R522cee26ef,Sailer A 2025 Semin Intervent Radiol,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R52b9bf2ee8,Hashemi M 2025 Am J Phys Med Rehabil,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R52c74fb661,Moore W 2010 Acad Radiol,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R53fd165b40,"S Bauones, A AlAwaji, M Aldosary, Z Almoabid, U Alshaya 2024 Cardiovascular and interventional radiology, 2024, 47, S515 | added to CENTRAL:",B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R554ba757b1,Cadaval Gallardo C 2020 Cir Pediatr,A,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R55b8b51789,Sir Ö 2025 J Perianesth Nurs,B,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R55fb2471e2,Zandi M 2016 Int J Oral Maxillofac Surg,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R5769a0e682,Green A 2025 J Pediatr Surg,C,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R57cb9f6f1a,Payne R 2026 J Pediatr Surg,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R57da93048b,Robles-Gea M.J. 2026 Enfermeria Nefrologica,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R58c4f5c09b,Katyal S 2025 Med Int (Lond),A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R5979ff2cf0,Francisco AA 2018 Women Birth,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R5a856fd968,Torre M 2020 Front Pediatr,B,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R5c2c7eb2e8,Akhgar A 2025 Emerg Med J,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R5c2cab29e5,Gologorsky R 2021 Pediatr Surg Int,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R5e3290a44b,Attia AAM 2017 Int J Nurs Sci,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R5eed38c4d4,Lloyd JW 1976 Lancet,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R603908c76f,Baldawa HS 2026 Int J Clin Pediatr Dent,B,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R60b9f021e5,Pamuk Ç 2025 Medicine (Baltimore),B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R60d9b5e181,Piasecki-Masters C 2026 Am J Phys Med Rehabil,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R619f22f874,Drake L 2026 Ann Surg,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R624a767c74,Forrester JD 2025 Injury,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R637605eb77,Isaza E 2023 Pain Ther,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R63ba642897,Pilkington M 2020 J Pediatr Surg,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R648a04171f,Ju H 2008 Eur J Pain,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R64dab30857,Pitt JB 2024 J Pediatr Surg,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R64f6468887,Swisher MW 2022 Pain Ther,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R658ee75f2c,González-Suárez S 2026 BMC Anesthesiol,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R65b3c24847,Hajiamini Z 2012 Complement Ther Clin Pract,C,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R6629bf6e18,Chihara R 2026 Ann Thorac Surg Short Rep,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R66380b05a1,Nazer S 2023 Anesth Pain Med,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R666ef4069d,Gautam S 2024 Indian J Anaesth,A,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R667ec1a8cc,Keller BA 2016 J Pediatr Surg,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R66d855c524,Zhao F 2001 Zhonghua Wai Ke Za Zhi,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R66ffaed58c,Velayos M 2022 Eur J Pediatr Surg,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R68936e40dd,Evans JG 2015 J Hosp Infect,C,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R68fc253924,Dekonenko C 2020 J Pediatr Surg,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R6b1616ce4e,Davies EH 2006 Paediatr Nurs,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R6b70cc86f8,Malkin V. 1978 Zhurnal Voprosy Nejrokhirurgii Imeni N N Burdenko,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R6bc9e38dd8,Mont MA 2025 J Arthroplasty,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R6c32c4e477,Al-Waeli HR 2026 Niger Postgrad Med J,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R6d41960e49,Perez MN 2024 Semin Pediatr Surg,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R6dd8758c24,Tewari SO 2024 J Nucl Med Technol,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R6e3fbdfe24,Morikawa N 2018 J Laparoendosc Adv Surg Tech A,C,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R6f3b4750c3,Waters BL 2003 J Midwifery Womens Health,C,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R6fcc41c45a,"CTRI/2025/12/099308 2025 https://trialsearch.who.int/Trial2.aspx?TrialID=CTRI/2025/12/099308, 2025 | adde",C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R7003f381a3,Zhang LD 2008 Shanghai Kou Qiang Yi Xue,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R702da8be70,Song J 2018 Emerg Med J,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R70f6530b71,Alshahwan M 2020 J Cosmet Dermatol,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R70f99ee01e,Yano T 2024 J Anus Rectum Colon,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R71c8711089,Al-Edwan A 2026 J Cardiothorac Surg,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R727f5570f6,Paulsamy P. 2022 Journal of Healthcare Engineering,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R7281513584,Lateef T. 2018 Journal of Craniofacial Surgery,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R7281e9bf42,Jennewine BR 2023 Arthroplast Today,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R72ccdb4d4e,Khanbhai M 2014 Interact Cardiovasc Thorac Surg,C,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R7351a70374,Akan M 2003 Aesthetic Plast Surg,A,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R73e47bbf11,Talsma J 2023 J Pediatr Surg,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R752e155a91,Shah NM 2024 J Pharm Bioallied Sci,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R757ab85320,Zappa SC 1992 Cancer Nurs,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R75ef3859b4,Nabıyev VN 2018 Neurospine,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R7630e97b84,Collado-Mesa F 2015 Clin Radiol,B,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R77bc389da0,Rüsch D 2017 J Cardiothorac Vasc Anesth,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R7962c2cf6d,Natarajan B. 2026 World Journal of Dentistry,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R7bd90529fe,Friedman T 2012 J Ultrasound Med,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R7d36d2dab1,Masui K 2025 J Anesth,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R7d93ea3a41,Zappa S. 1991 Journal of Pediatric Oncology Nursing Official Journal of the Association of Pediatric Oncology Nurses,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R7e1ec91d94,Huang L 2015 Postgrad Med,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R81eac60e0a,Walsh P 2010 Int J Obstet Anesth,A,no,,,excluded: sensory-testing-only cold role,no,C4 exclusion
+R8280327b2e,Anjitha T 2025 J Conserv Dent Endod,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R83653b7048,Rasooli F 2020 Turk J Emerg Med,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R83ee97312d,Pechetov AA 2021 Khirurgiia (Mosk),C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R859e8f196b,Çelik EG 2024 J Emerg Nurs,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R87d54ce8a1,Goldberg D 2025 Am J Hosp Palliat Care,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R880d3b6bbf,Solomon SS 2019 J Clin Gastroenterol,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R886ab82181,Maganur PC 2025 Children (Basel),A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R88c07545a7,Çelik G 2011 Int J Med Sci,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R88dec94bda,Coelho RP 2015 J Cataract Refract Surg,B,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R8982af51b6,Kontochristopoulos G. 2006 Dermatologic Surgery,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R899fb1e178,Mace SE 2017 Scand J Pain,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R89ecd4686a,Finneran JJ 2024 Cureus,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R8a3b574d2b,Khezri MB 2022 BMC Res Notes,B,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R8aa7ffdad5,Linton SC 2024 Ann Surg,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R8aab10c49c,Koç M 2006 Hernia,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R8b33ccb2a7,Mawhorter S 2004 J Travel Med,A,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R8bde13e2b6,Gough JD 1988 Anaesthesia,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R8c4390d485,Moon YE 2020 Arch Phys Med Rehabil,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R8cd511412a,Zacha S 2023 J Pers Med,A,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R8d9f4fc109,Farion KJ 2008 CMAJ,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R8da57dbee1,Ilfeld BM 2026 Anesthesiology,A,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R8ef42ac69d,Kose O 2010 Foot Ankle Spec,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R8f29fa036c,Stogicza AR 2022 Reg Anesth Pain Med,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R90383bf1fc,Truong K 2024 RMD Open,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R90e7f0e6ed,Chaou CH 2009 Clin Toxicol (Phila),B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R917c48bfd2,Bykar H 2025 Int J Obstet Anesth,B,no,,,excluded: sensory-testing-only cold role,no,C4 exclusion
+R920510bfad,Pool SMW 2015 Plast Reconstr Surg,B,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R9326d5e533,Pick A 2025 Adv Rehabil Sci Pract,A,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R939be6a7b8,Callesen T 1998 Anesth Analg,B,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R93e9fc556f,Rapčan R 2026 Eur Spine J,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R94ebfba790,Robinson PA 2007 Emerg Med Australas,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R954e820d9a,Rai S 2024 J Dent Anesth Pain Med,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R95748a4233,Mielniczuk H. 1990 Zeitschrift Fur Physikalische Medizin Balneologie Med Klimatologie,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R95cae72e9a,"CTRI/2024/04/065130 2024 https://trialsearch.who.int/Trial2.aspx?TrialID=CTRI/2024/04/065130, 2024 | adde",A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R95e76dbfd8,Perez Holguin RA 2023 J Pediatr Surg,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R961d87dfa6,Goebel MC 2026 Eur Arch Paediatr Dent,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R97aa9a01ad,Barbour T 2018 Pain Manag Nurs,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R99247f0577,Maxwell CM 2023 Innovations (Phila),A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R99b7502bda,Basak T 2021 J Infus Nurs,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R99c62a2195,Bhargava M 2026 Int J Clin Pediatr Dent,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R9ab39ed3f5,Rim GM 2024 Eur J Pediatr Surg,A,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R9b5564501e,Ghaderi F 2013 Dent Res J (Isfahan),A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R9c2237c1ac,Cachemaille M 2023 Pain Pract,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R9c7a6bcb13,Gupta NK 2017 World J Pediatr,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R9c7ae48bf6,LAUTSEVICHUS LZ 1962 Kardiologiia,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R9ccf655712,Chilakamuri S 2020 J Dent Anesth Pain Med,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R9cf7301f60,Holmström A. 2005 Journal of Arthroplasty,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R9d135d3a4e,Wood GJ 1981 Anaesthesia,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+R9d2a3858bd,Ilfeld BM 2026 Reg Anesth Pain Med,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+R9efd063b93,Gallusser N 2019 Orthop Traumatol Surg Res,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+R9fed16bfa4,Kudu E 2026 J Emerg Med,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Ra047165816,Lau WC 2021 Pain Ther,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+Ra19ad964f1,Winston P 2023 Am J Phys Med Rehabil,B,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Ra2557eb929,Shah A 2018 J Clin Ultrasound,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Ra257d1434b,Bhadauria US 2017 Clujul Med,A,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Ra278e1ef39,Baelen E 1994 Ann Fr Anesth Reanim,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Ra27c2bf152,Gungor S 2024 Sci Rep,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Ra2d9a8fd8b,Barnard D 1981 J Maxillofac Surg,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Ra3ee1ccce1,Brinker MR 1988 J Vasc Surg,C,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Ra448922d6e,Alsantali A 2018 Clin Cosmet Investig Dermatol,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+Ra54b7bd235,Arshad SA 2021 J Pediatr Surg,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Ra5f2b9852c,Shafii Z. 2020 Journal of Nephropharmacology,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Ra66ef18c04,Uz U 2026 Facial Plast Surg Aesthet Med,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Ra706b6c867,Forrester JD 2026 J Am Coll Surg,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Ra7716a78ef,Irkoren S 2015 Ann Plast Surg,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+Ra8c975c798,Pastor J 1996 Respiration,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Ra91051123f,Ballesteros-Peña S 2017 Emergencias,B,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+Ra916c1a2ae,Moon YE 2017 J Anesth,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+Ra99b52d83d,Lung BE 2022 Life (Basel),B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rab3b075618,Mihalko WM 2021 J Arthroplasty,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rabc347552c,Calandria L 2011 Int J Dermatol,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rac39a7bff2,Huang J 2022 Semin Intervent Radiol,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rac74a86eaa,Hornabrook RW 1929 Br Med J,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rac9df77f99,Murgier J 2014 Orthop Traumatol Surg Res,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Racaa0f17b0,van Polen E 2026 Multimed Man Cardiothorac Surg,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Racdecfcba9,Young S 2025 J Pers Med,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Raf181387f9,Vellaiyan A. 2025 Journal of Medicinal and Pharmaceutical Chemistry Research,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+Raf36daf8b0,Gao P 2022 Evid Based Complement Alternat Med,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Raf7af0f105,"V Kurfirst, A Mokracek, J Krbec 2022 Chest, 2022, 161(1), A48 | added to CENTRAL: 28 February 2022 | 2022 Issue 02 Em",C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rb162c5cabd,Coelho Neto F. 2020 Dermatologic Surgery,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rb2d3f4e15c,Nakazawa J 2025 Ann Thorac Cardiovasc Surg,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rb317ad3821,Iglesias NJ 2025 J Pediatr Surg,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+Rb34b0a9ab6,Borghate P 2025 J Korean Assoc Oral Maxillofac Surg,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rb3be28c505,Yaman Aktaş Y. 2021 Complementary Medicine Research,B,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rb56075c76a,Gogol P 2026 Med Sci Monit,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rb67c795c2e,Rekawek P 2021 J Matern Fetal Neonatal Med,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+Rb68b202701,van Braak H 2024 Eur J Pediatr Surg,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+Rb72f50eae9,Aiken TJ 2021 J Pediatr Surg,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+Rb8290f6876,Sudha PM 2024 Int J Clin Pediatr Dent,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+Rb97569d09b,Onyancha S 2025 Open Respir Arch,C,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rb988201ad4,Bakır E 2026 Hemodial Int,C,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rbb0530f584,Mascia D 2022 Int Angiol,B,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rbb23243119,Taherian T. 2020 Advances in Integrative Medicine,B,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rbbe91cdb9c,Page DE 2010 Br J Anaesth,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+Rbc4cb787ed,Burke CJ 2020 Acad Radiol,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rbc55eebbcf,Zeiderman MR 2018 Eplasty,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rbc7c597d4d,Marturano MN 2023 Injury,B,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rbd53784d83,Bastianello M 2025 Paediatr Anaesth,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+Rbe6136732c,Kwater A.P. 2025 Jca Advances,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rbea4727dae,Johannesen N 1990 Ann Chir Gynaecol,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rbea6ca5024,Jelly P 2026 Pain Manag,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rbebdcd3ff3,Armstrong P 1990 Can J Anaesth,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+Rbf0b96d1bd,Dalvandi A 2017 Am J Emerg Med,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+Rc008870e09,Saeliw P 2010 J Med Assoc Thai,C,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rc065a40df1,"NCT03774121 2018 https://clinicaltrials.gov/ct2/show/NCT03774121, 2018 | added to CENTRAL: 31 Mar",C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rc067bcf037,Kastler A 2018 J Neuroradiol,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rc06a9fb312,Ilfeld BM 2024 Anesth Analg,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+Rc11c99300f,Winkeler I.T. 2026 Current Challenges in Thoracic Surgery,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rc1870400ee,Milleret R 1983 J Mal Vasc,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rc195bd8987,Prologo JD 2017 J Vasc Interv Radiol,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rc1eb87e894,Gabriel RA 2019 A A Pract,A,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rc343aac46d,Brichon PY 1994 Eur J Cardiothorac Surg,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+Rc44ffa6793,Lee N 2026 Int J Nurs Stud,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rc4b1de2a96,Shields JK 2023 J Minim Invasive Gynecol,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rc5620c1688,Galor A 2026 Ophthalmol Ther,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rc56cf6f280,Moulin B 2024 Cardiovasc Intervent Radiol,C,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rc5e412f7e6,Bilge S 2019 Saudi Med J,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rc65340598e,Young S 2026 Cardiovasc Intervent Radiol,C,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+Rc6582d8ff7,Moon YE 2014 Am J Phys Med Rehabil,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rc68d3b9d41,Jarrin Lopez A 2026 Front Pediatr,A,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rc7d0fe82bb,Al Shahwan MA 2012 Dermatol Surg,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+Rc7f42e9de6,Gwak MS 2004 J Korean Med Sci,C,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rc80a584279,Kol E 2023 Clin Nurs Res,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rc83b931914,Papadakis L 2026 J Pediatr Surg,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+Rc974a93605,Wharton K 2024 J Surg Res,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+Rc9c76ceaf8,Shaffer JP 2022 Orthop J Sports Med,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rcaa0c4c5af,Das G 2023 Indian J Anaesth,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rcac989e71b,Tanaka A 2020 Ann Thorac Surg,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+Rcad900ab9e,Lo Bianco G 2025 J Clin Med,C,no,,,excluded: sensory-testing-only cold role,no,C4 exclusion
+Rcc7ec24554,Scalise P.N. 2024 Journal of Pediatric Surgery,B,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rcd6cbea867,Gutiérrez-Carmona FJ 2005 J Cataract Refract Surg,B,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+Rcd77c831af,Abbasi H 2023 SAGE Open Med,B,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+Rcff0974212,Soueid A 2007 Pediatr Emerg Care,A,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rd1829ae181,Arshad SA 2023 Ann Surg,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rd1acbdde60,Tsyhankov O.V. 2023 Ukrainian Journal of Radiology and Oncology,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rd27213a16b,Vera J 2018 J Endod,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rd2891a3260,Latour C 2024 J Vasc Interv Radiol,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rd2f38fdc37,Unal N 2021 Clin Nurs Res,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rd360915486,Echevarria-Uraga JJ 2016 Respirology,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rd4236aa08a,Gürdap Z 2022 J Clin Pharm Ther,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rd57be4b4c2,Bauones S 2026 Cardiovasc Intervent Radiol,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rd5b5e1daff,Mace SE 2016 Am J Emerg Med,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+Rd6234b6093,Gritsenko K 2026 Orthop Rev (Pavia),C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rd62e030627,"T Kanni, E Agiasofitou, V Markantoni, V Tzanetakou, A Katoulis, S Gregoriou, D Rigopoulos, G Kontochristopoulos 2019 Skin appendage disorders, 2019, 5(2), 119‐120 | added to CENTRAL: 30 April 2019",C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rd69070d522,"NCT05276258 2022 https://clinicaltrials.gov/show/NCT05276258, 2022 | added to CENTRAL: 31 March 2",C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rd6adb20446,Evans PJ 1981 J R Soc Med,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rd6beeffdb1,Selvi F 2021 Am J Emerg Med,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+Rd744c9c872,Hijazi R 2009 BMJ,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rd781b5339e,Cornelis FH 2026 Cardiovasc Intervent Radiol,C,no,,,excluded: sensory-testing-only cold role,no,C4 exclusion
+Rd7cf84d820,Yarahmadi S 2018 Complement Ther Clin Pract,C,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rd82babbea1,Leegwater NC 2016 BMC Musculoskelet Disord,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rd8729ca12d,Xiao AX 2026 J Shoulder Elbow Surg,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rd877852fda,Müller LC 1989 Ann Thorac Surg,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rd8811a1d3f,Wang S 2024 JAMA Surg,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rd8866bfdfe,Miller DL 2025 Pain Ther,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rd92105f22e,Loten C 2006 Med J Aust,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rda64f7e086,Guynn CC 2025 Arch Rehabil Res Clin Transl,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rdacb79d6b1,Davangere Padmanabh SK 2024 J Dent Anesth Pain Med,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+Rdadf376398,Haynes JM 2015 Respir Care,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rdaea419298,Mustola ST 2011 Ann Thorac Surg,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+Rdb11805762,van Polen EJ 2026 Eur J Cardiothorac Surg,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+Rdb1a2968d0,Pereira JA 2026 Neurol Int,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rdbb901f079,Rooney SM 1986 Ann Thorac Surg,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rdc57626e12,Kalava A 2026 A A Pract,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rdcba2c3e36,Ushakov A.A. 2023 Regional Anesthesia and Acute Pain Management,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rdcedf548ff,Leventhal LC 2011 J Midwifery Womens Health,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rde056f399d,Costello M 2006 Clin Pediatr (Phila),B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rded6b55b7f,"CTRI/2023/03/050746 2023 https://trialsearch.who.int/Trial2.aspx?TrialID=CTRI/2023/03/050746, 2023 | adde",C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rdf1db9fcbc,Fujita K 2024 Schizophr Res,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rdf589680ec,Bittman RW 2019 Semin Intervent Radiol,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Re16aa8b334,Bastami M 2015 J Clin Diagn Res,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Re250a7ac0c,Gómez Sánchez A 2025 Cir Pediatr,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Re2948bf9d2,Shibata K 1993 J Ophthalmic Nurs Technol,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Re2dfea8635,Arab V 2017 J Caring Sci,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+Re30444a9aa,Elheeny AAH 2023 Pediatr Dent,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+Re34fc8eebb,Roongpisuthipong W 2023 J Am Acad Dermatol,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+Re47bc56ab7,Hare R 2026 J Pediatr Surg,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Re52a30a908,McMillan S 2023 Surg Technol Int,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Re56e0c8a93,Lu Q 2013 Eur J Cardiothorac Surg,B,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Re61cb44f9b,Watkins AA 2014 J Am Coll Surg,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Re82767a9e3,"NCT03836313 2019 https://clinicaltrials.gov/show/NCT03836313, 2019 | added to CENTRAL: 31 March 2",C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Re8603f9d7f,Waibel KH 2005 Ann Allergy Asthma Immunol,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Re86312843c,Abbasi H 2023 J Dent Res Dent Clin Dent Prospects,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+Re8ed4afa5a,Al-Waeli HR 2025 J Educ Health Promot,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Re8fecb0f8c,Mont MA 2025 J Arthroplasty,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+Re939ce69ce,Wasserlauf J. 2020 Journal of Cardiovascular Electrophysiology,C,no,,,excluded: sensory-testing-only cold role,no,C4 exclusion
+Rea21a88465,Im YG 2012 J Oral Rehabil,B,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Reb1ecf1521,Velayos M 2023 Eur J Pediatr Surg,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rec652760c3,Yilmaz A 2025 Pain Res Manag,B,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Reca340ccfa,Wikner M 2026 Int J Obstet Anesth,A,no,,,excluded: sensory-testing-only cold role,no,C4 exclusion
+Rece5415b21,"NCT04482582 2020 https://clinicaltrials.gov/study/NCT04482582, 2020 | added to CENTRAL: 31 August",C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Red5424abe1,Oliveira SM 2012 J Clin Nurs,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Red637f197b,Khosravi Pour A 2023 BMC Anesthesiol,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+Redc51187e5,Kočan L 2026 Spine (Phila Pa 1976),B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rede2c85169,Kol E 2013 Pain Manag Nurs,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Redf7ca29b4,Moon JT 2025 Cardiovasc Intervent Radiol,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Redfdf5062f,Singh K 2024 Int J Clin Pediatr Dent,B,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+Ref4110c9e2,Finneran Iv JJ 2021 Expert Rev Med Devices,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+Refe566417c,Djebbar S 2016 Semin Musculoskelet Radiol,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rf092583240,Trinder R 2022 J Small Anim Pract,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rf130e8e7cf,Bucerius J 2000 Ann Thorac Surg,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+Rf2063d055f,"NCT06443931 2024 https://clinicaltrials.gov/study/NCT06443931, 2024 | added to CENTRAL: 30 June 2",C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rf218285b24,Tank JC 2021 J Trauma Acute Care Surg,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+Rf258321026,Goss A 2020 Br J Oral Maxillofac Surg,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rf36b394cbd,Simons JF 2026 ANZ J Surg,B,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rf3c92b02d9,Gurucharan I 2022 Clin Oral Investig,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+Rf431c59789,Khiroya RC 1986 Anaesthesia,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rf4fb8942b0,Jalloul Y. 2020 Journal of Cardiovascular Electrophysiology,C,no,,,excluded: sensory-testing-only cold role,no,C4 exclusion
+Rf523041ded,Saito N 2004 J Arthroplasty,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rf581fed49a,Sarifakioglu N 2004 Ann Plast Surg,B,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rf5de0e590e,Toavs TL 2026 J Arthroplasty,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rf5f2fc211f,Edwards C 2017 Adv Emerg Nurs J,A,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rf614496f59,Quinlan P. 2017 Orthopaedic Nursing,B,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rf6210fe2a2,O'Connor LA 2022 J Surg Res,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rf709115dfc,Aziz M 2021 J Pak Med Assoc,A,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rf74b166110,Hegazy SE 2024 Crit Care Nurs Q,C,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rf7d6b6db92,Green CR 2002 J Natl Med Assoc,A,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rf7d9cd7c25,Başkurt A 2026 J Pediatr Nurs,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rf8051dc8c5,Cazzato RL 2016 Cardiovasc Intervent Radiol,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rf84f4bd477,Perry TA 2022 Osteoarthr Cartil Open,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rfb795729b8,Anantharaj A 2020 J Indian Soc Pedod Prev Dent,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+Rfba78b61c3,Robinson SR 2000 Laryngoscope,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rfc7c07016b,Li Y 2015 Zhonghua Yi Xue Za Zhi,B,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rfcdc1e1a1d,Grigsby E 2021 Local Reg Anesth,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rfd4a497309,Zacha S 2024 J Pers Med,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rfd5298c544,Donati F 2026 J Pediatr Surg,B,yes,B,no,indirect/non-LA comparator or comparative design without LA arm,yes,comparator semantics recomputed post-eligibility
+Rfd6ca194f5,Mariconti S 2026 Reg Anesth Pain Med,A,yes,A,yes,direct LA-containing comparator arm,yes,comparator semantics recomputed post-eligibility
+Rfd6f307872,Roth ZA 2023 J Perianesth Nurs,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rfdeb00c864,Mastroianni A 1968 Minerva Anestesiol,C,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rfeec1c294b,Finan M. 1993 American Journal of Obstetrics and Gynecology,B,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility
+Rff431c9d24,O'Connor LA 2026 J Thorac Dis,B,yes,C,no,noncomparative / contextual primary report,yes,comparator semantics recomputed post-eligibility

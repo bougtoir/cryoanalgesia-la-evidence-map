@@ -1,0 +1,9 @@
+group,primary,secondary,criteria,resolution,count_as_unique_n
+tsyhankov/other_procedural,Rd1acbdde60,R2ecef89b3e,surname+domain+Jaccard>=0.35+year<=5,conservative_merge_unresolved_overlap,1
+zacha/thoracic_chestwall,R8cd511412a,Rfd4a497309,surname+domain+Jaccard>=0.35+year<=5,conservative_merge_unresolved_overlap,1
+arshad/thoracic_chestwall,R3f2d300c16,Rd1829ae181,surname+domain+Jaccard>=0.35+year<=5,conservative_merge_unresolved_overlap,1
+forrester/thoracic_chestwall,R4aae6ca2ea,Ra706b6c867,surname+domain+Jaccard>=0.35+year<=5,conservative_merge_unresolved_overlap,1
+mont/orthopedic_msk,R6bc9e38dd8,Re8fecb0f8c,surname+domain+Jaccard>=0.35+year<=5,conservative_merge_unresolved_overlap,1
+al-waeli/vascular_access,Re8ed4afa5a,R6c32c4e477,surname+domain+Jaccard>=0.35+year<=5,conservative_merge_unresolved_overlap,1
+zappa/periop_other,R7d93ea3a41,R757ab85320,surname+domain+Jaccard>=0.35+year<=5,conservative_merge_unresolved_overlap,1
+mace/vascular_access,Rd5b5e1daff,R899fb1e178,surname+domain+Jaccard>=0.35+year<=5,conservative_merge_unresolved_overlap,1
