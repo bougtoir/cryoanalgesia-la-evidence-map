@@ -1,28 +1,131 @@
-sentinel_id,citation,pmid,description,retrieved,retrieval_route
-COPPER RCT,Paediatr Anaesth. 2025;35:347-358,40035332,Cryoanalgesia for Pain Management After Pectus Excavatum Repair (COPPER) in Adolescents: A Randomized Controlled Trial,yes,openalex|pubmed|OA1_core_cryo_x_LA|OA2_thoracic|Q1_core_cryo_x_LA|Q2_core_cryo_x_pain|Q5_thoracic|Q8_ctgov_style_broad
-EJPS-488,Eur J Pediatr Surg. 2024;34:488-492,38242172,Intercostal Nerve Cryoablation or Epidural Analgesia for Multimodal Pain Management after the Nuss Procedure,yes,openalex|pubmed|OA1_core_cryo_x_LA|OA2_thoracic|Q1_core_cryo_x_LA|Q2_core_cryo_x_pain|Q5_thoracic|Q8_ctgov_style_broad
-JPS-1444,J Pediatr Surg. 2020;55:1444-1447,31699436,Postoperative pain control modalities for pectus excavatum repair: A prospective observational study of cryoablation,yes,openalex|pubmed|OA1_core_cryo_x_LA|OA2_thoracic|OA3_dental|Q1_core_cryo_x_LA|Q2_core_cryo_x_pain|Q3_dental|Q5_thoracic|Q8_ctgov_style_broad
-EJPS-RCT-2024,Eur J Pediatr Surg. 2024;34:338-345,37364610,A Randomized Controlled Trial of Cryoanalgesia for Pain Management following Pectus Excavatum Repair,yes,openalex|pubmed|OA1_core_cryo_x_LA|OA2_thoracic|OA4_vascular|Q1_core_cryo_x_LA|Q2_core_cryo_x_pain|Q4_vascular|Q5_thoracic|Q8_ctgov_style_broad
-Finneran-RCT,Anesthesiology 2025 rib-fracture RCT,legacy,US-guided percutaneous cryoneurolysis vs ropivacaine intercostal nerve block,verify-in-screening,legacy Tier-A study; confirmed via title match in screening pass
-ICE-vanPolen,Eur J Cardiothorac Surg 2026,legacy,intercostal nerve cryoablation vs thoracic epidural analgesia,verify-in-screening,legacy Tier-A study; confirmed via title match in screening pass
-Gonzalez-2026,BMC Anesthesiol 2026,legacy,Continuous serratus-intercostal plane block versus intercostal cryoanalgesia,verify-in-screening,legacy Tier-A study; confirmed via title match in screening pass
-Mariconti-2026,Reg Anesth Pain Med 2026,legacy,percutaneous intercostal cryoanalgesia vs thoracic epidural,verify-in-screening,legacy Tier-A study; confirmed via title match in screening pass
-Weksler-adjunct,J Thorac Cardiovasc Surg 2025,legacy,intercostal blocks +/- cryoablation adjunct RCT,verify-in-screening,legacy Tier-A study; confirmed via title match in screening pass
-Park-MA,Ann Med Surg 2021,34408872,Cryoanalgesia for postsurgical pain relief in adults: A systematic review and meta-analysis,yes,openalex|pubmed|OA2_thoracic|Q2_core_cryo_x_pain|Q5_thoracic
-Cha-SR,Trauma Surg Acute Care Open 2021,legacy,intercostal cryoneurolysis chest wall pain SR,verify-in-screening,legacy Tier-A study; confirmed via title match in screening pass
-Wang-MA,PLoS One 2023,legacy,vapocoolant venipuncture meta-analysis,verify-in-screening,legacy Tier-A study; confirmed via title match in screening pass
-Griffith-Cochrane,Cochrane 2016,legacy,vapocoolants cannulation pain Cochrane review,verify-in-screening,legacy Tier-A study; confirmed via title match in screening pass
-NMA-2025,BMC Anesthesiol 2025,legacy,pediatric vascular-access NMA,verify-in-screening,legacy Tier-A study; confirmed via title match in screening pass
-Swisher-TKA,Pain Ther 2022,legacy,US-guided percutaneous cryoneurolysis TKA sham pilot RCT,verify-in-screening,legacy Tier-A study; confirmed via title match in screening pass
-Rai-2024,J Dent Anesth Pain Med,legacy,ice vs benzocaine palatal injection,verify-in-screening,legacy Tier-A study; confirmed via title match in screening pass
-Chilakamuri-2020,J Dent Anesth Pain Med,legacy,ice vs topical gel children,verify-in-screening,legacy Tier-A study; confirmed via title match in screening pass
-Hindocha-2019,BMC Anesthesiol,legacy,ice vs lidocaine 5% gel,verify-in-screening,legacy Tier-A study; confirmed via title match in screening pass
-Lakshmanan-2021,Int J Clin Pediatr Dent,legacy,cryotherapy vs LA children,verify-in-screening,legacy Tier-A study; confirmed via title match in screening pass
-Peedikayil-2024,J Dent Anesth Pain Med,legacy,cryotherapy adjunct MIH,verify-in-screening,legacy Tier-A study; confirmed via title match in screening pass
-Abbasi-2023,J Oral Dis Diagn Ther,legacy,ethyl chloride vs lidocaine gel,verify-in-screening,legacy Tier-A study; confirmed via title match in screening pass
-Abdelrahman-2026,Front Dent Med,legacy,ethyl chloride vs benzocaine children,verify-in-screening,legacy Tier-A study; confirmed via title match in screening pass
-Akhgar-2025,Emerg Med J,legacy,vapocoolant vs lidocaine-prilocaine cannulation,verify-in-screening,legacy Tier-A study; confirmed via title match in screening pass
-Roongpisuthipong-2023,J Am Acad Dermatol,legacy,ice vs lidocaine-prilocaine laser hair removal,verify-in-screening,legacy Tier-A study; confirmed via title match in screening pass
-Kuwahara-2001,Dermatol Surg,legacy,ice vs EMLA dermatologic procedures,verify-in-screening,legacy Tier-A study; confirmed via title match in screening pass
-Gupta-2020,Indian J Drugs Dermatol,legacy,cryogel/ice vs topical anesthetics,verify-in-screening,legacy Tier-A study; confirmed via title match in screening pass
-Garrido-2026,Front Med,legacy,ethyl chloride vs mepivacaine etonogestrel implant,verify-in-screening,legacy Tier-A study; confirmed via title match in screening pass
+sentinel_id,citation,DOI/PMID,expected_eligibility,PubMed_retrieved,CENTRAL_retrieved,Scopus_retrieved,ClinicalTrials_retrieved,retrieval_route,notes,pass_fail
+S-COPPER,Bastianello M et al. Paediatr Anaesth. 2025;35:347-358 (COPPER RCT),10.1111/pan.15090/40035332,eligible_central,1,1,1,0,CENTRAL|PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|CENTRAL:title|Scopus:DOI|Scopus:title,pass
+S-EJPS2024,van Braak H et al. Eur J Pediatr Surg. 2024;34:488-492,38242172,eligible_central,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:title|Scopus:title,pass
+S-JPS2020,Dekonenko C et al. J Pediatr Surg. 2020;55:1444-1447,31699436,eligible_central,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:title|Scopus:title,pass
+S-EJPSRCT,Rim GM et al. Eur J Pediatr Surg. 2024;34:338-345,37364610,eligible_central,1,1,1,0,CENTRAL|PubMed|Scopus,PubMed:PMID|PubMed:title|CENTRAL:title|Scopus:title,pass
+Ref5748dae0,Katz J 1980 Lancet,10.1016/s0140-6736(80)92766-x/6102235,eligible_tierA_comparator,1,1,1,0,CENTRAL|PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|CENTRAL:title|Scopus:DOI|Scopus:title,pass
+Rb9a1635680,Wood GJ 1981 Anaesthesia,10.1111/j.1365-2044.1981.tb10324.x/7270829,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R8186ff1534,Joucken K 1987 Acta Anaesthesiol Belg,2889313,eligible_tierA_comparator,1,1,1,0,CENTRAL|PubMed|Scopus,PubMed:PMID|PubMed:title|CENTRAL:title|Scopus:title,pass
+Re81d369df3,Roxburgh JC 1987 Thorax,10.1136/thx.42.4.292/3303430,eligible_tierA_comparator,1,1,1,0,CENTRAL|PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|CENTRAL:title|Scopus:DOI,pass
+Rd7865d2d17,Gough JD 1988 Anaesthesia,10.1111/j.1365-2044.1988.tb05757.x/3255292,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+Ra9581f4a56,Armstrong P 1990 Can J Anaesth,10.1007/BF03006485/2208537,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+Rf15dc2734c,Brichon PY 1994 Eur J Cardiothorac Surg,10.1016/1010-7940(94)90019-1/7811482,eligible_tierA_comparator,1,1,1,0,CENTRAL|PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|CENTRAL:title|Scopus:DOI,pass
+R6da6082df9,Selby IR 1995 J R Soc Med,7636819,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:title|Scopus:title,pass
+R72f267ed60,Cohen Reis E 1997 Pediatrics,10.1542/peds.100.6.e5/9374583,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+Rf7b7548e72,Bucerius J 2000 Ann Thorac Surg,10.1016/s0003-4975(00)01766-5/11016387,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R949169bda7,Mawhorter S 2004 J Travel Med,10.2310/7060.2004.19101/15544709,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R013c1b0a58,Yao YH 2005 Di Yi Jun Yi Da Xue Xue Bao,15837660,eligible_tierA_comparator,1,1,1,0,CENTRAL|PubMed|Scopus,PubMed:PMID|PubMed:title|CENTRAL:title|Scopus:title,pass
+Rb729fab222,Davies EH 2006 Paediatr Nurs,10.7748/paed2006.04.18.3.39.c8136/16634384,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R5af058c9e1,Soueid A 2007 Pediatr Emerg Care,10.1097/01.pec.0000278396.25129.3f/17572521,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R7d28310ff4,Robinson PA 2007 Emerg Med Australas,10.1111/j.1742-6723.2007.01008.x/17919215,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+Rddb6e78b97,France JE 2008 Eur J Emerg Med,10.1097/MEJ.0b013e3282f4d19b/19078818,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+Rf11f4e3579,Ju H 2008 Eur J Pain,10.1016/j.ejpain.2007.07.011/17870625,eligible_tierA_comparator,1,1,1,0,CENTRAL|PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|CENTRAL:title|Scopus:DOI|Scopus:title,pass
+R3cdb1ba5d4,Zhang LD 2008 Shanghai Kou Qiang Yi Xue,18360665,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:title|Scopus:title,pass
+R6995be0dd5,Aminabadi NA 2009 J Contemp Dent Pract,19430625,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:title|Scopus:title,pass
+R3167cdb5e3,Kose O 2010 Foot Ankle Spec,10.1177/1938640010363172/20400416,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+Rcf4abbc29f,Page DE 2010 Br J Anaesth,10.1093/bja/aeq198/20682573,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R1f45db67bb,Çelik G 2011 Int J Med Sci,10.7150/ijms.8.623/22022215,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R06de702511,Al Shahwan MA 2012 Dermatol Surg,10.1111/j.1524-4725.2012.02522.x/22849545,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+Rcb70b76753,Moon YE 2013 Arch Phys Med Rehabil,10.1016/j.apmr.2012.12.008/23262383,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R110ab6f6ff,Ghaderi F 2013 Dent Res J (Isfahan),24379869,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:title|Scopus:title,pass
+Rbd26c3d3ad,Irkoren S 2015 Ann Plast Surg,10.1097/SAP.0000000000000121/25536197,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R8cdfa3006c,Lathwal G 2015 Int J Clin Pediatr Dent,10.5005/jp-journals-10005-1296/26379379,eligible_tierA_comparator,1,0,0,0,PubMed,PubMed:PMID|PubMed:DOI|PubMed:title,pass
+R9547406366,Huang L 2015 Postgrad Med,10.1080/00325481.2015.1085292/26329852,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R18dea5f97d,Keller BA 2016 J Pediatr Surg,10.1016/j.jpedsurg.2016.09.034/27745867,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+Rc42ce849b1,Mace SE 2016 Am J Emerg Med,10.1016/j.ajem.2016.01.002/26979261,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R472f53f6dd,Edwards C 2017 Adv Emerg Nurs J,10.1097/TME.0000000000000165/29095180,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R7bd523c6cd,Dalvandi A 2017 Am J Emerg Med,10.1016/j.ajem.2017.02.039/28285862,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+Rd54bd73795,Arab V 2017 J Caring Sci,10.15171/jcs.2017.014/28680868,eligible_tierA_comparator,1,0,0,0,PubMed,PubMed:PMID|PubMed:DOI|PubMed:title,pass
+R32484b9ca2,Bhadauria US 2017 Clujul Med,10.15386/cjmed-694/28559708,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R93c44e02ea,Moon YE 2017 J Anesth,10.1007/s00540-017-2386-3/28780595,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R7e05e5a1ef,Gupta NK 2017 World J Pediatr,10.1007/s12519-017-0004-y/28101779,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R7f8cc94d40,Rüsch D 2017 J Cardiothorac Vasc Anesth,10.1053/j.jvca.2016.06.008/27590462,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R99c06ba87a,Alsantali A 2018 Clin Cosmet Investig Dermatol,10.2147/CCID.S155023/29662322,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R498056378f,Hameed NN 2018 J Indian Soc Pedod Prev Dent,10.4103/JISPPD.JISPPD_222_17/30246753,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R299fecfd0f,Barbour T 2018 Pain Manag Nurs,10.1016/j.pmn.2017.09.006/29153919,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R771459a510,Song J 2018 Emerg Med J,10.1136/emermed-2017-206585/29025864,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R7a0242cdd4,Kvarstein G 2019 Scand J Pain,10.1515/sjpain-2019-0086/31675351,eligible_tierA_comparator,1,1,1,0,CENTRAL|PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|CENTRAL:title|Scopus:DOI|Scopus:title,pass
+Re9048e5bcc,Anantharaj A 2020 J Indian Soc Pedod Prev Dent,10.4103/JISPPD.JISPPD_153_18/32611866,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+Rb11dd957be,Alshahwan M 2020 J Cosmet Dermatol,10.1111/jocd.13160/31556234,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R73b06158b9,Moon YE 2020 Arch Phys Med Rehabil,10.1016/j.apmr.2020.04.021/32445850,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+Rfe7cf75834,Ilfeld BM 2020 Anesthesiology,10.1097/ALN.0000000000003532/32898231,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI,pass
+Rdae8a16bf0,Tanaka A 2020 Ann Thorac Surg,10.1016/j.athoracsur.2019.07.083/31521592,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+Rf2005b9ff4,Dekonenko C 2020 J Pediatr Surg,10.1016/j.jpedsurg.2019.09.021/31699436,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+Rb65a448a1c,Rasooli F 2020 Turk J Emerg Med,10.4103/2452-2473.281628/32587927,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+Rcb46a64418,Chilakamuri S 2020 J Dent Anesth Pain Med,10.17245/jdapm.2020.20.6.377/33409366,eligible_tierA_comparator,1,0,0,0,PubMed,PubMed:PMID|PubMed:DOI|PubMed:title,pass
+R8206745df7,Cadaval Gallardo C 2020 Cir Pediatr,32166917,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:title|Scopus:title,pass
+R6c8e0364a9,Pilkington M 2020 J Pediatr Surg,10.1016/j.jpedsurg.2019.09.016/31672412,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+Rd1e1809410,Daemen JHT 2020 Interact Cardiovasc Thorac Surg,10.1093/icvts/ivaa151/32929487,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R1926682727,Rettig RL 2021 Pediatr Surg Int,10.1007/s00383-020-04778-x/33210165,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R1ec517a52b,Tank JC 2021 J Trauma Acute Care Surg,10.1097/TA.0000000000003157/33755640,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R7f8215a68b,Aziz M 2021 J Pak Med Assoc,10.47391/JPMA.1127/34091618,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+Rfb70a2e550,AmruthaVarshini I 2021 Int J Clin Pediatr Dent,10.5005/jp-journals-10005-1913/34326589,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+Rdc0980bc0f,Selvi F 2021 Am J Emerg Med,10.1016/j.ajem.2021.08.001/34418716,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R8b8710d518,Lau WC 2021 Pain Ther,10.1007/s40122-021-00318-0/34545530,eligible_tierA_comparator,1,1,1,0,CENTRAL|PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|CENTRAL:title|Scopus:DOI|Scopus:title,pass
+R5f090069f3,Aiken TJ 2021 J Pediatr Surg,10.1016/j.jpedsurg.2020.10.009/33199059,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R339a532c3a,Rekawek P 2021 J Matern Fetal Neonatal Med,10.1080/14767058.2019.1607288/30983457,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+Rfd7a84e7c2,Gologorsky R 2021 Pediatr Surg Int,10.1007/s00383-020-04768-z/33112997,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R89d0f6baa9,Swisher MW 2022 Pain Ther,10.1007/s40122-022-00427-4/36018541,eligible_tierA_comparator,1,1,1,0,CENTRAL|PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|CENTRAL:title|Scopus:DOI|Scopus:title,pass
+R25baa4ac2a,Arshad SA 2022 J Surg Res,10.1016/j.jss.2021.10.011/34814047,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R4d5d505113,Gurucharan I 2022 Clin Oral Investig,10.1007/s00784-021-04160-8/34477963,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R2eaf329ceb,Dhingra N 2022 J Clin Pediatr Dent,10.22514/jocpd.2022.018/36624897,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+Rb93ef46ba5,Tung J 2022 J Robot Surg,10.1007/s11701-021-01279-4/34313948,eligible_tierA_comparator,1,1,1,0,CENTRAL|PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|CENTRAL:title|Scopus:DOI|Scopus:title,pass
+Rbcf4c85054,Zacha S 2022 Front Pediatr,10.3389/fped.2022.1069805/36714658,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R12444f59f6,Song SH 2022 Medicine (Baltimore),10.1097/MD.0000000000029773/35945758,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R48b39c6f65,Ilfeld BM 2022 Anesthesiology,10.1097/ALN.0000000000004334/35929983,eligible_tierA_comparator,1,1,1,0,CENTRAL|PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|CENTRAL:title|Scopus:DOI|Scopus:title,pass
+R899f67b0dc,Mohanty CR 2023 Wilderness Environ Med,10.1016/j.wem.2022.12.006/36804806,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+Rbe10749a5c,Nazer S 2023 Anesth Pain Med,10.5812/aapm-136404/38021332,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+Rbcb892677a,Roongpisuthipong W 2023 J Am Acad Dermatol,10.1016/j.jaad.2022.11.022/36410628,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+Re99e9e8ba6,Khosravi Pour A 2023 BMC Anesthesiol,10.1186/s12871-023-02028-w/36882711,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R99451a52f8,Perez Holguin RA 2023 J Pediatr Surg,10.1016/j.jpedsurg.2022.12.011/36646539,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R0773c56434,Koons B 2023 JTCVS Open,10.1016/j.xjon.2022.11.005/37063121,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R06a233c35a,Abbasi H 2023 J Dent Res Dent Clin Dent Prospects,10.34172/joddd.2023.37041/37650023,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R3bc6db089d,Zeineddin S 2023 J Pediatr Surg,10.1016/j.jpedsurg.2022.09.032/36283847,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+Raf5edc7cac,Elheeny AAH 2023 Pediatr Dent,37106538,eligible_tierA_comparator,1,1,0,0,CENTRAL|PubMed,PubMed:PMID|PubMed:title|CENTRAL:title,pass
+R55763c0438,Maxwell CM 2023 Innovations (Phila),10.1177/15569845231185583/37461202,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R52519583e3,Isaza E 2023 Pain Ther,10.1007/s40122-022-00448-z/36274081,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R2511b6617a,Ilfeld BM 2023 Anesthesiology,10.1097/ALN.0000000000004429/36512721,eligible_tierA_comparator,1,1,1,0,CENTRAL|PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|CENTRAL:title|Scopus:DOI|Scopus:title,pass
+R59df601818,Rim GM 2024 Eur J Pediatr Surg,10.1055/a-2117-4628/37364610,eligible_tierA_comparator,1,1,1,0,CENTRAL|PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|CENTRAL:title|Scopus:DOI|Scopus:title,pass
+R123e3cc9f0,Chittora M 2024 J Indian Soc Pedod Prev Dent,10.4103/jisppd.jisppd_52_24/38957910,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+Re52eaa0d8f,Sudha PM 2024 Int J Clin Pediatr Dent,10.5005/jp-journals-10005-2991/39867111,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R07b2c72477,Davangere Padmanabh SK 2024 J Dent Anesth Pain Med,10.17245/jdapm.2024.24.1.37/38362255,eligible_tierA_comparator,1,0,0,0,PubMed,PubMed:PMID|PubMed:DOI|PubMed:title,pass
+Rce071b519c,Narimany R 2024 Int J Dent,10.1155/2024/5515522/39268175,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R8036c4129b,Rai S 2024 J Dent Anesth Pain Med,10.17245/jdapm.2024.24.2.91/38584760,eligible_tierA_comparator,1,0,0,0,PubMed,PubMed:PMID|PubMed:DOI|PubMed:title,pass
+R0775a5904b,Wharton K 2024 J Surg Res,10.1016/j.jss.2024.07.003/39053171,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+Rc893b5010f,Pourak K 2024 Interdiscip Cardiovasc Thorac Surg,10.1093/icvts/ivae023/38341659,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R9d2e225407,van Braak H 2024 Eur J Pediatr Surg,10.1055/a-2249-7588/38242172,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+Rb5cf2916f4,Janssen N 2024 BMJ Open,10.1136/bmjopen-2023-081392/38531584,eligible_tierA_comparator,1,1,1,0,CENTRAL|PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|CENTRAL:title|Scopus:DOI|Scopus:title,pass
+R480c57e0bc,Shah NM 2024 J Pharm Bioallied Sci,10.4103/jpbs.jpbs_86_24/39346351,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+Rc084a76818,Yano T 2024 J Anus Rectum Colon,10.23922/jarc.2024-002/39086884,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+Rad6902bf0f,Ilfeld BM 2024 Anesth Analg,10.1213/ANE.0000000000006833/38478876,eligible_tierA_comparator,1,1,1,0,CENTRAL|PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|CENTRAL:title|Scopus:DOI|Scopus:title,pass
+R2dca224a3a,Maganur PC 2025 Children (Basel),10.3390/children12070863/40723056,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+Rda28c6e250,Weksler B 2025 J Thorac Cardiovasc Surg,10.1016/j.jtcvs.2024.10.058/39522714,eligible_tierA_comparator,1,1,1,0,CENTRAL|PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|CENTRAL:title|Scopus:DOI|Scopus:title,pass
+R0b48395596,Anjitha T 2025 J Conserv Dent Endod,10.4103/JCDE.JCDE_710_25/41438450,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+Rd9b89396bf,Akhgar A 2025 Emerg Med J,10.1136/emermed-2024-214479/40118519,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+Ra015d3b745,Bastianello M 2025 Paediatr Anaesth,10.1111/pan.15090/40035332,eligible_tierA_comparator,1,1,1,0,CENTRAL|PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|CENTRAL:title|Scopus:DOI|Scopus:title,pass
+Re80926714b,Katyal S 2025 Med Int (Lond),10.3892/mi.2025.254/40747149,eligible_tierA_comparator,1,0,0,0,PubMed,PubMed:PMID|PubMed:DOI|PubMed:title,pass
+R7accb46869,Fattahi B 2025 J Endod,10.1016/j.joen.2025.05.011/40447259,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+Raf6dce5f54,Eldafrawi S 2025 Sci Rep,10.1038/s41598-025-21173-5/41136539,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R0e9a693a84,Puangrab S 2025 Adv Clin Exp Med,10.17219/acem/188106/39206809,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R3d52677f08,Santana L 2025 Eur J Pediatr Surg,10.1055/a-2490-1091/39701138,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+Rd6e466f564,Koliakos E 2025 J Thorac Cardiovasc Surg,10.1016/j.jtcvs.2025.05.022/40490216,eligible_tierA_comparator,1,1,1,0,CENTRAL|PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|CENTRAL:title|Scopus:DOI|Scopus:title,pass
+R7dd9375294,Iglesias NJ 2025 J Pediatr Surg,10.1016/j.jpedsurg.2025.162162/39965427,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+Re2f8c5d14e,Masui K 2025 J Anesth,10.1007/s00540-025-03472-3/40019519,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+Re1371ae1f1,Rashid RM 2025 Pain Physician,40168567,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:title|Scopus:title,pass
+R7fe3605400,Mammana M 2026 Updates Surg,10.1007/s13304-026-02840-2/42709387,eligible_tierA_comparator,1,1,1,0,CENTRAL|PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|CENTRAL:title|Scopus:DOI|Scopus:title,pass
+Ra94f75aa1d,Garrido-Santamaría R 2026 Front Med (Lausanne),10.3389/fmed.2026.1729384/42434004,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+Rfcbaa8c516,Drake L 2026 Ann Surg,10.1097/SLA.0000000000006973/41199434,eligible_tierA_comparator,1,1,1,0,CENTRAL|PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|CENTRAL:title|Scopus:DOI|Scopus:title,pass
+R97d4608ebb,Carmona A 2026 J Surg Res,10.1016/j.jss.2025.11.061/41407571,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+Rc932c45257,Mariconti S 2026 Reg Anesth Pain Med,10.1136/rapm-2024-105960/39510802,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R0c3d77af5b,Akdemir MA 2026 J Perianesth Nurs,10.1016/j.jopan.2025.10.012/41603829,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R7156f5282d,Goebel MC 2026 Eur Arch Paediatr Dent,10.1007/s40368-026-01266-z/42616258,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R3b913ac627,Kılbasanlı S 2026 BMC Pregnancy Childbirth,10.1186/s12884-026-09687-w/42477589,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+Red5e7fa99e,Abdelrahman N 2026 Front Dent Med,10.3389/fdmed.2026.1925109/42688293,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R5ff563ae8f,Payne R 2026 J Pediatr Surg,10.1016/j.jpedsurg.2026.163457/42710581,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+Rbb20038a62,Miotto A 2026 JMIR Res Protoc,10.2196/91837/42155060,eligible_tierA_comparator,1,1,1,0,CENTRAL|PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|CENTRAL:title|Scopus:DOI|Scopus:title,pass
+R9b925f6420,van Polen EJ 2026 Eur J Cardiothorac Surg,10.1093/ejcts/ezag203/42528259,eligible_tierA_comparator,1,1,1,0,CENTRAL|PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|CENTRAL:title|Scopus:DOI|Scopus:title,pass
+Rf7a8ec1415,Parrish MT 2026 Pediatr Surg Int,10.1007/s00383-026-06299-5/41661309,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+Re4891e90db,Papadakis L 2026 J Pediatr Surg,10.1016/j.jpedsurg.2026.163244/42288292,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R41c4175655,Jarrin Lopez A 2026 Front Pediatr,10.3389/fped.2026.1857143/42388399,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R231495227c,Drake L 2026 JTCVS Open,10.1016/j.xjon.2025.101574/41960103,eligible_tierA_comparator,1,0,1,0,PubMed|Scopus,PubMed:PMID|PubMed:DOI|PubMed:title|Scopus:DOI|Scopus:title,pass
+R5966866adb,Jiravisitkul P 2026 World J Clin Pediatr,10.5409/wjcp.123652/42964789,eligible_tierA_comparator,1,0,0,0,PubMed,PubMed:PMID|PubMed:DOI|PubMed:title,pass

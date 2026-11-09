@@ -1,25 +1,32 @@
-query_id,source,platform,date,raw_hits,exported_records,query
-Q1_core_cryo_x_LA,MEDLINE/PubMed,NCBI E-utilities esearch+esummary,2026-11-03,785,785,CRYO=(cryoanalgesia OR cryoanesthesia OR cryoneurolysis OR cryoneurotomy OR cryoablation OR cryotherapy OR vapocoolant OR ethyl chloride OR ice massage OR cold spray OR precooling OR pre-cooling OR ice pack OR ice application)[tiab] AND LA=(local anesthetic OR local anesthesia OR local anaesthetic OR local anaesthesia OR lidocaine OR mepivacaine OR bupivacaine OR ropivacaine OR levobupivacaine OR articaine OR prilocaine OR benzocaine OR EMLA OR eutectic mixture OR nerve block(s) OR epidural OR regional anesthesia/anaesthesia OR topical anesthetic/anaesthetic OR intercostal block)[tiab]
-Q2_core_cryo_x_pain,MEDLINE/PubMed,NCBI E-utilities esearch+esummary,2026-11-03,3415,3415,CRYO AND (analgesia OR analgesic OR pain OR anesthesia OR anaesthesia)[tiab]
-Q3_dental,MEDLINE/PubMed,NCBI E-utilities esearch+esummary,2026-11-03,883,883,CRYO AND (dental OR dentistry OR oral OR palatal OR inferior alveolar OR tooth OR endodontic)[tiab]
-Q4_vascular,MEDLINE/PubMed,NCBI E-utilities esearch+esummary,2026-11-03,360,360,CRYO AND (venipuncture OR cannulation OR intravenous OR vascular access OR venepuncture OR phlebotomy)[tiab]
-Q5_thoracic,MEDLINE/PubMed,NCBI E-utilities esearch+esummary,2026-11-03,542,542,CRYO AND (thoracotomy OR thoracic OR intercostal OR rib fracture(s) OR VATS OR pectus OR chest wall OR Nuss OR sternotomy)[tiab]
-Q6_orthopedic,MEDLINE/PubMed,NCBI E-utilities esearch+esummary,2026-11-03,796,796,CRYO AND (arthroplasty OR orthopedic OR orthopaedic OR total knee OR total hip OR knee OR genicular OR spine OR musculoskeletal)[tiab]
-Q7_derm_office,MEDLINE/PubMed,NCBI E-utilities esearch+esummary,2026-11-03,2437,2437,CRYO AND (dermatology OR dermatologic OR laser OR hair removal OR minor surgery OR office-based OR skin biopsy OR implant)[tiab]
-Q8_ctgov_style_broad,MEDLINE/PubMed,NCBI E-utilities esearch+esummary,2026-11-03,291,291,CRYO AND (nerve block OR epidural OR regional anesthesia OR regional anaesthesia)[tiab]
-OA1_core_cryo_x_LA,OpenAlex,OpenAlex API filter=title_and_abstract.search (open index; declared substitute for Scopus/WoS — no subscription access),2026-11-03,1426,1426,"(cryoanalgesia OR cryoanesthesia OR cryoneurolysis OR cryoablation OR vapocoolant OR ""ethyl chloride"" OR ""ice massage"" OR cryotherapy) AND (""local anesthetic"" OR ""local anesthesia"" OR ""local anaesthesia"" OR lidocaine OR bupivacaine OR ropivacaine OR mepivacaine OR EMLA OR ""nerve block"" OR epidural OR ""regional anesthesia"" OR ""regional anaesthesia"" OR ""topical anesthetic"" OR ""topical anaesthetic"" OR benzocaine)"
-OA2_thoracic,OpenAlex,OpenAlex API filter=title_and_abstract.search (open index; declared substitute for Scopus/WoS — no subscription access),2026-11-03,1061,1061,"(cryoanalgesia OR cryoanesthesia OR cryoneurolysis OR cryoablation OR vapocoolant OR ""ethyl chloride"" OR ""ice massage"" OR cryotherapy) AND (thoracotomy OR thoracic OR intercostal OR ""rib fracture"" OR ""rib fractures"" OR pectus OR Nuss OR ""chest wall"" OR VATS OR sternotomy)"
-OA3_dental,OpenAlex,OpenAlex API filter=title_and_abstract.search (open index; declared substitute for Scopus/WoS — no subscription access),2026-11-03,2081,2081,"(cryoanalgesia OR cryoanesthesia OR cryoneurolysis OR cryoablation OR vapocoolant OR ""ethyl chloride"" OR ""ice massage"" OR cryotherapy) AND (dental OR dentistry OR oral OR tooth OR palatal OR endodontic OR ""inferior alveolar"")"
-OA4_vascular,OpenAlex,OpenAlex API filter=title_and_abstract.search (open index; declared substitute for Scopus/WoS — no subscription access),2026-11-03,744,744,"(cryoanalgesia OR cryoanesthesia OR cryoneurolysis OR cryoablation OR vapocoolant OR ""ethyl chloride"" OR ""ice massage"" OR cryotherapy) AND (venipuncture OR venepuncture OR cannulation OR intravenous OR ""vascular access"" OR phlebotomy)"
-OA5_orthopedic,OpenAlex,OpenAlex API filter=title_and_abstract.search (open index; declared substitute for Scopus/WoS — no subscription access),2026-11-03,927,927,"(cryoanalgesia OR cryoanesthesia OR cryoneurolysis OR cryoablation OR vapocoolant OR ""ethyl chloride"" OR ""ice massage"" OR cryotherapy) AND (arthroplasty OR orthopedic OR orthopaedic OR ""total knee"" OR ""total hip"" OR genicular OR musculoskeletal)"
-OA6_derm_office,OpenAlex,OpenAlex API filter=title_and_abstract.search,2026-11-03,BLOCKED — OpenAlex shared-IP daily budget exhausted (HTTP 429); coverage substituted by Crossref queries CR1–CR2,0,"(cryoanalgesia OR cryoanesthesia OR cryoneurolysis OR cryoablation OR vapocoolant OR ""ethyl chloride"" OR ""ice massage"" OR cryotherapy) AND (dermatology OR dermatologic OR laser OR ""hair removal"" OR ""skin biopsy"" OR ""minor surgery"")"
-OA7_periop,OpenAlex,OpenAlex API filter=title_and_abstract.search,2026-11-03,BLOCKED — OpenAlex shared-IP daily budget exhausted (HTTP 429); coverage substituted by Crossref queries CR1–CR2,0,"(cryoanalgesia OR cryoanesthesia OR cryoneurolysis OR cryoablation OR vapocoolant OR ""ethyl chloride"" OR ""ice massage"" OR cryotherapy) AND (postoperative OR perioperative OR postsurgical) AND (""nerve block"" OR epidural OR ""local anesthetic"" OR ""regional anesthesia"")"
-OA8_chronic_pain,OpenAlex,OpenAlex API filter=title_and_abstract.search,2026-11-03,BLOCKED — OpenAlex shared-IP daily budget exhausted (HTTP 429); coverage substituted by Crossref queries CR1–CR2,0,"(cryoanalgesia OR cryoanesthesia OR cryoneurolysis OR cryoablation OR vapocoolant OR ""ethyl chloride"" OR ""ice massage"" OR cryotherapy) AND (neuropathic OR ""chronic pain"")"
-ctgov_cryoanalgesia,ClinicalTrials.gov,API v2,2026-11-03,49,49,cryoanalgesia
-ctgov_cryoneurolysis,ClinicalTrials.gov,API v2,2026-11-03,62,62,cryoneurolysis
-ctgov_cryoablation_AND_analgesia,ClinicalTrials.gov,API v2,2026-11-03,41,41,cryoablation AND analgesia
-ctgov_cryoablation_AND_pain,ClinicalTrials.gov,API v2,2026-11-03,126,126,cryoablation AND pain
-ctgov_vapocoolant,ClinicalTrials.gov,API v2,2026-11-03,34,34,vapocoolant
-ctgov_ethyl_chloride_spray,ClinicalTrials.gov,API v2,2026-11-03,45,45,ethyl chloride spray
-CR1_cryo_x_LA,Crossref,Crossref REST API (supplementary; substitutes for OpenAlex OA6–OA8 blocked by shared-IP 429),2026-11-03,see query page,1000,"cryoanalgesia cryoanesthesia cryoneurolysis vapocoolant ""local anesthetic"" lidocaine bupivacaine ropivacaine ""nerve block"" epidural"
-CR2_cryo_pain_domains,Crossref,Crossref REST API (supplementary; substitutes for OpenAlex OA6–OA8 blocked by shared-IP 429),2026-11-03,see query page,1000,"cryoablation cryoneurolysis intercostal pectus rib fracture dermatology laser neuropathic ""chronic pain"""
+source,query_id,raw_hits,exported_records
+MEDLINE via PubMed,Q1_core_cryo_x_LA,789,789
+MEDLINE via PubMed,Q2_core_cryo_x_pain,3425,3425
+MEDLINE via PubMed,Q3_dental,884,884
+MEDLINE via PubMed,Q4_vascular,361,361
+MEDLINE via PubMed,Q5_thoracic,545,545
+MEDLINE via PubMed,Q6_orthopedic,798,798
+MEDLINE via PubMed,Q7_derm_office,2438,2438
+MEDLINE via PubMed,Q8_broad_block,292,292
+Scopus,S1_core_cryo_x_LA,2839,2839
+Scopus,S2_core_cryo_x_pain,10936,10936
+Scopus,S3_dental,2387,2387
+Scopus,S4_vascular,1389,1389
+Scopus,S5_thoracic,2062,2062
+Scopus,S6_orthopedic,2831,2831
+Scopus,S7_derm_office,9909,9909
+Scopus,S8_broad_block,1100,1100
+CENTRAL,C1_core_cryo,189,189
+CENTRAL,C2_cryo_x_pain,183,183
+CENTRAL,C3_dental,4,4
+CENTRAL,C4_vascular,11,11
+CENTRAL,C5_thoracic,77,77
+CENTRAL,C6_orthopedic,22,22
+CENTRAL,C7_derm_neuro,51,51
+CENTRAL,C8_LA_x_cryo,85,85
+ClinicalTrials.gov,T1_cryoanalgesia,50,50
+ClinicalTrials.gov,T2_cryoneurolysis,62,62
+ClinicalTrials.gov,T3_cryoablation_pain,126,126
+ClinicalTrials.gov,T4_cryoablation_analgesia,41,41
+ClinicalTrials.gov,T5_vapocoolant,34,34
+ClinicalTrials.gov,T6_ethyl_chloride,44,44
+ClinicalTrials.gov,T7_cryoanesthesia,5,5
