@@ -1,0 +1,911 @@
+record_id,citation,primary_data_yes_no,eligible_intervention_yes_no,eligible_outcome_yes_no,english_fulltext_yes_no,duplicate_report_yes_no,unique_cohort_status,final_primary_inclusion,reason
+Rac74a86eaa,Hornabrook RW 1929 Br Med J,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R9c7ae48bf6,LAUTSEVICHUS LZ 1962 Kardiologiia,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rfdeb00c864,Mastroianni A 1968 Minerva Anestesiol,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R3e7560f80c,Kase T. 1969 Igaku Kenkyu Acta Medica,no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R5eed38c4d4,Lloyd JW 1976 Lancet,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Ra90815ef8a,Schnellen B 1976 Berufsdermatosen,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R54af8498b0,Downer A 1978 Mod Vet Pract,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R6b70cc86f8,Malkin V. 1978 Zhurnal Voprosy Nejrokhirurgii Imeni N N Burdenko,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R3d0e7c6e46,Wienert V 1978 Med Klin,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R371ec510a8,Katz J 1980 Lancet,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R2d77ada343,Glynn CJ 1980 Thorax,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R0afd5f9f8a,Melzack R 1980 Pain,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R50185574d2,Melzack R 1980 Can Med Assoc J,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rd6adb20446,Evans PJ 1981 J R Soc Med,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Ra2d9a8fd8b,Barnard D 1981 J Maxillofac Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R9d135d3a4e,Wood GJ 1981 Anaesthesia,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rf5ff9feda6,Heydenreich A 1981 Klin Monbl Augenheilkd,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rbacdda9c7d,Klein J 1981 Klin Monbl Augenheilkd,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R1fd2f0d688,Hocutt JE Jr 1982 Am J Sports Med,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R14803229da,Keenan DJ 1983 Br Med J (Clin Res Ed),no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R07c67ea6f1,Milleret R. 1983 Journal Des Maladies Vasculaires,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Re71879a453,Townsend DE 1983 Obstet Gynecol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R3305e9a78d,Southam JA 1983 Ann R Coll Surg Engl,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rc1870400ee,Milleret R 1983 J Mal Vasc,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R41f40fc4ef,Modugno P 1983 Minerva Med,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rbe7d294149,Nally FF 1984 Oral Surg Oral Med Oral Pathol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rc7a3a53964,Mashiah A 1984 J Am Geriatr Soc,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R494c518eab,Traynor OJ 1984 Br J Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R677c550e13,Bumsted RM 1984 Laryngoscope,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rac2e5c9343,Konnegen V 1984 Zentralbl Gynakol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R011c472188,Wang JK 1985 Pain,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R2f5f41ae92,Mohanty KC 1985 Genitourin Med,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R3aff57f6a8,Newton RA 1985 Phys Ther,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Re11aef8094,Sonnex TS 1985 Br Med J (Clin Res Ed),yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rdbb901f079,Rooney SM 1986 Ann Thorac Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R421b7889b3,Maiwand MO 1986 J Thorac Cardiovasc Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rf431c59789,Khiroya RC 1986 Anaesthesia,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R673c08d0de,Zakrzewska JM 1986 J Maxillofac Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R2e06d90b4c,Joucken K 1987 Acta Anaesthesiol Belg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R071261bf38,Zakrzewska JM 1987 J Neurol Neurosurg Psychiatry,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rbde470db0a,Jones MJ 1987 Ann R Coll Surg Engl,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R64ef55a6f1,Berget A 1987 Acta Obstet Gynecol Scand,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R1f0f3bd730,Roxburgh JC 1987 Thorax,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Ra3ee1ccce1,Brinker MR 1988 J Vasc Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R8bde13e2b6,Gough JD 1988 Anaesthesia,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R0199b3fc28,Zakrzewska JM 1988 Br J Oral Maxillofac Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rb9220bfdfb,Ramamurthy S 1989 J Pain Symptom Manage,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rd877852fda,Müller LC 1989 Ann Thorac Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R45247c3b73,Kotel'nikov V.P. 1989 Fel Dsher I Akusherka,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rbebdcd3ff3,Armstrong P 1990 Can J Anaesth,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R95748a4233,Mielniczuk H. 1990 Zeitschrift Fur Physikalische Medizin Balneologie Med Klimatologie,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rbea4727dae,Johannesen N 1990 Ann Chir Gynaecol,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R6e29deb048,Sihota R 1991 Ophthalmic Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R7199559fe2,Tappero JW 1991 J Acquir Immune Defic Syndr (1988),yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R795d84a3ee,Zakrzewska JM 1991 Br J Oral Maxillofac Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R7d93ea3a41,Zappa S. 1991 Journal of Pediatric Oncology Nursing Official Journal of the Association of Pediatric Oncology Nurses,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R33aea20eeb,Juniper R.P. 1991 British Journal of Oral and Maxillofacial Surgery,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R06bc8b4f51,Loizzi P 1992 Eur J Gynaecol Oncol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R757ab85320,Zappa SC 1992 Cancer Nurs,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Ref03b462da,Sandramouli S 1993 Doc Ophthalmol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rfeec1c294b,Finan M. 1993 American Journal of Obstetrics and Gynecology,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rc42f2b1b66,De Coster D 1993 Acta Stomatol Belg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Re2948bf9d2,Shibata K 1993 J Ophthalmic Nurs Technol,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rc343aac46d,Brichon PY 1994 Eur J Cardiothorac Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Ra278e1ef39,Baelen E 1994 Ann Fr Anesth Reanim,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R9d75937ec5,Rehák J 1994 Klin Monbl Augenheilkd,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R55f7400e39,Selby IR 1995 J R Soc Med,no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R988e667255,Whitelaw GP 1995 Am J Knee Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R0501bfee08,Ebner CA 1996 Issues Compr Pediatr Nurs,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R4dfb433b44,Nasri S 1996 Arch Otolaryngol Head Neck Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R91c69b95f8,Rutherford TJ 1996 J Am Assoc Gynecol Laparosc,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Ra8c975c798,Pastor J 1996 Respiration,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R1cea4347e2,Mathur PN 1996 Chest,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R6fea5eaa1a,Speer KP 1996 J Shoulder Elbow Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rda05d2a075,Ma L 1996 Zhonghua Yan Ke Za Zhi,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R446c3ec8df,Waldorf HA 1997 Dermatol Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Recb07e771b,Kimura IF 1997 J Athl Train,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R1059c5d105,Cohen Reis E 1997 Pediatrics,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rbd1ee2582e,Maturanza M 1997 Minerva Chir,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rc4a8e22713,Albrecht S 1997 Z Orthop Ihre Grenzgeb,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R0326aaa428,Bastian H 1998 J Oral Sci,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R939be6a7b8,Callesen T 1998 Anesth Analg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Ra44d57bcd2,Singh DJ 1998 J Indian Med Assoc,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rbf79204bee,Rutherford TJ 1998 J Am Assoc Gynecol Laparosc,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R39e64049d5,Sarma SP 1998 J Low Genit Tract Dis,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R9709f52a1e,Ksiezopolska-Pietrzak K 1998 Pol Merkur Lekarski,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R5802259d07,Ohkoshi Y 1999 Am J Sports Med,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rcf99103a97,Crecelius C 1999 Anesth Prog,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R821491009b,Ahmed I 2000 Br J Dermatol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rf130e8e7cf,Bucerius J 2000 Ann Thorac Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rfba78b61c3,Robinson SR 2000 Laryngoscope,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R6323ae3d17,El-Harazi SM 2001 J Glaucoma,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Re948c63c12,Gibbons CE 2001 Int Orthop,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R38c70084a9,Moorjani N 2001 Eur J Cardiothorac Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R9079871940,Singh H 2001 J Shoulder Elbow Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R66d855c524,Zhao F 2001 Zhonghua Wai Ke Za Zhi,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R41ee1964dc,Chesterton LS 2002 Arch Phys Med Rehabil,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rf7d6b6db92,Green CR 2002 J Natl Med Assoc,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rd77f5bb764,Duleba AJ 2003 J Am Assoc Gynecol Laparosc,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rb285ae7e7f,Fanelli RD 2003 Surg Endosc,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R7351a70374,Akan M 2003 Aesthetic Plast Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R6f3b4750c3,Waters BL 2003 J Midwifery Womens Health,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Radfe6159c5,Bong JL 2003 Clin Exp Dermatol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R15159eb193,"ISRCTN63870786 2004 https://trialsearch.who.int/Trial2.aspx?TrialID=ISRCTN63870786, 2004 | added to",no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+Rf523041ded,Saito N 2004 J Arthroplasty,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R2f5019e85b,"FJ Gutierrez-Carmona, J Alvarez-Marin 2004 American academy of ophthalmology, 2004, 172 | added to CENTRAL: 31 July 2008 |",no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+Rcdf5bdfda6,Gaita F 2004 J Cardiovasc Electrophysiol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R0e334f4509,Zupi E 2004 Am J Obstet Gynecol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rc7f42e9de6,Gwak MS 2004 J Korean Med Sci,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rf581fed49a,Sarifakioglu N 2004 Ann Plast Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rbdfd8976e1,Warren TA 2004 Am J Sports Med,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rc83df1d1fc,Dohi M 2004 Radiat Med,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rf0a325d218,Schmidt BL 2004 J Oral Maxillofac Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R2a55e33f7a,Yang MK 2004 Anaesthesia,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R8b33ccb2a7,Mawhorter S 2004 J Travel Med,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rb775e40611,Kovacić Z 2004 Lijec Vjesn,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R27adcbe7c3,van der Westhuijzen AJ 2005 Int J Oral Maxillofac Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R9cf7301f60,Holmström A. 2005 Journal of Arthroplasty,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Ra4187ef80a,Drew BI 2005 J Psychosoc Nurs Ment Health Serv,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R7b23fdb3eb,Zupi E 2005 J Minim Invasive Gynecol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Re8603f9d7f,Waibel KH 2005 Ann Allergy Asthma Immunol,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rcd6cbea867,Gutiérrez-Carmona FJ 2005 J Cataract Refract Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R3f1cf1d962,"ISRCTN58354123 2005 https://trialsearch.who.int/Trial2.aspx?TrialID=ISRCTN58354123, 2005 | added to",no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R42b01f0cd3,Laureano Filho JR 2005 J Am Dent Assoc,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R4e4bdbc7d9,Yao YH 2005 Di Yi Jun Yi Da Xue Xue Bao,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R9865703322,Goel S 2006 Orbit,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R87d4dc1e8d,Arikan OK 2006 Oral Surg Oral Med Oral Pathol Oral Radiol Endod,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rd92105f22e,Loten C 2006 Med J Aust,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rcc4d7b20e7,Selfe J 2006 Arch Phys Med Rehabil,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R6b1616ce4e,Davies EH 2006 Paediatr Nurs,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R8aab10c49c,Koç M 2006 Hernia,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R8982af51b6,Kontochristopoulos G. 2006 Dermatologic Surgery,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rc66fc91a0f,Ownby KK 2006 J Assoc Nurses AIDS Care,no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+Rde056f399d,Costello M 2006 Clin Pediatr (Phila),yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R9dff2a287e,Callstrom MR 2006 Radiology,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rce706fe18b,Burney K 2006 Clin Radiol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rb09526e67f,Gay C 2006 Gynecol Obstet Fertil,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rcff0974212,Soueid A 2007 Pediatr Emerg Care,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Ra39678ae48,Steen M. 2007 Evidence Based Midwifery,no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R97b814d56b,Knobloch K 2007 Br J Sports Med,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R94ebfba790,Robinson PA 2007 Emerg Med Australas,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R3cb579e507,Chatap G 2007 Joint Bone Spine,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R7114ab81ea,Chatap G. 2007 Revue Du Rhumatisme Edition Francaise,no,no,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R45cf2b7574,France JE 2008 Eur J Emerg Med,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R88bc3f70bf,Yoon WY 2008 Am J Emerg Med,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R2a15e6f9bc,Woolf SK 2008 J Knee Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R29c419c213,Chou SY 2008 J Clin Nurs,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R648a04171f,Ju H 2008 Eur J Pain,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rc785940082,d'Young AI 2008 Haemophilia,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rf090867d17,P B S 2008 Indian J Nephrol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rac84b539f4,Raziee M 2008 J Eur Acad Dermatol Venereol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R8d9f4fc109,Farion KJ 2008 CMAJ,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rc1afb63f62,Chen MC 2008 Hu Li Za Zhi,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R7003f381a3,Zhang LD 2008 Shanghai Kou Qiang Yi Xue,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R3a50bb1028,Cohen LL 2009 Clin J Pain,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Re434bd4600,Dumot JA 2009 Gastrointest Endosc,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R34d177c29a,Belli E 2009 J Craniofac Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R90e7f0e6ed,Chaou CH 2009 Clin Toxicol (Phila),yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rd744c9c872,Hijazi R 2009 BMJ,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R27149455fb,Baxter AL 2009 Clin J Pain,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Re2c4afdef6,Fraunfelder FW 2009 Am J Ophthalmol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R487006042e,Aminabadi NA 2009 J Contemp Dent Pract,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R81eac60e0a,Walsh P 2010 Int J Obstet Anesth,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R52c74fb661,Moore W 2010 Acad Radiol,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R11fc11eb04,Defaye P. 2010 Archives of Cardiovascular Diseases,no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R8ef42ac69d,Kose O 2010 Foot Ankle Spec,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R6068212f86,Gal-Oz A 2010 Dermatology,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rc008870e09,Saeliw P 2010 J Med Assoc Thai,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R4046c065a3,Piechura J. 2010 Fizjoterapia,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rf9d2cdad52,Kelechi TJ 2010 J Wound Ostomy Continence Nurs,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R0a6a299288,Shaheen NJ 2010 Gastrointest Endosc,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R67c7a7f801,Greenwald BD 2010 Dis Esophagus,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R11103f390a,Rancour JL 2010 Sports Health,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rbbe91cdb9c,Page DE 2010 Br J Anaesth,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R73c0ebdd19,Leventhal LC 2010 Rev Esc Enferm USP,no,no,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R90d93b5cdf,Sanchez-Morago SG 2010 Rev Enferm,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R3330239e2a,Ikeda K 2010 Gan To Kagaku Ryoho,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rabc347552c,Calandria L 2011 Int J Dermatol,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R120c2b06b0,Wolter T 2011 Acta Neurochir (Wien),yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R991ec28288,Silva GV 2011 Tex Heart Inst J,yes,no,no,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R618cd8878b,Gelesko S 2011 J Oral Maxillofac Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R17bfed0832,Momenzadeh S 2011 Acta Med Iran,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R626f5900b7,Fjordbakk CT 2011 Am J Vet Res,no,no,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+Rdaea419298,Mustola ST 2011 Ann Thorac Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R88ac5220f1,Masala S 2011 Skeletal Radiol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rdcedf548ff,Leventhal LC 2011 J Midwifery Womens Health,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R6d0a7dcc2f,Matutina RE 2011 Ethn Dis,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Re98ddf42d5,Stålman A 2011 J Bone Joint Surg Am,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rf674cf3618,Stanek A. 2011 Fizjoterapia Polska,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R88c07545a7,Çelik G 2011 Int J Med Sci,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Red06267b62,Zielińska-Bliżniewska H 2011 Otolaryngol Pol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R3d5fcaa8a4,Boland M 2012 J Spec Oper Med,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rc37bc8481d,Su EP 2012 J Bone Joint Surg Br,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R65b3c24847,Hajiamini Z 2012 Complement Ther Clin Pract,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Red5424abe1,Oliveira SM 2012 J Clin Nurs,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rea21a88465,Im YG 2012 J Oral Rehabil,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Raf49dca53c,Kawczyk-Krupka A 2012 Photodiagnosis Photodyn Ther,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R283c719cfd,Dastmalchi N 2012 J Endod,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Ra96cd0a342,Leegwater NC 2012 Hip Int,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rca08436e69,"T Hanprasertpong, O Kor-anantakul, V Prasartwanakit, R Leetanaporn, T Suntharasaj, C Suwanrath 2012 Archives of gynecology and obstetrics, 2012, 286(3), 563‐566 | added to CENTRAL:",no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+Rfee5d264b0,Dambros C 2012 Acta Ortop Bras,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R4043b4795e,Hanprasertpong T 2012 Arch Gynecol Obstet,no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+Ra7b67bcc8f,Park J 2012 Acupunct Med,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rcbf0f7b318,Pop T. 2012 Postepy Rehabilitacji,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rd0fefc2690,Rupp KA 2012 J Orthop Sports Phys Ther,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rc7d0fe82bb,Al Shahwan MA 2012 Dermatol Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R811231c123,Polishchuk D 2012 J Bone Joint Surg Am,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R7bd90529fe,Friedman T 2012 J Ultrasound Med,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R8bd19b8e24,Fang L 2012 J Clin Nurs,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R9d8847f466,Waterman B 2012 J Knee Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R2879812a13,Maxwell S 2013 Man Ther,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R56df8256b9,Masala S 2013 Neuroradiology,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Ra5af90dbbf,Kuo CC 2013 J Nurs Res,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R68c35c5d8a,Knolle E. 2013 Pain,no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+Re56e0c8a93,Lu Q 2013 Eur J Cardiothorac Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R40c20ce4fc,Moon YE 2013 Arch Phys Med Rehabil,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R1574397bc5,Onuwe HA 2013 Niger J Physiol Sci,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rcf36fb60fc,Boroumandfar K 2013 Iran J Nurs Midwifery Res,no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R95eb415358,Waterhouse MR 2013 Pediatr Emerg Care,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rb7c9023f04,Studnicki R. 2013 Annales Academiae Medicae Gedanensis,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R9b5564501e,Ghaderi F 2013 Dent Res J (Isfahan),yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R5efd730a03,Bettoni L 2013 Clin Rheumatol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rca42afd3f9,Moawad FJ 2013 Dig Endosc,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rede2c85169,Kol E 2013 Pain Manag Nurs,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R62747dbc9b,"NL-OMON29547 2013 https://trialsearch.who.int/Trial2.aspx?TrialID=NL-OMON29547, 2013 | added to CE",no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R410ca8330e,Rotenberg BW 2013 Laryngoscope,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R19e6ad4a14,David Prologo J 2013 J Vasc Interv Radiol,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R08f1b3981d,Sepsas E 2013 Interact Cardiovasc Thorac Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rccc6156919,Azoulay T 2014 Vet Ophthalmol,no,no,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R0b4583d59b,"ChiCTR-TRC-14004790 2014 https://trialsearch.who.int/Trial2.aspx?TrialID=ChiCTR-TRC-14004790, 2014 | adde",yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Re89eb4c7c1,Amanat D 2014 Indian J Dent Res,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R05ed166d37,Li F 2014 Exp Ther Med,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rac9df77f99,Murgier J 2014 Orthop Traumatol Surg Res,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R0fecbf2c67,Murata K 2014 Asian Spine J,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rc6582d8ff7,Moon YE 2014 Am J Phys Med Rehabil,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Re61cb44f9b,Watkins AA 2014 J Am Coll Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R72ccdb4d4e,Khanbhai M 2014 Interact Cardiovasc Thorac Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rd04f8adb65,Cornelis F 2014 Cardiovasc Intervent Radiol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R31a2fcd52e,Koyonos L 2014 J Knee Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rbe8a0ef27e,Schleicher WF 2014 Dermatol Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rb90e0d0f68,Dehghan M 2014 J Clin Diagn Res,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rfa858fa7c5,Ewa D.W. 2014 Fizjoterapia Polska,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R12127ae45a,Moesker AA 2014 Pain Pract,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R3c69331e35,Guindic LC 2014 J Pain Res,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Ra7716a78ef,Irkoren S 2015 Ann Plast Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R7630e97b84,Collado-Mesa F 2015 Clin Radiol,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R88dec94bda,Coelho RP 2015 J Cataract Refract Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R510d994c75,Ba YF 2015 Surg Today,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rbb5aee0375,Pan L 2015 Int J Clin Exp Med,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R12e23b122f,Dehcheshmeh FS 2015 Complement Ther Clin Pract,no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R52da1f652c,Kim CH 2015 Pain Physician,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R415bb8e376,Pucks N 2015 J Plast Reconstr Aesthet Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Ra91c3b7a0b,Bech M 2015 Physiother Can,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R3527b8a715,Desteli EE 2015 Int J Clin Exp Med,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R2095264799,Macedo LB 2015 Physiotherapy,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R168213edcf,Yu SY 2015 Arch Phys Med Rehabil,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R68936e40dd,Evans JG 2015 J Hosp Infect,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R185bfb4664,Lathwal G 2015 Int J Clin Pediatr Dent,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Ra7e9135a71,Mumith A 2015 Geriatr Orthop Surg Rehabil,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R521e59dcf0,Kuyucu E 2015 Ann Med Surg (Lond),yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R5e76567834,Zhang DM 2015 Pediatr Surg Int,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R7d3865c578,Kim BS 2015 Korean J Ophthalmol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R4c784401e4,Prologo JD 2015 Skeletal Radiol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R3bb8b372f8,Bellini M 2015 Anaesthesiol Intensive Ther,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R7e1ec91d94,Huang L 2015 Postgrad Med,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rdadf376398,Haynes JM 2015 Respir Care,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R7914ab2f2e,Babayan R.K. 2015 Journal of Urology,no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+Rc2429fe7ff,Canto MI 2015 Endoscopy,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R8f0f5da8ba,Mlynek K 2015 Aesthetic Plast Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Re16aa8b334,Bastami M 2015 J Clin Diagn Res,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R920510bfad,Pool SMW 2015 Plast Reconstr Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R8c158d947c,Vanderpol J 2015 J Headache Pain,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R510fe5e2f6,Kopacz Ł. 2015 Fizjoterapia Polska,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R161c58966e,Schölvinck DW 2015 Endoscopy,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rf8be35351c,Di Staso M 2015 PLoS One,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rfc7c07016b,Li Y 2015 Zhonghua Yi Xue Za Zhi,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rc0d140293d,"S Trichard, E Dantony, D Maucort-Boulch, PY Gueugniaud, V Piriou, R Ecochard, C Busseuil 2016 Annales francaises de medecine d'urgence, 2016, 6(6), 395‐402 | added to CENTRAL",no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R2098e29428,Luo XM 2016 World J Gastroenterol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rf6430bb4ce,Księżopolska-Orłowska K 2016 Disabil Rehabil,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rc1e8d1f8d0,Das A 2016 J Cutan Aesthet Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rfe0bcedc2e,Shaikh R 2016 Pediatr Radiol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R437def7d82,Yoon JH 2016 J Vasc Interv Radiol,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Re3b83fc82e,Issac A 2016 Nurs J India,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R769f1b1d7b,Al-Nahlawi T 2016 J Contemp Dent Pract,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R4d28e04b5b,"TCTR20161221004 2016 https://trialsearch.who.int/Trial2.aspx?TrialID=TCTR20161221004, 2016 | added to",no,no,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R3cd2affa6f,Ebrahimi-Rigi H. 2016 Der Pharmacia Lettre,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R55fb2471e2,Zandi M 2016 Int J Oral Maxillofac Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R5267d1ae4d,Barca I 2016 Ann Ital Chir,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R667ec1a8cc,Keller BA 2016 J Pediatr Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R2990bbf63b,Çekmez Y 2016 Med Princ Pract,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rf934f44141,Ibikunle AA 2016 Oral Maxillofac Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R25795d39ae,Li J 2016 Biomed Res Int,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Ref5ed6d858,Garnon J 2016 Cardiovasc Intervent Radiol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rf8051dc8c5,Cazzato RL 2016 Cardiovasc Intervent Radiol,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rd041409044,Morais Í 2016 Rev Bras Ginecol Obstet,no,no,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+Rd5b5e1daff,Mace SE 2016 Am J Emerg Med,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R9eeb88e59f,"NCT02922153 2016 https://clinicaltrials.gov/show/NCT02922153, 2016 | added to CENTRAL: 31 May 201",no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+Rd82babbea1,Leegwater NC 2016 BMC Musculoskelet Disord,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R17c80883c2,Fossum K 2016 Am J Emerg Med,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R8013185650,Zugaro L 2016 Oncol Lett,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Refe566417c,Djebbar S 2016 Semin Musculoskelet Radiol,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rd360915486,Echevarria-Uraga JJ 2016 Respirology,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rf5f2fc211f,Edwards C 2017 Adv Emerg Nurs J,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R1f29699eeb,Natekar M 2017 J Clin Exp Dent,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rbf0b96d1bd,Dalvandi A 2017 Am J Emerg Med,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Re2dfea8635,Arab V 2017 J Caring Sci,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rbb69d2975c,Overwater A 2017 Curr Opin Gastroenterol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R46cdbd552b,Radnovich R 2017 Osteoarthritis Cartilage,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rf2a9841aea,Hwang PH 2017 Int Forum Allergy Rhinol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rfa1deb649d,Guillot X 2017 Joint Bone Spine,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Ra5c3ec7cd2,Al Amer HS 2017 Saudi J Kidney Dis Transpl,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R5e3290a44b,Attia AAM 2017 Int J Nurs Sci,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R2aa8205d60,Beleza ACS 2017 Physiotherapy,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Ra257d1434b,Bhadauria US 2017 Clujul Med,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rd63b798886,Keskin C 2017 Aust Endod J,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Re18af6b042,Lomax S 2017 Vet Anaesth Analg,no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+Rf614496f59,Quinlan P. 2017 Orthopaedic Nursing,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R4053e18cff,Suchniak-Mussari K 2017 World J Gastrointest Endosc,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R936654e026,Jun M 2017 J Dermatol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R0fa9c19c16,Graves C 2017 J Pediatr Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Re4f5cde90b,Mayrovitz HN 2017 Lymphology,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rce9fe42959,Richer N 2017 J Chiropr Med,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R537b79a21f,Maillot J 2017 Eur Radiol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R95c80ea2ac,Cornelis FH 2017 Cardiovasc Intervent Radiol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rc195bd8987,Prologo JD 2017 J Vasc Interv Radiol,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rdd646e86f3,Cornelis FH 2017 Eur Radiol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R9e0bd60bc7,Leegwater NC 2017 Injury,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Ra916c1a2ae,Moon YE 2017 J Anesth,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R899fb1e178,Mace SE 2017 Scand J Pain,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R9c7a6bcb13,Gupta NK 2017 World J Pediatr,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rf94365df4f,Coupal TM 2017 Pain Physician,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R949b7b1707,Hirvonen H 2017 Rheumatol Int,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R2e8e197a5d,Ciosek Ż. 2017 Fizjoterapia Polska,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R391aa328f4,Jayasuriya NSS 2017 Singapore Dent J,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R0eebc3be03,Farahmand S 2017 Acta Med Iran,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R77bc389da0,Rüsch D 2017 J Cardiothorac Vasc Anesth,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Ra91051123f,Ballesteros-Peña S 2017 Emergencias,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rb82d500582,Vakulenko OY 2017 Vopr Kurortol Fizioter Lech Fiz Kult,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Ra448922d6e,Alsantali A 2018 Clin Cosmet Investig Dermatol,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R60934ec499,Gernetzky J 2018 Health SA,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R8ae9ebb4a3,Griffiths C 2018 Support Care Cancer,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R0eb9ef69e6,Harbaugh CM 2018 J Surg Res,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R8650bb0e23,Canpolat DG 2018 Niger J Clin Pract,no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+Rc5130bf47a,Noyes MP 2018 Am J Orthop (Belle Mead NJ),yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R75ef3859b4,Nabıyev VN 2018 Neurospine,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R6e3fbdfe24,Morikawa N 2018 J Laparoendosc Adv Surg Tech A,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R5b8eea4dd4,"NCT03578237 2018 https://clinicaltrials.gov/show/NCT03578237, 2018 | added to CENTRAL: 31 January",no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+Rc065a40df1,"NCT03774121 2018 https://clinicaltrials.gov/ct2/show/NCT03774121, 2018 | added to CENTRAL: 31 Mar",yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R2d08f46c71,Smiley A 2018 AANA J,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Re37629744e,Siegenbeek van Heukelom ML 2018 Am J Clin Dermatol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R658169ee79,"TCTR20180226004 2018 https://trialsearch.who.int/Trial2.aspx?TrialID=TCTR20180226004, 2018 | added to",no,no,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R20baf9d72a,Kelechi TJ 2018 Int J Nurs Stud,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Ra2557eb929,Shah A 2018 J Clin Ultrasound,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R7281513584,Lateef T. 2018 Journal of Craniofacial Surgery,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R0a85fd6307,van Munster SN 2018 Gastrointest Endosc,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rc067bcf037,Kastler A 2018 J Neuroradiol,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R5979ff2cf0,Francisco AA 2018 Women Birth,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rd27213a16b,Vera J 2018 J Endod,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R1f284617b6,Kachaamy T 2018 Gastrointest Endosc,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R95225f8488,Canto MI 2018 Gastrointest Endosc,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R55ce86146d,Canto MI 2018 Gastrointest Endosc,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R1cf3ba191f,Sujka J 2018 J Laparoendosc Adv Surg Tech A,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R97aa9a01ad,Barbour T 2018 Pain Manag Nurs,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R66be2b6a71,Bittman RW 2018 AJR Am J Roentgenol,no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+Rc88e27670c,Ahmed M 2018 Cardiovasc Intervent Radiol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R702da8be70,Song J 2018 Emerg Med J,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R36883fb7e8,Piana LE 2018 Am J Orthop (Belle Mead NJ),yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R21f7255ad1,Lin S 2018 J Foot Ankle Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rd7cf84d820,Yarahmadi S 2018 Complement Ther Clin Pract,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rd46bb36808,El-Deen DS 2018 Int J Nurs Sci,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R1a428d74df,Rivera J 2018 Rheumatol Int,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R16822dac66,Yazdkhasti M. 2018 Shiraz E Medical Journal,no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R8bce59d806,Lomax S 2018 Vet Anaesth Analg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rbc55eebbcf,Zeiderman MR 2018 Eplasty,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R53c16fed84,Bostelman C 2018 Clin J Oncol Nurs,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R4938612c97,Politis C 2018 J Oral Maxillofac Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R3f11f1acd0,Niu XG 2018 Zhonghua Yi Xue Za Zhi,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R7f03be33dd,Paprocka-Zjawiona M 2018 Wiad Lek,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R21aad2f67f,Jokar L 2019 J Lasers Med Sci,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R7254d33df1,Yan LJ 2019 Pain Manag Nurs,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Re82767a9e3,"NCT03836313 2019 https://clinicaltrials.gov/show/NCT03836313, 2019 | added to CENTRAL: 31 March 2",yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R14212b4441,Najafi H. 2019 Journal of Mazandaran University of Medical Sciences,no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+Rc5e412f7e6,Bilge S 2019 Saudi Med J,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R297b6604a9,Park YH 2019 Arch Orthop Trauma Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R4e2c879691,Leegwater NC 2019 J Orthop Surg Res,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R4e9fd753cf,Ramaswamy RS 2019 Diagn Interv Radiol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rd62e030627,"T Kanni, E Agiasofitou, V Markantoni, V Tzanetakou, A Katoulis, S Gregoriou, D Rigopoulos, G Kontochristopoulos 2019 Skin appendage disorders, 2019, 5(2), 119‐120 | added to CENTRAL: 30 April 2019",yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R290392037f,Kvarstein G 2019 Scand J Pain,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Ra6a4cbaa4a,Chumkam A 2019 Pain Res Treat,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R82737d1fa8,Agah J 2019 Oman Med J,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R046e900c90,Ravindhran B 2019 World J Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R78c39937f8,Alharthi AA 2019 Saudi Dent J,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R4f3254c073,Rao PB 2019 Anesth Essays Res,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R4edecd1eae,Iwakiri K 2019 SICOT J,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R877d7e89c7,Blackorby BL 2019 Ophthalmol Retina,yes,no,no,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Re71895f39b,Cremer M 2019 Int J Gynecol Cancer,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rdf589680ec,Bittman RW 2019 Semin Intervent Radiol,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R61f35085f9,Graves CE 2019 J Pediatr Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rabbf2358c8,Sadaf D 2019 J Evid Based Dent Pract,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R880d3b6bbf,Solomon SS 2019 J Clin Gastroenterol,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R08fd9b7ab4,Stogicza A 2019 Pain Pract,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R7b9e7e7877,Farah CS 2019 J Oral Pathol Med,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R9efd063b93,Gallusser N 2019 Orthop Traumatol Surg Res,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R197441e761,Thijs E 2019 Knee Surg Sports Traumatol Arthrosc,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R2dc7bf18ae,Dantas LO 2019 J Physiother,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R155875ceb0,Parrado R 2019 J Laparoendosc Adv Surg Tech A,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rac50ad4913,Okoro T 2019 Ortop Traumatol Rehabil,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R7031e88c77,Porramezani N. 2019 Journal of Advances in Medical and Biomedical Research,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rb8301024e0,Ward RC 2019 AJR Am J Roentgenol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rc1eb87e894,Gabriel RA 2019 A A Pract,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R112919ff4f,Douzi W 2020 Metabolites,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R5a856fd968,Torre M 2020 Front Pediatr,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rfb795729b8,Anantharaj A 2020 J Indian Soc Pedod Prev Dent,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R9c3d89a093,van Munster SN 2020 Endoscopy,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R24d1e72021,Steele TO 2020 Int Forum Allergy Rhinol,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R6c9bc4a37a,Borgers A 2020 Acta Orthop Belg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R70f6530b71,Alshahwan M 2020 J Cosmet Dermatol,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R181c72fd4b,Yasin J 2020 Diagn Interv Radiol,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Ra5f2b9852c,Shafii Z. 2020 Journal of Nephropharmacology,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R7f0ed37bdf,John SS 2020 J Craniomaxillofac Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R8c4390d485,Moon YE 2020 Arch Phys Med Rehabil,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rb2187c0c77,Chang EM 2020 J Vasc Interv Radiol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R32c0ef7779,Clemence J Jr 2020 Semin Thorac Cardiovasc Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R1e5d171a47,Tanaboonyawat S. 2020 Orbit London,no,no,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+Rf258321026,Goss A 2020 Br J Oral Maxillofac Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rcb2e707a84,Chang MT 2020 Laryngoscope,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R6bff3183b3,Canul-Caamal MA 2020 Complement Ther Med,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rece5415b21,"NCT04482582 2020 https://clinicaltrials.gov/study/NCT04482582, 2020 | added to CENTRAL: 31 August",yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rc31fa1177c,"CTRI/2020/11/029089 2020 https://trialsearch.who.int/Trial2.aspx?TrialID=CTRI/2020/11/029089, 2020 | adde",no,no,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R9019cbc824,Abdo S.M. 2020 Physiotherapy Quarterly,no,no,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R14e5f3eec1,Thamu Priyadharshini N.T. 2020 International Journal of Research in Pharmaceutical Sciences,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R6858c352c7,McGregor H 2020 J Vasc Interv Radiol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rb162c5cabd,Coelho Neto F. 2020 Dermatologic Surgery,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rcac989e71b,Tanaka A 2020 Ann Thorac Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Ra606bd73cc,Kortobi L 2020 Saudi J Kidney Dis Transpl,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Re939ce69ce,Wasserlauf J. 2020 Journal of Cardiovascular Electrophysiology,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rf4fb8942b0,Jalloul Y. 2020 Journal of Cardiovascular Electrophysiology,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R188343bcb8,Prologo JD 2020 Am J Hosp Palliat Care,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rea84311426,Behbahani K 2020 J Vasc Interv Radiol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R38a90e75c2,Carabin J 2020 J Vasc Interv Radiol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R305b5c38ee,Autrusseau PA 2020 Cardiovasc Intervent Radiol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rf2c23bb57c,De Marini P 2020 Int J Hyperthermia,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R68fc253924,Dekonenko C 2020 J Pediatr Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R48318f1e40,Bansal V 2020 Oral Surg Oral Med Oral Pathol Oral Radiol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R9d583db984,"TCTR20201226002 2020 https://trialsearch.who.int/Trial2.aspx?TrialID=TCTR20201226002, 2020 | added to",yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R83653b7048,Rasooli F 2020 Turk J Emerg Med,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R9ccf655712,Chilakamuri S 2020 J Dent Anesth Pain Med,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rbb23243119,Taherian T. 2020 Advances in Integrative Medicine,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R0bc1209aaf,Zobel MJ 2020 Pediatr Surg Int,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R554ba757b1,Cadaval Gallardo C 2020 Cir Pediatr,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rbc4cb787ed,Burke CJ 2020 Acad Radiol,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R1c09853571,Gabriel RA 2020 Korean J Anesthesiol,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R4998388ccd,Finneran Iv JJ 2020 Korean J Anesthesiol,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R63ba642897,Pilkington M 2020 J Pediatr Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R30a26b2c67,Dashina TA 2020 Vopr Kurortol Fizioter Lech Fiz Kult,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R272fe038db,Filippiadis D 2021 Cardiovasc Intervent Radiol,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rb3be28c505,Yaman Aktaş Y. 2021 Complementary Medicine Research,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rb645151f38,Benchahong S. 2021 Journal of Obstetrics and Gynaecology Research,no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R1530cb75e6,De Boer AS 2021 J Foot Ankle Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R8ce4dcb5f9,Iezzi R 2021 Tomography,yes,no,no,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R4258b29173,Rettig RL 2021 Pediatr Surg Int,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Ra54b7bd235,Arshad SA 2021 J Pediatr Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R38d17ac131,Dalili D 2021 Skeletal Radiol,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R28da858a28,"NCT04786145 2021 https://clinicaltrials.gov/show/NCT04786145, 2021 | added to CENTRAL: 31 March 2",yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rab3b075618,Mihalko WM 2021 J Arthroplasty,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R2cca350621,Sahoo RK 2021 A A Pract,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rf218285b24,Tank JC 2021 J Trauma Acute Care Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rfb0816f849,Jain A. 2021 Indian Journal of Dental Sciences,no,no,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R83a163e7e4,Caldas VVA 2021 Am J Phys Med Rehabil,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rc3a0b30a6f,Abunab HY 2021 Hemodial Int,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rdd263a24c3,Pouedras M 2021 Hand Surg Rehabil,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rf709115dfc,Aziz M 2021 J Pak Med Assoc,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R48b6ed5a40,AmruthaVarshini I 2021 Int J Clin Pediatr Dent,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R99b7502bda,Basak T 2021 J Infus Nurs,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rd2f38fdc37,Unal N 2021 Clin Nurs Res,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rfcdc1e1a1d,Grigsby E 2021 Local Reg Anesth,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R5958da6187,Lakshmanan L 2021 Int J Clin Pediatr Dent,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R25b6717ba6,Mapaisankit N. 2021 Thai Journal of Obstetrics and Gynaecology,no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R685a545cc5,Gadicherla S. 2021 Pesquisa Brasileira Em Odontopediatria E Clinica Integrada,no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R00c9da4fbc,"NCT04733326 2021 https://clinicaltrials.gov/ct2/show/NCT04733326, 2021 | added to CENTRAL: 28 Feb",no,no,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+Rd6beeffdb1,Selvi F 2021 Am J Emerg Med,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rdc27f777e0,Leroux EJ 2021 West J Emerg Med,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Ra047165816,Lau WC 2021 Pain Ther,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rb5a7a41cf6,Sun RC 2021 J Pediatr Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R8698002faa,Choi J 2021 J Trauma Acute Care Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rb72f50eae9,Aiken TJ 2021 J Pediatr Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R50b5d8d566,Schaefer PM 2021 Clin Imaging,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R13a2099783,Laktašić Žerjavić N 2021 Psychiatr Danub,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rf3402b9312,Zhong Y 2021 Evid Based Complement Alternat Med,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rb67c795c2e,Rekawek P 2021 J Matern Fetal Neonatal Med,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rf8a73de0fe,Fujiwara H 2021 Cardiovasc Intervent Radiol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R8fcab012ad,Augustine MR 2021 J Vasc Interv Radiol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Ref4110c9e2,Finneran Iv JJ 2021 Expert Rev Med Devices,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R88f22c5129,Kuemanee O. 2021 Journal of the Medical Association of Thailand,no,no,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R6a2500d7f9,Sandrowski K 2021 Hand (N Y),yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R62ce161645,Bauman ZM 2021 Injury,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rbc848cf60a,Kjærgaard Larsen M 2021 J Oral Maxillofac Res,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Ra19bcde5b6,Yildiz S 2021 J Obstet Gynaecol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R021c3c3358,Kothamasu A 2021 Pain Manag Nurs,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R286a8653bb,Roh Y. 2021 Applied Sciences Switzerland,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R70e746dbec,Garcia C 2021 Pain Ther,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R5c2cab29e5,Gologorsky R 2021 Pediatr Surg Int,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R7236b6e9fa,Selvi F. 2021 Genel Tip Dergisi,no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R83ee97312d,Pechetov AA 2021 Khirurgiia (Mosk),yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R64f6468887,Swisher MW 2022 Pain Ther,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R727f5570f6,Paulsamy P. 2022 Journal of Healthcare Engineering,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rf84f4bd477,Perry TA 2022 Osteoarthr Cartil Open,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rb3be7bb8ed,Gravel G 2022 Jpn J Radiol,yes,no,no,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R34bb69163c,Han MG 2022 Vet Med Sci,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R25dca99007,Chary A 2022 Semin Intervent Radiol,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rf51215fbbb,Kumari N 2022 J Indian Soc Pedod Prev Dent,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rd4236aa08a,Gürdap Z 2022 J Clin Pharm Ther,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R025e937fa2,Zheng X 2022 Quintessence Int,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R38c3678c14,Ghasemi M 2022 BMC Pediatr,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R0d7143fde6,Saechoen D 2022 Eur J Obstet Gynecol Reprod Biol X,no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R152edb1787,Li K 2022 BMC Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rd65b19e362,Farley P 2022 Am Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R1f573efc60,Rettig RL 2022 J Pediatr Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rd69070d522,"NCT05276258 2022 https://clinicaltrials.gov/show/NCT05276258, 2022 | added to CENTRAL: 31 March 2",yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R8f29fa036c,Stogicza AR 2022 Reg Anesth Pain Med,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R3f2d300c16,Arshad SA 2022 J Surg Res,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Ra99b52d83d,Lung BE 2022 Life (Basel),yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rc9c76ceaf8,Shaffer JP 2022 Orthop J Sports Med,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Read7166c4d,Gupta R. 2022 Ip Indian Journal of Conservative and Endodontics,no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R0d61ebac7b,Del Signore AG 2022 Int Forum Allergy Rhinol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Raf36daf8b0,Gao P 2022 Evid Based Complement Alternat Med,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R8a3b574d2b,Khezri MB 2022 BMC Res Notes,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rcc10dbf6c9,"IRCT20211231053574N1 2022 https://trialsearch.who.int/Trial2.aspx?TrialID=IRCT20211231053574N1, 2022 | add",no,no,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+Rf3c92b02d9,Gurucharan I 2022 Clin Oral Investig,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R1cc18f1c38,Rojek J. 2022 Rehabilitacja Medyczna,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R4caf1c09c9,Dhingra N 2022 J Clin Pediatr Dent,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Re8eb2e1e8b,Tehranchinia Z 2022 J Cosmet Dermatol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R0d8af3ea25,Chitkumarn P 2022 Support Care Cancer,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R9f89bdf011,Cakmak F 2022 Am J Emerg Med,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R37b9c01dc1,Tung J 2022 J Robot Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R1377d8ccce,Smith KA 2022 Abdom Radiol (NY),yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R60aac90df7,Bayraktar N 2022 Dermatol Res Pract,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R9501cb57bf,Kahere M 2022 J Chiropr Med,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R9f6bb65e17,Curlin H 2022 J Minim Invasive Gynecol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R3492002401,von Falck C 2022 Cardiovasc Intervent Radiol,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R14e072a633,Clark RA 2022 J Am Coll Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R8457baf661,Fernandez CA 2022 J Trauma Acute Care Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Raf1028b34e,Bundrant NT 2022 J Pediatr Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rac39a7bff2,Huang J 2022 Semin Intervent Radiol,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R4215d560e2,Lai K 2022 J Laparoendosc Adv Surg Tech A,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R3d1300a685,Zacha S 2022 Front Pediatr,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R3743bbac18,Sylvia Western J. 2022 Saudi Endodontic Journal,no,no,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+Rbb0530f584,Mascia D 2022 Int Angiol,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Ra2e9d7f4be,Uchida R 2022 J Orthop Surg Res,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R020fea803d,Song SH 2022 Medicine (Baltimore),yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R6854316d3e,Scharfenberg DR 2022 J Perianesth Nurs,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rf6210fe2a2,O'Connor LA 2022 J Surg Res,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R920724453f,Munsch MA 2022 J Clin Orthop Trauma,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R66ffaed58c,Velayos M 2022 Eur J Pediatr Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R1e0749be10,Finneran Iv JJ 2022 Reg Anesth Pain Med,no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R2ed6befb97,Ilfeld BM 2022 Anesthesiology,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R323ca56688,Fraser JA 2022 J Pediatr Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R0966aa9e3a,Nicolás M 2022 Ultrasound J,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R98a5933008,Pimratana C. 2022 Siriraj Medical Journal,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R25ae338de1,Yonetani Y 2022 Arthrosc Sports Med Rehabil,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R7e8ac3c418,Didevar M. 2022 Nursing and Midwifery Studies,no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+Rf092583240,Trinder R 2022 J Small Anim Pract,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Raf7af0f105,"V Kurfirst, A Mokracek, J Krbec 2022 Chest, 2022, 161(1), A48 | added to CENTRAL: 28 February 2022 | 2022 Issue 02 Em",yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rca246aa319,González-Ramos LF 2022 Acta Ortop Mex,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rae13148649,Vachiramon V. 2023 Journal of Cosmetic Dermatology,no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R62bedd69ac,Gur A. 2023 European Journal of Clinical and Experimental Medicine,no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+Ra19ad964f1,Winston P 2023 Am J Phys Med Rehabil,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rc1748195d5,Mehl SC 2023 Ann Thorac Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R8cd511412a,Zacha S 2023 J Pers Med,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R7281e9bf42,Jennewine BR 2023 Arthroplast Today,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R161377d51c,Huang ML 2023 Acad Radiol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R1e34411d10,Dokollari A. 2023 Reviews in Cardiovascular Medicine,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rded6b55b7f,"CTRI/2023/03/050746 2023 https://trialsearch.who.int/Trial2.aspx?TrialID=CTRI/2023/03/050746, 2023 | adde",yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R66380b05a1,Nazer S 2023 Anesth Pain Med,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Re34fc8eebb,Roongpisuthipong W 2023 J Am Acad Dermatol,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rb5b50e2344,"TCTR20230117006 2023 https://trialsearch.who.int/Trial2.aspx?TrialID=TCTR20230117006, 2023 | added to",no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R2d8c0aa0ec,Yang JH 2023 Clin Orthop Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Red637f197b,Khosravi Pour A 2023 BMC Anesthesiol,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R95e76dbfd8,Perez Holguin RA 2023 J Pediatr Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R0764dcce80,Lai K 2023 J Pediatr Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R1f50ba970e,Koons B 2023 JTCVS Open,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rd1acbdde60,Tsyhankov O.V. 2023 Ukrainian Journal of Radiology and Oncology,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rdcba2c3e36,Ushakov A.A. 2023 Regional Anesthesia and Acute Pain Management,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Re86312843c,Abbasi H 2023 J Dent Res Dent Clin Dent Prospects,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R9c2237c1ac,Cachemaille M 2023 Pain Pract,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R6574c7c39d,Elheeny AAH 2023 Clin Oral Investig,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Red602533bb,Pandey A 2023 Bioinformation,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R103ebe3d4d,Keskin C 2023 Int Endod J,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R2aa7f1e2da,Zeineddin S 2023 J Pediatr Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rcd77c831af,Abbasi H 2023 SAGE Open Med,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R8ff919400f,Kato T 2023 In Vivo,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rcaa0c4c5af,Das G 2023 Indian J Anaesth,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R08f05420e4,Xu M 2023 Ann Med Surg (Lond),yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R2d1ea65f5e,Shah V.R. 2023 Endodontology,no,no,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+Re8ced31bc6,Alkuhaimi TS 2023 Cardiovasc Intervent Radiol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R73e47bbf11,Talsma J 2023 J Pediatr Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R6f42b16542,Hrubar YО 2023 Wiad Lek,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rc4b1de2a96,Shields JK 2023 J Minim Invasive Gynecol,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R483d5a3246,Hegde BN 2023 J Pediatr Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R3dc7b77ad5,Snady H 2023 Ann Med,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Re30444a9aa,Elheeny AAH 2023 Pediatr Dent,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rae51249ee3,Lai K 2023 J Pediatr Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R99247f0577,Maxwell CM 2023 Innovations (Phila),yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R8811f805b5,Chen SY 2023 J Surg Res,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R637605eb77,Isaza E 2023 Pain Ther,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rbc7c597d4d,Marturano MN 2023 Injury,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rdc53bd211f,Mazzega-Fabbro C 2023 Clin Breast Cancer,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rd1829ae181,Arshad SA 2023 Ann Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rede5bdfcd0,Dell'Antonia M 2023 Front Med (Lausanne),yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R3e13d2f38d,Nezami N 2023 J Vasc Interv Radiol,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Re6cf649616,Jouffrieau C 2023 J Minim Invasive Gynecol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rfd6f307872,Roth ZA 2023 J Perianesth Nurs,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R220b0dacce,Najdawi M 2023 J Vasc Interv Radiol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Re52a30a908,McMillan S 2023 Surg Technol Int,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R35ca4f22cd,Dehghan M 2023 Nephrol Nurs J,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rb81a9b6180,Akın B. 2023 Anatolian Journal of Family Medicine,no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+Rc80a584279,Kol E 2023 Clin Nurs Res,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R48d9bb8276,Semerci R 2023 J Pediatr Nurs,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R3b80c70291,Lee K 2023 Appl Nurs Res,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Reb1ecf1521,Velayos M 2023 Eur J Pediatr Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R0dbc514dda,Nemecek Z 2023 Pain Manag,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R16871d452d,Ilfeld BM 2023 Anesthesiology,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rc1b828a94e,Schaldemose EL 2023 Temperature (Austin),yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rba6a0eca06,Morsy H 2024 Int Urogynecol J,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R33a576d61c,Eldredge RS 2024 J Pediatr Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R9ab39ed3f5,Rim GM 2024 Eur J Pediatr Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R2465d4fe71,"NCT06213155 2024 https://clinicaltrials.gov/study/NCT06213155, 2024 | added to CENTRAL: 30 April",yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R26b04b09d6,Chittora M 2024 J Indian Soc Pedod Prev Dent,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R95cae72e9a,"CTRI/2024/04/065130 2024 https://trialsearch.who.int/Trial2.aspx?TrialID=CTRI/2024/04/065130, 2024 | adde",yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R1f08988e8f,"CTRI/2024/05/067452 2024 https://trialsearch.who.int/Trial2.aspx?TrialID=CTRI/2024/05/067452, 2024 | adde",yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rb8290f6876,Sudha PM 2024 Int J Clin Pediatr Dent,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R633a6d19a6,Turan Ç 2024 J Am Podiatr Med Assoc,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R333c0e2833,Villalta CI 2024 Trauma Surg Acute Care Open,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rae98411854,Mbadhi A 2024 Inquiry,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R64dab30857,Pitt JB 2024 J Pediatr Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rcc7ec24554,Scalise P.N. 2024 Journal of Pediatric Surgery,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R586718a05a,Aranda-Valderrama P 2024 Reg Anesth Pain Med,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R09ff2c6530,Solomon RV 2024 J Clin Exp Dent,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R578587e510,Khunprabaht J. 2024 Thai Journal of Obstetrics and Gynaecology,no,no,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+Re8fcfc887a,Fachin KDSM 2024 J Geriatr Phys Ther,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R5353355656,Cristine Boniatti Constant É 2024 Eur J Obstet Gynecol Reprod Biol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R53fd165b40,"S Bauones, A AlAwaji, M Aldosary, Z Almoabid, U Alshaya 2024 Cardiovascular and interventional radiology, 2024, 47, S515 | added to CENTRAL:",yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R511052a8fc,Tofighi S 2024 Int J Gynaecol Obstet,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R0274599db5,"NCT06861387 2024 https://clinicaltrials.gov/study/NCT06861387, 2024 | added to CENTRAL: 31 March",no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R8c9c386acc,Khan M 2024 Am J Sports Med,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rac1d0498e0,Chidiac C 2024 J Surg Res,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rf2063d055f,"NCT06443931 2024 https://clinicaltrials.gov/study/NCT06443931, 2024 | added to CENTRAL: 30 June 2",yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rf74b166110,Hegazy SE 2024 Crit Care Nurs Q,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R90383bf1fc,Truong K 2024 RMD Open,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Raa2d1f207b,"K Truong, K Meier, LC Ahrens, OW Thea, Z Hamed, LH Tiroke, S Arvin, M Bazys, G Gudmundsdottir, JG Carlsen, L Nikolajsen, M Van Tulder, JCH Sorensen, MM Rasmussen 2024 Brain and spine, 2024, 4 | added to CENTRAL: 31 October 2024 | 2024 Issue 10 Emb",no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R5f5d83cdcf,Pedersen JB 2024 BMC Anesthesiol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R2897894ba7,Koca F 2024 Angiology,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R2c4178b980,"R Sundaravaradhan, A Rao, R Anithakumari 2024 International journal of pharmaceutical sciences and research, 2024, 15(11), 337",no,no,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R68d09eec37,"NCT06304259 2024 https://clinicaltrials.gov/study/NCT06304259, 2024 | added to CENTRAL: 31 March",yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Recfe4da342,Mitra P 2024 J Pharm Bioallied Sci,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R5b1252b3a0,Clinker C 2024 Pediatr Surg Int,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rdacb79d6b1,Davangere Padmanabh SK 2024 J Dent Anesth Pain Med,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rd23f58b2ce,Ghabraei S 2024 BMC Oral Health,no,no,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+Rb2dc6d1170,Scaturro D. 2024 Journal of Back and Musculoskeletal Rehabilitation,no,no,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R954e820d9a,Rai S 2024 J Dent Anesth Pain Med,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Ra27c2bf152,Gungor S 2024 Sci Rep,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rc1590993d2,Ingale PC 2024 J Pharm Bioallied Sci,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R666ef4069d,Gautam S 2024 Indian J Anaesth,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R6261b93322,Peedikayil FC 2024 J Dent Anesth Pain Med,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rc974a93605,Wharton K 2024 J Surg Res,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R282f4067e1,Lalfakawmi S 2024 J Endod,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R49297e1c14,Pourak K 2024 Interdiscip Cardiovasc Thorac Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R90eeb9aba3,Aryan N 2024 J Surg Res,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Redfdf5062f,Singh K 2024 Int J Clin Pediatr Dent,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R8aa7ffdad5,Linton SC 2024 Ann Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rb68b202701,van Braak H 2024 Eur J Pediatr Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R100457ab75,McElhinney KL 2024 Pediatr Blood Cancer,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R6d41960e49,Perez MN 2024 Semin Pediatr Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R074af0228d,Toselli L 2024 J Pediatr Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R30448e720b,Eldredge RS 2024 J Pediatr Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rc460f75347,Marcelin C 2024 Eur Radiol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rce82a9a6ef,Carter M 2024 J Surg Res,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R33acc424f7,Castillo-Rangel C 2024 World Neurosurg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R99cef2abf5,Braud A 2024 Cardiovasc Intervent Radiol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R12aaf4ea7a,Akhil VS 2024 Clin Oral Investig,no,no,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+Rfd4a497309,Zacha S 2024 J Pers Med,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Re6e9e3c604,Eldredge RS 2024 J Pediatr Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R752e155a91,Shah NM 2024 J Pharm Bioallied Sci,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rd8811a1d3f,Wang S 2024 JAMA Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rcd2b62bfef,Bachour R 2024 Diagn Interv Imaging,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Re75dbb028c,Marcelin C 2024 J Gynecol Obstet Hum Reprod,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R70f99ee01e,Yano T 2024 J Anus Rectum Colon,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rdf1db9fcbc,Fujita K 2024 Schizophr Res,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rc8c7fb8985,Xiao SW 2024 BMC Musculoskelet Disord,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R8f61629a5d,Razmi SE 2024 Cureus,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R4d84a7c264,Sunakawa H 2024 Gastrointest Endosc,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rd2891a3260,Latour C 2024 J Vasc Interv Radiol,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rc56cf6f280,Moulin B 2024 Cardiovasc Intervent Radiol,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R6577c31209,Durgut E. 2024 Medicina Lithuania,no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+Rb25fd36a81,Belsey J 2024 Physiotherapy,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rc06a9fb312,Ilfeld BM 2024 Anesth Analg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rd0fc0447e5,Zellner M 2024 J Vasc Interv Radiol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R2e6bc681b5,Anderson AB 2024 J Orthop Trauma,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rb16b0a171a,Jafarimanesh H 2024 Curr Health Sci J,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R749f4c2b39,Türkmen H 2024 J Midwifery Womens Health,no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R6ec38d81c9,"TCTR20240812001 2024 https://trialsearch.who.int/Trial2.aspx?TrialID=TCTR20240812001, 2024 | added to",no,no,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R859e8f196b,Çelik EG 2024 J Emerg Nurs,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R00cc8af0c5,Iparraguirre Nuñovero MF 2024 Sci Rep,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R0a479e7430,Patel H. 2024 Turkish Endodontic Journal,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R5df6dc26ba,Lee SM 2024 J Korean Biol Nurs Sci,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R11d19032ae,Filipovski I 2024 Cureus,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R35bfcb46d1,Gyorfi M. 2024 Perioperative Pain Management A Clinical Guide,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R89ecd4686a,Finneran JJ 2024 Cureus,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R444a02d1f3,Wong JYS 2024 J Pediatr Orthop B,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R606d0395dc,Al-Jubouri MB 2024 Hemodial Int,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R2433c73d5f,Moussa M 2024 J Vasc Interv Radiol,yes,no,no,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R6dd8758c24,Tewari SO 2024 J Nucl Med Technol,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R886ab82181,Maganur PC 2025 Children (Basel),yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R71e1bcc45c,"NCT07214844 2025 https://clinicaltrials.gov/study/NCT07214844, 2025 | added to CENTRAL: 31 Octobe",no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+Raa60ceaa01,"CTRI/2025/03/083031 2025 https://trialsearch.who.int/Trial2.aspx?TrialID=CTRI/2025/03/083031, 2025 | adde",no,no,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R16a11cfc66,Weksler B 2025 J Thorac Cardiovasc Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R4712c50c42,Ritter H 2025 J Clin Med,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rbe6136732c,Kwater A.P. 2025 Jca Advances,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rcad900ab9e,Lo Bianco G 2025 J Clin Med,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rf114fffa5d,Alhourani B 2025 BDJ Open,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R8280327b2e,Anjitha T 2025 J Conserv Dent Endod,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R917c48bfd2,Bykar H 2025 Int J Obstet Anesth,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R522cee26ef,Sailer A 2025 Semin Intervent Radiol,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rf0efaaa7a8,Yilmaz A 2025 J Clin Med,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Raf181387f9,Vellaiyan A. 2025 Journal of Medicinal and Pharmaceutical Chemistry Research,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Ra4fe5de2d8,Habib MF 2025 J Clin Exp Dent,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rd070967ba3,Vaghasia H. 2025 Ip Indian Journal of Conservative and Endodontics,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rb34b0a9ab6,Borghate P 2025 J Korean Assoc Oral Maxillofac Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Re8b1536974,Ezzat YK 2025 BMC Oral Health,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Re8ed4afa5a,Al-Waeli HR 2025 J Educ Health Promot,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R87d54ce8a1,Goldberg D 2025 Am J Hosp Palliat Care,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R64e523fd79,"CTRI/2025/03/082644 2025 https://trialsearch.who.int/Trial2.aspx?TrialID=CTRI/2025/03/082644, 2025 | adde",no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+Rec652760c3,Yilmaz A 2025 Pain Res Manag,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R5c2c7eb2e8,Akhgar A 2025 Emerg Med J,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rab110d09f4,Chareancholvanich K 2025 Arthroplasty,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R34fdc2cea1,Adosary M 2025 Cardiovasc Intervent Radiol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R01c1639d1d,Tsiplakos P 2025 Cureus,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R2ecef89b3e,Tsyhankov O.V. 2025 Journal of V N Karazin Kharkiv National University Series Medicine,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rbd53784d83,Bastianello M 2025 Paediatr Anaesth,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R6bc9e38dd8,Mont MA 2025 J Arthroplasty,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Redf7ca29b4,Moon JT 2025 Cardiovasc Intervent Radiol,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R4986062096,Stapleton G 2025 Curr Pain Headache Rep,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R9326d5e533,Pick A 2025 Adv Rehabil Sci Pract,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Racdecfcba9,Young S 2025 J Pers Med,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R8f788b3a2b,Cornelis FH 2025 Cardiovasc Intervent Radiol,no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R58c4f5c09b,Katyal S 2025 Med Int (Lond),yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Re3cbabadce,Aboushika P 2025 G Ital Nefrol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R2a831e4d78,Seow-En I 2025 Ann Coloproctol,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R129688c7f9,Tailliez N 2025 Pain Manag Nurs,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R15a1b115b0,Sankar S. 2025 World Journal of Dentistry,no,no,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+Rbf16eb51aa,Almasoud L 2025 Eur J Dent,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R45e7ba2314,Fattahi B 2025 J Endod,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R3c1a42a772,Fatima S 2025 J Oral Biol Craniofac Res,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R539d8861e6,Nashy R.A. 2025 Tanta Dental Journal,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R32eb83e66c,Eldafrawi S 2025 Sci Rep,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R07f6c55db2,Trinder R 2025 J Small Anim Pract,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R4a82797da1,Heller KA 2025 J Pediatr Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rb2d3f4e15c,Nakazawa J 2025 Ann Thorac Cardiovasc Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Re0e7cec442,Ahmad MZ 2025 Front Dent Med,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Ree4cdffb78,Touimi Benjelloun G 2025 J Pers Med,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rc2f006b16c,Mattoo R.I. 2025 Endodontology,no,no,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R0cc6bf3d6e,Puangrab S 2025 Adv Clin Exp Med,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rea870b5d3d,Bashir AF 2025 Aust Endod J,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R2e6b9321ef,Swetha C 2025 J Contemp Dent Pract,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R3f371e31b5,Abuhelal Y.H. 2025 Advanced Dental Journal,no,no,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R7b23bdaf62,Kaya Mumcu A 2025 Clin Oral Investig,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rb97569d09b,Onyancha S 2025 Open Respir Arch,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R09fc4d058b,Bianco GL 2025 Pain Ther,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R49b6dc7ba7,Thapar M 2025 Pediatr Dermatol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R33976bb351,Chen P.C. 2025 Diseases of the Colon and Rectum,no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R3257bab0c0,Vejdanihemmat V. 2025 Complementary Therapies in Medicine,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Re8fecb0f8c,Mont MA 2025 J Arthroplasty,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R2c80c909fa,Cruz Álvarez JE 2025 Cureus,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rd8866bfdfe,Miller DL 2025 Pain Ther,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R37319a45b7,Santana L 2025 Eur J Pediatr Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R5769a0e682,Green A 2025 J Pediatr Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R1cb6117866,Koliakos E 2025 J Thorac Cardiovasc Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R30eb03d169,Salan-Gomez M 2025 JTCVS Open,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rf6f634c8e4,Heran MKS 2025 Skeletal Radiol,yes,no,no,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R3ff4830a96,Ferrillo MG 2025 Pain Physician,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R52b9bf2ee8,Hashemi M 2025 Am J Phys Med Rehabil,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R2e66b918dc,Nowak K 2025 Br J Nurs,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rb317ad3821,Iglesias NJ 2025 J Pediatr Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R7cb2c3d245,Sharma SD 2025 J Maxillofac Oral Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R2b12da77b9,Shaikh R 2025 Cardiovasc Intervent Radiol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rda64f7e086,Guynn CC 2025 Arch Rehabil Res Clin Transl,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rf1d0d1f8f8,Cazzato RL 2025 Cardiovasc Intervent Radiol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rfb7a3a075e,Marcelin C 2025 Eur Radiol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R3aac47825a,Ghoneem S.F. 2025 Vestnik Vosstanovitel Noj Mediciny,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R1f47305c2a,Yao P 2025 Quant Imaging Med Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Ra0d6686061,DiFiore JW 2025 J Pediatr Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R6b1da2d91d,King J 2025 Laryngoscope Investig Otolaryngol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rf50dfce133,Ishida T. 2025 Medicine United States,no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R7d36d2dab1,Masui K 2025 J Anesth,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Re250a7ac0c,Gómez Sánchez A 2025 Cir Pediatr,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R55b8b51789,Sir Ö 2025 J Perianesth Nurs,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R2f8cbc9105,Rashid RM 2025 Pain Physician,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R7a74412c9a,Gürler K 2025 J Endod,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rfc64bd248b,Gürler K 2025 BMC Oral Health,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R6fcc41c45a,"CTRI/2025/12/099308 2025 https://trialsearch.who.int/Trial2.aspx?TrialID=CTRI/2025/12/099308, 2025 | adde",yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R624a767c74,Forrester JD 2025 Injury,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R60b9f021e5,Pamuk Ç 2025 Medicine (Baltimore),yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R2cd08d5a84,Al-Waeli H.R. 2025 International Journal of Body Mind and Culture,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R40cfea15d8,Marotta N. 2025 Journal of Sports Medicine and Physical Fitness,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R93e9fc556f,Rapčan R 2026 Eur Spine J,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R214cda74d5,"KCT0012667 2026 https://trialsearch.who.int/Trial2.aspx?TrialID=KCT0012667, 2026 | added to CENT",no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+Rc5620c1688,Galor A 2026 Ophthalmol Ther,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rba2edebbe2,Peng H 2026 Discov Oncol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R4b42b1ece2,Ng MK 2026 J Arthroplasty,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R57da93048b,Robles-Gea M.J. 2026 Enfermeria Nefrologica,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R2038cbd8f8,Raja SG 2026 Med Sci (Basel),yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R738aedddd9,Souza T.d.O. 2026 Revista Gaucha De Enfermagem,no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+Re5bacaf20c,Chikladze N 2026 Georgian Med News,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R4aae6ca2ea,Forrester JD 2026 J Trauma Acute Care Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R120922a72d,Battle W 2026 J Vasc Interv Radiol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R2d8ffb7b10,McCaffrey JM 2026 Surg Oncol,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Redc51187e5,Kočan L 2026 Spine (Phila Pa 1976),yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R603908c76f,Baldawa HS 2026 Int J Clin Pediatr Dent,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R81870351b1,Kalena KD 2026 Cureus,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R364d19144d,Mammana M 2026 Updates Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rb85c197f7d,Kumar M. 2026 Indian Journal of Clinical Anaesthesia,no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+Rf7e570b325,Garrido-Santamaría R 2026 Front Med (Lausanne),no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R35023f5a7c,Mejia S 2026 PM R,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R658ee75f2c,González-Suárez S 2026 BMC Anesthesiol,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R4ae5ba0ff9,Committeri U 2026 Oral Maxillofac Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Reca340ccfa,Wikner M 2026 Int J Obstet Anesth,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rddd0b09887,Meccariello L 2026 Eur J Transl Myol,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R619f22f874,Drake L 2026 Ann Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rf36b394cbd,Simons JF 2026 ANZ J Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R51c5737c94,Carmona A 2026 J Surg Res,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R06142e8bc4,Drake L 2026 Innovations (Phila),yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R9d2a3858bd,Ilfeld BM 2026 Reg Anesth Pain Med,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rd26dfe3ffb,Raaga Sreenija K. 2026 World Journal of Dentistry,no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+Rf5de0e590e,Toavs TL 2026 J Arthroplasty,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R8da57dbee1,Ilfeld BM 2026 Anesthesiology,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rb56075c76a,Gogol P 2026 Med Sci Monit,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R4397307a86,Sutthapakti B 2026 Knee,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rc44ffa6793,Lee N 2026 Int J Nurs Stud,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Ra4bb602144,Ilıcalı K 2026 J Clin Med,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rfd6ca194f5,Mariconti S 2026 Reg Anesth Pain Med,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Ra706b6c867,Forrester JD 2026 J Am Coll Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R11ccfeb951,Akdemir MA 2026 J Perianesth Nurs,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Ra66ef18c04,Uz U 2026 Facial Plast Surg Aesthet Med,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Re833613e27,Shalabi M 2026 Eur J Dent,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R21662a2c56,Kotb H.A.E.M. 2026 Studies in Systems Decision and Control,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R961d87dfa6,Goebel MC 2026 Eur Arch Paediatr Dent,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rbea6ca5024,Jelly P 2026 Pain Manag,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R39233e542d,Kılbasanlı S 2026 BMC Pregnancy Childbirth,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R0519cbd4fd,Sravya B 2026 Ann Afr Med,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R16a48b00a1,Chinju Verghese K.B. 2026 Frontiers of Nursing,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R441fcb759d,Gürler K 2026 Quintessence Int,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R83f78f7a7e,Kim B 2026 Nurs Rep,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rb988201ad4,Bakır E 2026 Hemodial Int,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R75b52659fa,Sümbüllü M 2026 Niger J Clin Pract,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rffe09186c6,"KW Cheung, HF Cheng, JY-C Chang, SC Ng, FCF Ip, CKS Ho 2026 Dermatologic therapy, 2026, 2026(1) | added to CENTRAL: 30 September 2026 | 2026",no,no,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R9fed16bfa4,Kudu E 2026 J Emerg Med,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R402743bbdc,Abdelrahman N 2026 Front Dent Med,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R2abbe1e980,Jacq G 2026 Aust Crit Care,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rd76721797d,Soltani H 2026 Plast Reconstr Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rc65340598e,Young S 2026 Cardiovasc Intervent Radiol,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R4e2e98b968,KungumaSupraja K 2026 Lasers Med Sci,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R2c09f76849,Young S 2026 Am J Hosp Palliat Care,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rd262be599d,Seth I 2026 J Hand Surg Am,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Re4e9010a0b,Coşkun ÜG 2026 BMC Pregnancy Childbirth,no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R7de3f4baf9,"NCT07637370 2026 https://clinicaltrials.gov/study/NCT07637370, 2026 | added to CENTRAL: 30 June 2",no,yes,yes,yes,no,unique_pending_cohort_audit,no,no primary patient data detected
+R6752711e41,Eldredge RS 2026 J Pediatr Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rad1a5d6a6d,Cavalcanti RL 2026 Physiother Theory Pract,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R262f2db9da,Heitsman CG 2026 J Pediatr Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R64477fdca7,Baskin AS 2026 J Thorac Dis,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Ref19659a37,Jain I 2026 J Indian Soc Pedod Prev Dent,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R57cb9f6f1a,Payne R 2026 J Pediatr Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rdb11805762,van Polen EJ 2026 Eur J Cardiothorac Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R6629bf6e18,Chihara R 2026 Ann Thorac Surg Short Rep,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Racaa0f17b0,van Polen E 2026 Multimed Man Cardiothorac Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R151338afbd,Foster L 2026 Trauma Case Rep,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rc11c99300f,Winkeler I.T. 2026 Current Challenges in Thoracic Surgery,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R9ec804e9ca,Hopper W 2026 J Trauma Acute Care Surg,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R3b5af34d49,Parrish MT 2026 Pediatr Surg Int,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R4a75628220,Tanaka S 2026 Anesth Pain Med (Seoul),yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R1ff12a6098,Stasiak F 2026 Cancer Treat Res Commun,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rd781b5339e,Cornelis FH 2026 Cardiovasc Intervent Radiol,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R71c8711089,Al-Edwan A 2026 J Cardiothorac Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R033659285e,Zhang T 2026 Clin Exp Dent Res,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rff431c9d24,O'Connor LA 2026 J Thorac Dis,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rfd5298c544,Donati F 2026 J Pediatr Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R60d9b5e181,Piasecki-Masters C 2026 Am J Phys Med Rehabil,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R99c62a2195,Bhargava M 2026 Int J Clin Pediatr Dent,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R96ab832873,Aydın Çetin EZ 2026 PLoS One,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rcb4be16b23,Vashisht R 2026 Bioinformation,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rc83b931914,Papadakis L 2026 J Pediatr Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rc68d3b9d41,Jarrin Lopez A 2026 Front Pediatr,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R1fe3a9ac56,Ng MK 2026 J Arthroplasty,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R2703fc3a9f,Hershfeld B 2026 Cureus,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R3e01ba7e71,Drake L 2026 JTCVS Open,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R6c5fc852e6,Krakowiak M 2026 J Clin Med,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R6c32c4e477,Al-Waeli HR 2026 Niger Postgrad Med J,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R062fedbd76,Jiravisitkul P 2026 World J Clin Pediatr,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R7962c2cf6d,Natarajan B. 2026 World Journal of Dentistry,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rf7d9cd7c25,Başkurt A 2026 J Pediatr Nurs,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rd8729ca12d,Xiao AX 2026 J Shoulder Elbow Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R3fe80449e0,Lanzetti RM 2026 J Orthop Surg Res,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+R1a58f5705c,Hashemi M 2026 Am J Phys Med Rehabil,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Re47bc56ab7,Hare R 2026 J Pediatr Surg,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R4d0c908d87,Gürler K 2026 Clin Oral Investig,yes,no,yes,yes,no,unique_pending_cohort_audit,no,cryoanalgesic intervention not confirmed
+Rdc57626e12,Kalava A 2026 A A Pract,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rd57be4b4c2,Bauones S 2026 Cardiovasc Intervent Radiol,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rdb1a2968d0,Pereira JA 2026 Neurol Int,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+Rd6234b6093,Gritsenko K 2026 Orthop Rev (Pavia),yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R46153006ad,Szostawicki M. 2026 Polish Annals of Medicine,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,
+R3ef7214fd9,Rice S 2026 Pediatr Dermatol,yes,yes,yes,yes,no,unique_pending_cohort_audit,yes,

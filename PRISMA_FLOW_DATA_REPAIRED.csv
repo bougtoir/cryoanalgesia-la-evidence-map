@@ -10,10 +10,12 @@ Screening,records excluded (title),19143
 Eligibility,records assessed at abstract/metadata level,4359
 Eligibility,records excluded (abstract),3128
 Eligibility,reports assessed for eligibility,1231
-Eligibility,reports excluded at eligibility,749
-Included,primary study reports included,429
-Included,Tier A (direct LA comparator),143
-Included,Tier B (indirect comparator),176
-Included,Tier C (noncomparative),110
-Tracked separately,synthesis reports,27
-Tracked separately,protocols/ongoing,26
+Eligibility,reports excluded at eligibility,655
+Included,primary study reports included,437
+Included,unique cohorts,431
+Included,linked secondary reports,6
+Included,Tier A (direct LA comparator),139
+Included,Tier B (indirect comparator),153
+Included,Tier C (noncomparative),139
+Tracked separately,synthesis reports,100
+Tracked separately,protocols/ongoing,39

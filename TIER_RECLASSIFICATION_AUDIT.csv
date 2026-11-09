@@ -1,0 +1,438 @@
+record_id,citation,old_tier,new_tier,comparator_type,direct_LA_comparator_yes_no,adjunct_design_yes_no,rationale,changed_yes_no
+Rac74a86eaa,Hornabrook RW 1929 Br Med J,—,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+R9c7ae48bf6,LAUTSEVICHUS LZ 1962 Kardiologiia,C,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,no
+Rfdeb00c864,Mastroianni A 1968 Minerva Anestesiol,—,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+R5eed38c4d4,Lloyd JW 1976 Lancet,C,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,no
+R6b70cc86f8,Malkin V. 1978 Zhurnal Voprosy Nejrokhirurgii Imeni N N Burdenko,—,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+R371ec510a8,Katz J 1980 Lancet,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R2d77ada343,Glynn CJ 1980 Thorax,B,B,indirect comparator,no,no,verified_pubtype=nonrandomized comparative study; LA-near-cue=False,no
+R0afd5f9f8a,Melzack R 1980 Pain,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R50185574d2,Melzack R 1980 Can Med Assoc J,B,B,indirect comparator,no,no,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+Rd6adb20446,Evans PJ 1981 J R Soc Med,C,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,no
+Ra2d9a8fd8b,Barnard D 1981 J Maxillofac Surg,B,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+R9d135d3a4e,Wood GJ 1981 Anaesthesia,A,A,direct LA comparator,yes,yes,verified_pubtype=nonrandomized comparative study; LA-near-cue=True,no
+R07c67ea6f1,Milleret R. 1983 Journal Des Maladies Vasculaires,—,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+Rc1870400ee,Milleret R 1983 J Mal Vasc,C,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,no
+R011c472188,Wang JK 1985 Pain,C,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,no
+Rdbb901f079,Rooney SM 1986 Ann Thorac Surg,B,B,indirect comparator,no,no,verified_pubtype=nonrandomized comparative study; LA-near-cue=False,no
+R421b7889b3,Maiwand MO 1986 J Thorac Cardiovasc Surg,C,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,no
+Rf431c59789,Khiroya RC 1986 Anaesthesia,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R2e06d90b4c,Joucken K 1987 Acta Anaesthesiol Belg,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R1f0f3bd730,Roxburgh JC 1987 Thorax,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+Ra3ee1ccce1,Brinker MR 1988 J Vasc Surg,C,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,no
+R8bde13e2b6,Gough JD 1988 Anaesthesia,A,A,direct LA comparator,yes,no,verified_pubtype=nonrandomized comparative study; LA-near-cue=True,no
+R0199b3fc28,Zakrzewska JM 1988 Br J Oral Maxillofac Surg,C,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,no
+Rd877852fda,Müller LC 1989 Ann Thorac Surg,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R45247c3b73,Kotel'nikov V.P. 1989 Fel Dsher I Akusherka,—,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+Rbebdcd3ff3,Armstrong P 1990 Can J Anaesth,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R95748a4233,Mielniczuk H. 1990 Zeitschrift Fur Physikalische Medizin Balneologie Med Klimatologie,—,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+Rbea4727dae,Johannesen N 1990 Ann Chir Gynaecol,B,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+R7d93ea3a41,Zappa S. 1991 Journal of Pediatric Oncology Nursing Official Journal of the Association of Pediatric Oncology Nurses,—,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+R757ab85320,Zappa SC 1992 Cancer Nurs,B,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+Rfeec1c294b,Finan M. 1993 American Journal of Obstetrics and Gynecology,—,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,yes
+Re2948bf9d2,Shibata K 1993 J Ophthalmic Nurs Technol,B,C,noncomparative,no,NR,verified_pubtype=nonrandomized comparative study; LA-near-cue=False,yes
+Rc343aac46d,Brichon PY 1994 Eur J Cardiothorac Surg,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+Ra278e1ef39,Baelen E 1994 Ann Fr Anesth Reanim,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R0501bfee08,Ebner CA 1996 Issues Compr Pediatr Nurs,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+Ra8c975c798,Pastor J 1996 Respiration,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R1059c5d105,Cohen Reis E 1997 Pediatrics,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R939be6a7b8,Callesen T 1998 Anesth Analg,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+Rf130e8e7cf,Bucerius J 2000 Ann Thorac Surg,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+Rfba78b61c3,Robinson SR 2000 Laryngoscope,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R38c70084a9,Moorjani N 2001 Eur J Cardiothorac Surg,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R66d855c524,Zhao F 2001 Zhonghua Wai Ke Za Zhi,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+Rf7d6b6db92,Green CR 2002 J Natl Med Assoc,A,A,direct LA comparator,yes,no,verified_pubtype=cohort/observational study; LA-near-cue=True,no
+R7351a70374,Akan M 2003 Aesthetic Plast Surg,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R6f3b4750c3,Waters BL 2003 J Midwifery Womens Health,C,C,noncomparative,no,NR,verified_pubtype=nonrandomized comparative study; LA-near-cue=False,no
+Rf523041ded,Saito N 2004 J Arthroplasty,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+Rc7f42e9de6,Gwak MS 2004 J Korean Med Sci,C,C,noncomparative,no,NR,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+Rf581fed49a,Sarifakioglu N 2004 Ann Plast Surg,C,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,yes
+R2a55e33f7a,Yang MK 2004 Anaesthesia,A,A,direct LA comparator,yes,yes,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R8b33ccb2a7,Mawhorter S 2004 J Travel Med,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R9cf7301f60,Holmström A. 2005 Journal of Arthroplasty,—,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,yes
+Re8603f9d7f,Waibel KH 2005 Ann Allergy Asthma Immunol,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+Rcd6cbea867,Gutiérrez-Carmona FJ 2005 J Cataract Refract Surg,C,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,yes
+R4e4bdbc7d9,Yao YH 2005 Di Yi Jun Yi Da Xue Xue Bao,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+Rd92105f22e,Loten C 2006 Med J Aust,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R6b1616ce4e,Davies EH 2006 Paediatr Nurs,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R8aab10c49c,Koç M 2006 Hernia,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R8982af51b6,Kontochristopoulos G. 2006 Dermatologic Surgery,—,B,indirect comparator,no,no,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+Rde056f399d,Costello M 2006 Clin Pediatr (Phila),B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+Rcff0974212,Soueid A 2007 Pediatr Emerg Care,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R94ebfba790,Robinson PA 2007 Emerg Med Australas,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R45cf2b7574,France JE 2008 Eur J Emerg Med,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R648a04171f,Ju H 2008 Eur J Pain,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R8d9f4fc109,Farion KJ 2008 CMAJ,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R7003f381a3,Zhang LD 2008 Shanghai Kou Qiang Yi Xue,A,A,direct LA comparator,yes,yes,verified_pubtype=technical report with primary patient data; LA-near-cue=True,no
+R90e7f0e6ed,Chaou CH 2009 Clin Toxicol (Phila),B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+Rd744c9c872,Hijazi R 2009 BMJ,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R27149455fb,Baxter AL 2009 Clin J Pain,C,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,yes
+R487006042e,Aminabadi NA 2009 J Contemp Dent Pract,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R81eac60e0a,Walsh P 2010 Int J Obstet Anesth,A,A,direct LA comparator,yes,no,verified_pubtype=nonrandomized comparative study; LA-near-cue=True,no
+R52c74fb661,Moore W 2010 Acad Radiol,C,C,noncomparative,no,NR,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+R8ef42ac69d,Kose O 2010 Foot Ankle Spec,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+Rc008870e09,Saeliw P 2010 J Med Assoc Thai,C,C,noncomparative,no,NR,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+Rbbe91cdb9c,Page DE 2010 Br J Anaesth,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R3330239e2a,Ikeda K 2010 Gan To Kagaku Ryoho,C,C,noncomparative,no,NR,verified_pubtype=nonrandomized comparative study; LA-near-cue=False,no
+Rabc347552c,Calandria L 2011 Int J Dermatol,C,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,no
+R120c2b06b0,Wolter T 2011 Acta Neurochir (Wien),C,C,noncomparative,no,NR,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+R17bfed0832,Momenzadeh S 2011 Acta Med Iran,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+Rdaea419298,Mustola ST 2011 Ann Thorac Surg,A,A,direct LA comparator,yes,yes,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+Rdcedf548ff,Leventhal LC 2011 J Midwifery Womens Health,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R88c07545a7,Çelik G 2011 Int J Med Sci,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R65b3c24847,Hajiamini Z 2012 Complement Ther Clin Pract,B,C,noncomparative,no,NR,verified_pubtype=randomized controlled trial; LA-near-cue=False,yes
+Red5424abe1,Oliveira SM 2012 J Clin Nurs,C,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,yes
+Rea21a88465,Im YG 2012 J Oral Rehabil,C,B,indirect comparator,no,no,verified_pubtype=nonrandomized comparative study; LA-near-cue=False,yes
+Rc7d0fe82bb,Al Shahwan MA 2012 Dermatol Surg,A,A,direct LA comparator,yes,no,verified_pubtype=nonrandomized comparative study; LA-near-cue=True,no
+R7bd90529fe,Friedman T 2012 J Ultrasound Med,C,C,noncomparative,no,NR,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+R2879812a13,Maxwell S 2013 Man Ther,C,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,no
+Re56e0c8a93,Lu Q 2013 Eur J Cardiothorac Surg,C,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,yes
+R40c20ce4fc,Moon YE 2013 Arch Phys Med Rehabil,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R9b5564501e,Ghaderi F 2013 Dent Res J (Isfahan),A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+Rede2c85169,Kol E 2013 Pain Manag Nurs,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R410ca8330e,Rotenberg BW 2013 Laryngoscope,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R19e6ad4a14,David Prologo J 2013 J Vasc Interv Radiol,C,C,noncomparative,no,NR,verified_pubtype=nonrandomized comparative study; LA-near-cue=False,no
+R08f1b3981d,Sepsas E 2013 Interact Cardiovasc Thorac Surg,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R0b4583d59b,"ChiCTR-TRC-14004790 2014 https://trialsearch.who.int/Trial2.aspx?TrialID=ChiCTR-TRC-14004790, 2014 | adde",—,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+R05ed166d37,Li F 2014 Exp Ther Med,C,B,indirect comparator,no,no,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+Rac9df77f99,Murgier J 2014 Orthop Traumatol Surg Res,B,B,indirect comparator,no,no,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+Rc6582d8ff7,Moon YE 2014 Am J Phys Med Rehabil,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+Re61cb44f9b,Watkins AA 2014 J Am Coll Surg,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R72ccdb4d4e,Khanbhai M 2014 Interact Cardiovasc Thorac Surg,B,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+R12127ae45a,Moesker AA 2014 Pain Pract,C,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,no
+Ra7716a78ef,Irkoren S 2015 Ann Plast Surg,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R7630e97b84,Collado-Mesa F 2015 Clin Radiol,B,B,indirect comparator,no,no,verified_pubtype=technical report with primary patient data; LA-near-cue=False,no
+R88dec94bda,Coelho RP 2015 J Cataract Refract Surg,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R510d994c75,Ba YF 2015 Surg Today,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R415bb8e376,Pucks N 2015 J Plast Reconstr Aesthet Surg,C,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,yes
+R68936e40dd,Evans JG 2015 J Hosp Infect,C,C,noncomparative,no,NR,verified_pubtype=nonrandomized comparative study; LA-near-cue=False,no
+R185bfb4664,Lathwal G 2015 Int J Clin Pediatr Dent,A,A,direct LA comparator,yes,no,verified_pubtype=cohort/observational study; LA-near-cue=True,no
+R3bb8b372f8,Bellini M 2015 Anaesthesiol Intensive Ther,C,C,noncomparative,no,NR,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+R7e1ec91d94,Huang L 2015 Postgrad Med,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+Rdadf376398,Haynes JM 2015 Respir Care,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+Re16aa8b334,Bastami M 2015 J Clin Diagn Res,B,B,indirect comparator,no,no,verified_pubtype=technical report with primary patient data; LA-near-cue=False,no
+R920510bfad,Pool SMW 2015 Plast Reconstr Surg,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+Rfc7c07016b,Li Y 2015 Zhonghua Yi Xue Za Zhi,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R437def7d82,Yoon JH 2016 J Vasc Interv Radiol,C,C,noncomparative,no,NR,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+R3cd2affa6f,Ebrahimi-Rigi H. 2016 Der Pharmacia Lettre,—,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+R55fb2471e2,Zandi M 2016 Int J Oral Maxillofac Surg,C,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,yes
+R667ec1a8cc,Keller BA 2016 J Pediatr Surg,A,A,direct LA comparator,yes,no,verified_pubtype=nonrandomized comparative study; LA-near-cue=True,no
+Rf8051dc8c5,Cazzato RL 2016 Cardiovasc Intervent Radiol,C,C,noncomparative,no,NR,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+Rd5b5e1daff,Mace SE 2016 Am J Emerg Med,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+Rd82babbea1,Leegwater NC 2016 BMC Musculoskelet Disord,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R17c80883c2,Fossum K 2016 Am J Emerg Med,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+Refe566417c,Djebbar S 2016 Semin Musculoskelet Radiol,C,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,no
+Rd360915486,Echevarria-Uraga JJ 2016 Respirology,C,C,noncomparative,no,NR,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+Rf5f2fc211f,Edwards C 2017 Adv Emerg Nurs J,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+Rbf0b96d1bd,Dalvandi A 2017 Am J Emerg Med,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+Re2dfea8635,Arab V 2017 J Caring Sci,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R46cdbd552b,Radnovich R 2017 Osteoarthritis Cartilage,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R5e3290a44b,Attia AAM 2017 Int J Nurs Sci,B,B,indirect comparator,no,no,verified_pubtype=technical report with primary patient data; LA-near-cue=False,no
+Ra257d1434b,Bhadauria US 2017 Clujul Med,A,A,direct LA comparator,yes,no,verified_pubtype=technical report with primary patient data; LA-near-cue=True,no
+Rf614496f59,Quinlan P. 2017 Orthopaedic Nursing,—,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,yes
+R0fa9c19c16,Graves C 2017 J Pediatr Surg,C,A,direct LA comparator,yes,no,verified_pubtype=cohort/observational study; LA-near-cue=True,yes
+Rc195bd8987,Prologo JD 2017 J Vasc Interv Radiol,C,C,noncomparative,no,NR,verified_pubtype=nonrandomized comparative study; LA-near-cue=False,no
+Ra916c1a2ae,Moon YE 2017 J Anesth,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R899fb1e178,Mace SE 2017 Scand J Pain,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R9c7a6bcb13,Gupta NK 2017 World J Pediatr,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R391aa328f4,Jayasuriya NSS 2017 Singapore Dent J,B,C,noncomparative,no,NR,verified_pubtype=cohort/observational study; LA-near-cue=False,yes
+R0eebc3be03,Farahmand S 2017 Acta Med Iran,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R77bc389da0,Rüsch D 2017 J Cardiothorac Vasc Anesth,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+Ra91051123f,Ballesteros-Peña S 2017 Emergencias,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+Ra448922d6e,Alsantali A 2018 Clin Cosmet Investig Dermatol,A,A,direct LA comparator,yes,no,verified_pubtype=cohort/observational study; LA-near-cue=True,no
+R75ef3859b4,Nabıyev VN 2018 Neurospine,B,B,indirect comparator,no,no,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+R6e3fbdfe24,Morikawa N 2018 J Laparoendosc Adv Surg Tech A,C,C,noncomparative,no,NR,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+Rc065a40df1,"NCT03774121 2018 https://clinicaltrials.gov/ct2/show/NCT03774121, 2018 | added to CENTRAL: 31 Mar",—,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+R2d08f46c71,Smiley A 2018 AANA J,B,B,indirect comparator,no,no,verified_pubtype=technical report with primary patient data; LA-near-cue=False,no
+R20baf9d72a,Kelechi TJ 2018 Int J Nurs Stud,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+Ra2557eb929,Shah A 2018 J Clin Ultrasound,B,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+R7281513584,Lateef T. 2018 Journal of Craniofacial Surgery,—,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+Rc067bcf037,Kastler A 2018 J Neuroradiol,C,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,no
+R5979ff2cf0,Francisco AA 2018 Women Birth,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+Rd27213a16b,Vera J 2018 J Endod,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R1cf3ba191f,Sujka J 2018 J Laparoendosc Adv Surg Tech A,C,C,noncomparative,no,NR,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+R97aa9a01ad,Barbour T 2018 Pain Manag Nurs,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R702da8be70,Song J 2018 Emerg Med J,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+Rd7cf84d820,Yarahmadi S 2018 Complement Ther Clin Pract,C,C,noncomparative,no,NR,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+Rbc55eebbcf,Zeiderman MR 2018 Eplasty,C,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,yes
+Re82767a9e3,"NCT03836313 2019 https://clinicaltrials.gov/show/NCT03836313, 2019 | added to CENTRAL: 31 March 2",—,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+Rc5e412f7e6,Bilge S 2019 Saudi Med J,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R297b6604a9,Park YH 2019 Arch Orthop Trauma Surg,C,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,yes
+Rd62e030627,"T Kanni, E Agiasofitou, V Markantoni, V Tzanetakou, A Katoulis, S Gregoriou, D Rigopoulos, G Kontochristopoulos 2019 Skin appendage disorders, 2019, 5(2), 119‐120 | added to CENTRAL: 30 April 2019",—,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+R290392037f,Kvarstein G 2019 Scand J Pain,A,A,direct LA comparator,yes,yes,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R046e900c90,Ravindhran B 2019 World J Surg,B,B,indirect comparator,no,no,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+R4f3254c073,Rao PB 2019 Anesth Essays Res,C,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,yes
+Rdf589680ec,Bittman RW 2019 Semin Intervent Radiol,C,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,no
+R880d3b6bbf,Solomon SS 2019 J Clin Gastroenterol,B,B,indirect comparator,no,no,verified_pubtype=nonrandomized comparative study; LA-near-cue=False,no
+R9efd063b93,Gallusser N 2019 Orthop Traumatol Surg Res,C,C,noncomparative,no,NR,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+R155875ceb0,Parrado R 2019 J Laparoendosc Adv Surg Tech A,B,B,indirect comparator,no,no,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+Rc1eb87e894,Gabriel RA 2019 A A Pract,C,A,direct LA comparator,yes,no,verified_pubtype=case series; LA-near-cue=True,yes
+R5a856fd968,Torre M 2020 Front Pediatr,B,B,indirect comparator,no,no,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+Rfb795729b8,Anantharaj A 2020 J Indian Soc Pedod Prev Dent,A,A,direct LA comparator,yes,no,verified_pubtype=cohort/observational study; LA-near-cue=True,no
+R24d1e72021,Steele TO 2020 Int Forum Allergy Rhinol,B,B,indirect comparator,no,no,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+R70f6530b71,Alshahwan M 2020 J Cosmet Dermatol,A,A,direct LA comparator,yes,no,verified_pubtype=nonrandomized comparative study; LA-near-cue=True,no
+R181c72fd4b,Yasin J 2020 Diagn Interv Radiol,C,C,noncomparative,no,NR,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+Ra5f2b9852c,Shafii Z. 2020 Journal of Nephropharmacology,—,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,yes
+R8c4390d485,Moon YE 2020 Arch Phys Med Rehabil,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R32c0ef7779,Clemence J Jr 2020 Semin Thorac Cardiovasc Surg,B,B,indirect comparator,no,no,verified_pubtype=nonrandomized comparative study; LA-near-cue=False,no
+Rf258321026,Goss A 2020 Br J Oral Maxillofac Surg,C,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,no
+Rece5415b21,"NCT04482582 2020 https://clinicaltrials.gov/study/NCT04482582, 2020 | added to CENTRAL: 31 August",—,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+Rb162c5cabd,Coelho Neto F. 2020 Dermatologic Surgery,—,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+Rcac989e71b,Tanaka A 2020 Ann Thorac Surg,A,A,direct LA comparator,yes,no,verified_pubtype=cohort/observational study; LA-near-cue=True,no
+Re939ce69ce,Wasserlauf J. 2020 Journal of Cardiovascular Electrophysiology,—,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+Rf4fb8942b0,Jalloul Y. 2020 Journal of Cardiovascular Electrophysiology,—,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+R188343bcb8,Prologo JD 2020 Am J Hosp Palliat Care,C,C,noncomparative,no,NR,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+R68fc253924,Dekonenko C 2020 J Pediatr Surg,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R83653b7048,Rasooli F 2020 Turk J Emerg Med,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R9ccf655712,Chilakamuri S 2020 J Dent Anesth Pain Med,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+Rbb23243119,Taherian T. 2020 Advances in Integrative Medicine,—,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,yes
+R554ba757b1,Cadaval Gallardo C 2020 Cir Pediatr,A,A,direct LA comparator,yes,no,verified_pubtype=cohort/observational study; LA-near-cue=True,no
+Rbc4cb787ed,Burke CJ 2020 Acad Radiol,C,C,noncomparative,no,NR,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+R1c09853571,Gabriel RA 2020 Korean J Anesthesiol,B,C,noncomparative,no,NR,verified_pubtype=case series; LA-near-cue=False,yes
+R4998388ccd,Finneran Iv JJ 2020 Korean J Anesthesiol,—,C,noncomparative,no,NR,verified_pubtype=case series; LA-near-cue=False,yes
+R63ba642897,Pilkington M 2020 J Pediatr Surg,A,A,direct LA comparator,yes,no,verified_pubtype=cohort/observational study; LA-near-cue=True,no
+R272fe038db,Filippiadis D 2021 Cardiovasc Intervent Radiol,B,C,noncomparative,no,NR,verified_pubtype=cohort/observational study; LA-near-cue=False,yes
+Rb3be28c505,Yaman Aktaş Y. 2021 Complementary Medicine Research,—,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,yes
+R4258b29173,Rettig RL 2021 Pediatr Surg Int,A,A,direct LA comparator,yes,no,verified_pubtype=cohort/observational study; LA-near-cue=True,no
+Ra54b7bd235,Arshad SA 2021 J Pediatr Surg,C,C,noncomparative,no,NR,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+R38d17ac131,Dalili D 2021 Skeletal Radiol,B,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+R28da858a28,"NCT04786145 2021 https://clinicaltrials.gov/show/NCT04786145, 2021 | added to CENTRAL: 31 March 2",—,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+Rab3b075618,Mihalko WM 2021 J Arthroplasty,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R2cca350621,Sahoo RK 2021 A A Pract,C,C,noncomparative,no,NR,verified_pubtype=case series; LA-near-cue=False,no
+Rf218285b24,Tank JC 2021 J Trauma Acute Care Surg,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+Rf709115dfc,Aziz M 2021 J Pak Med Assoc,A,A,direct LA comparator,yes,no,verified_pubtype=technical report with primary patient data; LA-near-cue=True,no
+R48b6ed5a40,AmruthaVarshini I 2021 Int J Clin Pediatr Dent,A,A,direct LA comparator,yes,no,verified_pubtype=cohort/observational study; LA-near-cue=True,no
+R99b7502bda,Basak T 2021 J Infus Nurs,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+Rd2f38fdc37,Unal N 2021 Clin Nurs Res,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+Rfcdc1e1a1d,Grigsby E 2021 Local Reg Anesth,C,C,noncomparative,no,NR,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+Rd6beeffdb1,Selvi F 2021 Am J Emerg Med,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+Ra047165816,Lau WC 2021 Pain Ther,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+Rb72f50eae9,Aiken TJ 2021 J Pediatr Surg,A,A,direct LA comparator,yes,no,verified_pubtype=cohort/observational study; LA-near-cue=True,no
+R13a2099783,Laktašić Žerjavić N 2021 Psychiatr Danub,C,B,indirect comparator,no,no,verified_pubtype=nonrandomized comparative study; LA-near-cue=False,yes
+Rb67c795c2e,Rekawek P 2021 J Matern Fetal Neonatal Med,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+Ref4110c9e2,Finneran Iv JJ 2021 Expert Rev Med Devices,A,A,direct LA comparator,yes,no,verified_pubtype=cohort/observational study; LA-near-cue=True,no
+R5c2cab29e5,Gologorsky R 2021 Pediatr Surg Int,A,A,direct LA comparator,yes,yes,verified_pubtype=cohort/observational study; LA-near-cue=True,no
+R83ee97312d,Pechetov AA 2021 Khirurgiia (Mosk),B,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+R64f6468887,Swisher MW 2022 Pain Ther,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R727f5570f6,Paulsamy P. 2022 Journal of Healthcare Engineering,—,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+Rf84f4bd477,Perry TA 2022 Osteoarthr Cartil Open,B,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+R25dca99007,Chary A 2022 Semin Intervent Radiol,B,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+Rd4236aa08a,Gürdap Z 2022 J Clin Pharm Ther,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R38c3678c14,Ghasemi M 2022 BMC Pediatr,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+Rd69070d522,"NCT05276258 2022 https://clinicaltrials.gov/show/NCT05276258, 2022 | added to CENTRAL: 31 March 2",—,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+R8f29fa036c,Stogicza AR 2022 Reg Anesth Pain Med,B,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+R3f2d300c16,Arshad SA 2022 J Surg Res,A,A,direct LA comparator,yes,no,verified_pubtype=cohort/observational study; LA-near-cue=True,no
+Ra99b52d83d,Lung BE 2022 Life (Basel),B,B,indirect comparator,no,no,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+Rc9c76ceaf8,Shaffer JP 2022 Orthop J Sports Med,—,C,noncomparative,no,NR,verified_pubtype=case series; LA-near-cue=False,yes
+Raf36daf8b0,Gao P 2022 Evid Based Complement Alternat Med,—,B,indirect comparator,no,no,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+R8a3b574d2b,Khezri MB 2022 BMC Res Notes,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+Rf3c92b02d9,Gurucharan I 2022 Clin Oral Investig,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R4caf1c09c9,Dhingra N 2022 J Clin Pediatr Dent,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R37b9c01dc1,Tung J 2022 J Robot Surg,A,A,direct LA comparator,yes,yes,verified_pubtype=cohort/observational study; LA-near-cue=True,no
+R3492002401,von Falck C 2022 Cardiovasc Intervent Radiol,C,C,noncomparative,no,NR,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+R14e072a633,Clark RA 2022 J Am Coll Surg,B,C,noncomparative,no,NR,verified_pubtype=cohort/observational study; LA-near-cue=False,yes
+Rac39a7bff2,Huang J 2022 Semin Intervent Radiol,C,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,no
+R4215d560e2,Lai K 2022 J Laparoendosc Adv Surg Tech A,B,B,indirect comparator,no,no,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+R3d1300a685,Zacha S 2022 Front Pediatr,A,A,direct LA comparator,yes,no,verified_pubtype=cohort/observational study; LA-near-cue=True,no
+Rbb0530f584,Mascia D 2022 Int Angiol,B,B,indirect comparator,no,no,verified_pubtype=technical report with primary patient data; LA-near-cue=False,no
+R020fea803d,Song SH 2022 Medicine (Baltimore),A,A,direct LA comparator,yes,no,verified_pubtype=cohort/observational study; LA-near-cue=True,no
+Rf6210fe2a2,O'Connor LA 2022 J Surg Res,B,B,indirect comparator,no,no,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+R66ffaed58c,Velayos M 2022 Eur J Pediatr Surg,B,B,indirect comparator,no,no,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+R2ed6befb97,Ilfeld BM 2022 Anesthesiology,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R323ca56688,Fraser JA 2022 J Pediatr Surg,C,C,noncomparative,no,NR,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+R0966aa9e3a,Nicolás M 2022 Ultrasound J,C,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,no
+Rf092583240,Trinder R 2022 J Small Anim Pract,B,B,indirect comparator,no,no,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+Raf7af0f105,"V Kurfirst, A Mokracek, J Krbec 2022 Chest, 2022, 161(1), A48 | added to CENTRAL: 28 February 2022 | 2022 Issue 02 Em",—,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+Ra19ad964f1,Winston P 2023 Am J Phys Med Rehabil,B,B,indirect comparator,no,no,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+R8cd511412a,Zacha S 2023 J Pers Med,A,A,direct LA comparator,yes,no,verified_pubtype=technical report with primary patient data; LA-near-cue=True,no
+R7281e9bf42,Jennewine BR 2023 Arthroplast Today,B,B,indirect comparator,no,no,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+R1e34411d10,Dokollari A. 2023 Reviews in Cardiovascular Medicine,—,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+Rded6b55b7f,"CTRI/2023/03/050746 2023 https://trialsearch.who.int/Trial2.aspx?TrialID=CTRI/2023/03/050746, 2023 | adde",—,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+R66380b05a1,Nazer S 2023 Anesth Pain Med,A,A,direct LA comparator,yes,no,verified_pubtype=cohort/observational study; LA-near-cue=True,no
+Re34fc8eebb,Roongpisuthipong W 2023 J Am Acad Dermatol,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+Red637f197b,Khosravi Pour A 2023 BMC Anesthesiol,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R95e76dbfd8,Perez Holguin RA 2023 J Pediatr Surg,A,A,direct LA comparator,yes,no,verified_pubtype=cohort/observational study; LA-near-cue=True,no
+R1f50ba970e,Koons B 2023 JTCVS Open,A,A,direct LA comparator,yes,no,verified_pubtype=cohort/observational study; LA-near-cue=True,no
+Rd1acbdde60,Tsyhankov O.V. 2023 Ukrainian Journal of Radiology and Oncology,—,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+Rdcba2c3e36,Ushakov A.A. 2023 Regional Anesthesia and Acute Pain Management,—,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+Re86312843c,Abbasi H 2023 J Dent Res Dent Clin Dent Prospects,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R9c2237c1ac,Cachemaille M 2023 Pain Pract,—,C,noncomparative,no,NR,verified_pubtype=case series; LA-near-cue=False,yes
+R2aa7f1e2da,Zeineddin S 2023 J Pediatr Surg,A,A,direct LA comparator,yes,no,verified_pubtype=cohort/observational study; LA-near-cue=True,no
+Rcd77c831af,Abbasi H 2023 SAGE Open Med,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+Rcaa0c4c5af,Das G 2023 Indian J Anaesth,C,B,indirect comparator,no,no,verified_pubtype=cohort/observational study; LA-near-cue=False,yes
+R73e47bbf11,Talsma J 2023 J Pediatr Surg,B,C,noncomparative,no,NR,verified_pubtype=cohort/observational study; LA-near-cue=False,yes
+Rc4b1de2a96,Shields JK 2023 J Minim Invasive Gynecol,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R483d5a3246,Hegde BN 2023 J Pediatr Surg,C,C,noncomparative,no,NR,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+Re30444a9aa,Elheeny AAH 2023 Pediatr Dent,A,A,direct LA comparator,yes,yes,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R99247f0577,Maxwell CM 2023 Innovations (Phila),A,A,direct LA comparator,yes,no,verified_pubtype=cohort/observational study; LA-near-cue=True,no
+R637605eb77,Isaza E 2023 Pain Ther,A,A,direct LA comparator,yes,no,verified_pubtype=cohort/observational study; LA-near-cue=True,no
+Rbc7c597d4d,Marturano MN 2023 Injury,B,B,indirect comparator,no,no,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+Rd1829ae181,Arshad SA 2023 Ann Surg,B,B,indirect comparator,no,no,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+R3e13d2f38d,Nezami N 2023 J Vasc Interv Radiol,C,C,noncomparative,no,NR,verified_pubtype=nonrandomized comparative study; LA-near-cue=False,no
+Rfd6f307872,Roth ZA 2023 J Perianesth Nurs,C,C,noncomparative,no,NR,verified_pubtype=case series; LA-near-cue=False,no
+Re52a30a908,McMillan S 2023 Surg Technol Int,C,C,noncomparative,no,NR,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+Rc80a584279,Kol E 2023 Clin Nurs Res,B,B,indirect comparator,no,no,verified_pubtype=technical report with primary patient data; LA-near-cue=False,no
+R48d9bb8276,Semerci R 2023 J Pediatr Nurs,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R3b80c70291,Lee K 2023 Appl Nurs Res,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+Reb1ecf1521,Velayos M 2023 Eur J Pediatr Surg,B,B,indirect comparator,no,no,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+R0dbc514dda,Nemecek Z 2023 Pain Manag,C,C,noncomparative,no,NR,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+R16871d452d,Ilfeld BM 2023 Anesthesiology,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R9ab39ed3f5,Rim GM 2024 Eur J Pediatr Surg,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R2465d4fe71,"NCT06213155 2024 https://clinicaltrials.gov/study/NCT06213155, 2024 | added to CENTRAL: 30 April",—,B,indirect comparator,no,no,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+R26b04b09d6,Chittora M 2024 J Indian Soc Pedod Prev Dent,A,A,direct LA comparator,yes,yes,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R95cae72e9a,"CTRI/2024/04/065130 2024 https://trialsearch.who.int/Trial2.aspx?TrialID=CTRI/2024/04/065130, 2024 | adde",—,A,direct LA comparator,yes,no,verified_pubtype=technical report with primary patient data; LA-near-cue=True,yes
+R1f08988e8f,"CTRI/2024/05/067452 2024 https://trialsearch.who.int/Trial2.aspx?TrialID=CTRI/2024/05/067452, 2024 | adde",—,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+Rb8290f6876,Sudha PM 2024 Int J Clin Pediatr Dent,A,A,direct LA comparator,yes,no,verified_pubtype=technical report with primary patient data; LA-near-cue=True,no
+R333c0e2833,Villalta CI 2024 Trauma Surg Acute Care Open,C,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,no
+R64dab30857,Pitt JB 2024 J Pediatr Surg,C,C,noncomparative,no,NR,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+Rcc7ec24554,Scalise P.N. 2024 Journal of Pediatric Surgery,—,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,yes
+R53fd165b40,"S Bauones, A AlAwaji, M Aldosary, Z Almoabid, U Alshaya 2024 Cardiovascular and interventional radiology, 2024, 47, S515 | added to CENTRAL:",—,B,indirect comparator,no,no,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+Rf2063d055f,"NCT06443931 2024 https://clinicaltrials.gov/study/NCT06443931, 2024 | added to CENTRAL: 30 June 2",—,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+Rf74b166110,Hegazy SE 2024 Crit Care Nurs Q,C,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,no
+R90383bf1fc,Truong K 2024 RMD Open,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+Rdacb79d6b1,Davangere Padmanabh SK 2024 J Dent Anesth Pain Med,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R954e820d9a,Rai S 2024 J Dent Anesth Pain Med,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+Ra27c2bf152,Gungor S 2024 Sci Rep,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R666ef4069d,Gautam S 2024 Indian J Anaesth,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+Rc974a93605,Wharton K 2024 J Surg Res,A,A,direct LA comparator,yes,no,verified_pubtype=cohort/observational study; LA-near-cue=True,no
+R49297e1c14,Pourak K 2024 Interdiscip Cardiovasc Thorac Surg,A,A,direct LA comparator,yes,no,verified_pubtype=cohort/observational study; LA-near-cue=True,no
+Redfdf5062f,Singh K 2024 Int J Clin Pediatr Dent,B,B,indirect comparator,no,no,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+R8aa7ffdad5,Linton SC 2024 Ann Surg,B,C,noncomparative,no,NR,verified_pubtype=cohort/observational study; LA-near-cue=False,yes
+Rb68b202701,van Braak H 2024 Eur J Pediatr Surg,A,A,direct LA comparator,yes,yes,verified_pubtype=nonrandomized comparative study; LA-near-cue=True,no
+R100457ab75,McElhinney KL 2024 Pediatr Blood Cancer,B,B,indirect comparator,no,no,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+R6d41960e49,Perez MN 2024 Semin Pediatr Surg,—,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+R074af0228d,Toselli L 2024 J Pediatr Surg,B,B,indirect comparator,no,no,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+Rfd4a497309,Zacha S 2024 J Pers Med,C,B,indirect comparator,no,no,verified_pubtype=cohort/observational study; LA-near-cue=False,yes
+R752e155a91,Shah NM 2024 J Pharm Bioallied Sci,A,A,direct LA comparator,yes,no,verified_pubtype=technical report with primary patient data; LA-near-cue=True,no
+Rd8811a1d3f,Wang S 2024 JAMA Surg,C,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,no
+R70f99ee01e,Yano T 2024 J Anus Rectum Colon,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+Rdf1db9fcbc,Fujita K 2024 Schizophr Res,C,C,noncomparative,no,NR,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+Rd2891a3260,Latour C 2024 J Vasc Interv Radiol,C,C,noncomparative,no,NR,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+Rc56cf6f280,Moulin B 2024 Cardiovasc Intervent Radiol,C,C,noncomparative,no,NR,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+Rc06a9fb312,Ilfeld BM 2024 Anesth Analg,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R2e6bc681b5,Anderson AB 2024 J Orthop Trauma,—,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+R859e8f196b,Çelik EG 2024 J Emerg Nurs,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R11d19032ae,Filipovski I 2024 Cureus,—,C,noncomparative,no,NR,verified_pubtype=case series; LA-near-cue=False,yes
+R35bfcb46d1,Gyorfi M. 2024 Perioperative Pain Management A Clinical Guide,—,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+R89ecd4686a,Finneran JJ 2024 Cureus,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R6dd8758c24,Tewari SO 2024 J Nucl Med Technol,C,C,noncomparative,no,NR,verified_pubtype=nonrandomized comparative study; LA-near-cue=False,no
+R886ab82181,Maganur PC 2025 Children (Basel),A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R16a11cfc66,Weksler B 2025 J Thorac Cardiovasc Surg,A,A,direct LA comparator,yes,yes,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+Rbe6136732c,Kwater A.P. 2025 Jca Advances,C,C,noncomparative,no,NR,verified_pubtype=case series; LA-near-cue=False,no
+Rcad900ab9e,Lo Bianco G 2025 J Clin Med,B,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+R8280327b2e,Anjitha T 2025 J Conserv Dent Endod,A,A,direct LA comparator,yes,no,verified_pubtype=technical report with primary patient data; LA-near-cue=True,no
+R917c48bfd2,Bykar H 2025 Int J Obstet Anesth,C,B,indirect comparator,no,no,verified_pubtype=nonrandomized comparative study; LA-near-cue=False,yes
+R522cee26ef,Sailer A 2025 Semin Intervent Radiol,B,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+Raf181387f9,Vellaiyan A. 2025 Journal of Medicinal and Pharmaceutical Chemistry Research,—,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,yes
+Rb34b0a9ab6,Borghate P 2025 J Korean Assoc Oral Maxillofac Surg,C,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,yes
+Re8ed4afa5a,Al-Waeli HR 2025 J Educ Health Promot,C,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,yes
+R87d54ce8a1,Goldberg D 2025 Am J Hosp Palliat Care,C,B,indirect comparator,no,no,verified_pubtype=cohort/observational study; LA-near-cue=False,yes
+Rec652760c3,Yilmaz A 2025 Pain Res Manag,B,B,indirect comparator,no,no,verified_pubtype=nonrandomized comparative study; LA-near-cue=False,no
+R5c2c7eb2e8,Akhgar A 2025 Emerg Med J,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R01c1639d1d,Tsiplakos P 2025 Cureus,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R2ecef89b3e,Tsyhankov O.V. 2025 Journal of V N Karazin Kharkiv National University Series Medicine,—,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+Rbd53784d83,Bastianello M 2025 Paediatr Anaesth,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R6bc9e38dd8,Mont MA 2025 J Arthroplasty,B,B,indirect comparator,no,no,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+Redf7ca29b4,Moon JT 2025 Cardiovasc Intervent Radiol,—,C,noncomparative,no,NR,verified_pubtype=case series; LA-near-cue=False,yes
+R4986062096,Stapleton G 2025 Curr Pain Headache Rep,B,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+R9326d5e533,Pick A 2025 Adv Rehabil Sci Pract,—,A,direct LA comparator,yes,no,verified_pubtype=case series; LA-near-cue=True,yes
+Racdecfcba9,Young S 2025 J Pers Med,B,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+R58c4f5c09b,Katyal S 2025 Med Int (Lond),A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R2a831e4d78,Seow-En I 2025 Ann Coloproctol,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R129688c7f9,Tailliez N 2025 Pain Manag Nurs,C,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,yes
+R45e7ba2314,Fattahi B 2025 J Endod,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R32eb83e66c,Eldafrawi S 2025 Sci Rep,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+Rb2d3f4e15c,Nakazawa J 2025 Ann Thorac Cardiovasc Surg,B,B,indirect comparator,no,no,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+R0cc6bf3d6e,Puangrab S 2025 Adv Clin Exp Med,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+Rb97569d09b,Onyancha S 2025 Open Respir Arch,B,C,noncomparative,no,NR,verified_pubtype=cohort/observational study; LA-near-cue=False,yes
+R09fc4d058b,Bianco GL 2025 Pain Ther,B,C,noncomparative,no,NR,verified_pubtype=cohort/observational study; LA-near-cue=False,yes
+R3257bab0c0,Vejdanihemmat V. 2025 Complementary Therapies in Medicine,—,B,indirect comparator,no,no,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+Re8fecb0f8c,Mont MA 2025 J Arthroplasty,A,A,direct LA comparator,yes,no,verified_pubtype=cohort/observational study; LA-near-cue=True,no
+R2c80c909fa,Cruz Álvarez JE 2025 Cureus,—,C,noncomparative,no,NR,verified_pubtype=case series; LA-near-cue=False,yes
+Rd8866bfdfe,Miller DL 2025 Pain Ther,B,B,indirect comparator,no,no,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+R37319a45b7,Santana L 2025 Eur J Pediatr Surg,A,A,direct LA comparator,yes,no,verified_pubtype=nonrandomized comparative study; LA-near-cue=True,no
+R5769a0e682,Green A 2025 J Pediatr Surg,C,C,noncomparative,no,NR,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+R1cb6117866,Koliakos E 2025 J Thorac Cardiovasc Surg,A,A,direct LA comparator,yes,yes,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R3ff4830a96,Ferrillo MG 2025 Pain Physician,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R52b9bf2ee8,Hashemi M 2025 Am J Phys Med Rehabil,C,C,noncomparative,no,NR,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+Rb317ad3821,Iglesias NJ 2025 J Pediatr Surg,A,A,direct LA comparator,yes,no,verified_pubtype=nonrandomized comparative study; LA-near-cue=True,no
+Rda64f7e086,Guynn CC 2025 Arch Rehabil Res Clin Transl,—,C,noncomparative,no,NR,verified_pubtype=case series; LA-near-cue=False,yes
+R7d36d2dab1,Masui K 2025 J Anesth,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+Re250a7ac0c,Gómez Sánchez A 2025 Cir Pediatr,B,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+R55b8b51789,Sir Ö 2025 J Perianesth Nurs,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R2f8cbc9105,Rashid RM 2025 Pain Physician,A,A,direct LA comparator,yes,no,verified_pubtype=cohort/observational study; LA-near-cue=True,no
+R6fcc41c45a,"CTRI/2025/12/099308 2025 https://trialsearch.who.int/Trial2.aspx?TrialID=CTRI/2025/12/099308, 2025 | adde",—,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+R624a767c74,Forrester JD 2025 Injury,C,B,indirect comparator,no,no,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+R60b9f021e5,Pamuk Ç 2025 Medicine (Baltimore),B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R2cd08d5a84,Al-Waeli H.R. 2025 International Journal of Body Mind and Culture,—,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,yes
+R40cfea15d8,Marotta N. 2025 Journal of Sports Medicine and Physical Fitness,—,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+R93e9fc556f,Rapčan R 2026 Eur Spine J,C,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,yes
+Rc5620c1688,Galor A 2026 Ophthalmol Ther,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R4b42b1ece2,Ng MK 2026 J Arthroplasty,B,B,indirect comparator,no,no,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+R57da93048b,Robles-Gea M.J. 2026 Enfermeria Nefrologica,—,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,yes
+R2038cbd8f8,Raja SG 2026 Med Sci (Basel),B,B,indirect comparator,no,no,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+R4aae6ca2ea,Forrester JD 2026 J Trauma Acute Care Surg,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R2d8ffb7b10,McCaffrey JM 2026 Surg Oncol,B,C,noncomparative,no,NR,verified_pubtype=cohort/observational study; LA-near-cue=False,yes
+Redc51187e5,Kočan L 2026 Spine (Phila Pa 1976),B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R603908c76f,Baldawa HS 2026 Int J Clin Pediatr Dent,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R364d19144d,Mammana M 2026 Updates Surg,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R35023f5a7c,Mejia S 2026 PM R,—,A,direct LA comparator,yes,no,verified_pubtype=cohort/observational study; LA-near-cue=True,yes
+R658ee75f2c,González-Suárez S 2026 BMC Anesthesiol,—,A,direct LA comparator,yes,no,verified_pubtype=nonrandomized comparative study; LA-near-cue=True,yes
+Reca340ccfa,Wikner M 2026 Int J Obstet Anesth,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R619f22f874,Drake L 2026 Ann Surg,A,A,direct LA comparator,yes,yes,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+Rf36b394cbd,Simons JF 2026 ANZ J Surg,B,B,indirect comparator,no,no,verified_pubtype=nonrandomized comparative study; LA-near-cue=False,no
+R51c5737c94,Carmona A 2026 J Surg Res,A,A,direct LA comparator,yes,no,verified_pubtype=nonrandomized comparative study; LA-near-cue=True,no
+R06142e8bc4,Drake L 2026 Innovations (Phila),B,B,indirect comparator,no,no,verified_pubtype=technical report with primary patient data; LA-near-cue=False,no
+R9d2a3858bd,Ilfeld BM 2026 Reg Anesth Pain Med,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+Rf5de0e590e,Toavs TL 2026 J Arthroplasty,B,B,indirect comparator,no,no,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+R8da57dbee1,Ilfeld BM 2026 Anesthesiology,A,A,direct LA comparator,yes,no,verified_pubtype=technical report with primary patient data; LA-near-cue=True,no
+Rb56075c76a,Gogol P 2026 Med Sci Monit,C,C,noncomparative,no,NR,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+R4397307a86,Sutthapakti B 2026 Knee,C,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,yes
+Rc44ffa6793,Lee N 2026 Int J Nurs Stud,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+Rfd6ca194f5,Mariconti S 2026 Reg Anesth Pain Med,A,A,direct LA comparator,yes,no,verified_pubtype=cohort/observational study; LA-near-cue=True,no
+Ra706b6c867,Forrester JD 2026 J Am Coll Surg,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R11ccfeb951,Akdemir MA 2026 J Perianesth Nurs,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+Ra66ef18c04,Uz U 2026 Facial Plast Surg Aesthet Med,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R961d87dfa6,Goebel MC 2026 Eur Arch Paediatr Dent,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+Rbea6ca5024,Jelly P 2026 Pain Manag,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R39233e542d,Kılbasanlı S 2026 BMC Pregnancy Childbirth,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+Rb988201ad4,Bakır E 2026 Hemodial Int,C,C,noncomparative,no,NR,verified_pubtype=nonrandomized comparative study; LA-near-cue=False,no
+R9fed16bfa4,Kudu E 2026 J Emerg Med,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R402743bbdc,Abdelrahman N 2026 Front Dent Med,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R2abbe1e980,Jacq G 2026 Aust Crit Care,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+Rc65340598e,Young S 2026 Cardiovasc Intervent Radiol,B,C,noncomparative,no,NR,verified_pubtype=cohort/observational study; LA-near-cue=False,yes
+R2c09f76849,Young S 2026 Am J Hosp Palliat Care,B,C,noncomparative,no,NR,verified_pubtype=cohort/observational study; LA-near-cue=False,yes
+R262f2db9da,Heitsman CG 2026 J Pediatr Surg,B,B,indirect comparator,no,no,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+R57cb9f6f1a,Payne R 2026 J Pediatr Surg,A,A,direct LA comparator,yes,no,verified_pubtype=cohort/observational study; LA-near-cue=True,no
+Rdb11805762,van Polen EJ 2026 Eur J Cardiothorac Surg,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R6629bf6e18,Chihara R 2026 Ann Thorac Surg Short Rep,B,B,indirect comparator,no,no,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+Racaa0f17b0,van Polen E 2026 Multimed Man Cardiothorac Surg,B,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+R151338afbd,Foster L 2026 Trauma Case Rep,—,C,noncomparative,no,NR,verified_pubtype=case series; LA-near-cue=False,yes
+Rc11c99300f,Winkeler I.T. 2026 Current Challenges in Thoracic Surgery,—,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+R3b5af34d49,Parrish MT 2026 Pediatr Surg Int,A,A,direct LA comparator,yes,yes,verified_pubtype=nonrandomized comparative study; LA-near-cue=True,no
+R4a75628220,Tanaka S 2026 Anesth Pain Med (Seoul),B,B,indirect comparator,no,no,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+R1ff12a6098,Stasiak F 2026 Cancer Treat Res Commun,B,B,indirect comparator,no,no,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+Rd781b5339e,Cornelis FH 2026 Cardiovasc Intervent Radiol,C,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,no
+R71c8711089,Al-Edwan A 2026 J Cardiothorac Surg,B,B,indirect comparator,no,no,verified_pubtype=nonrandomized comparative study; LA-near-cue=False,no
+Rff431c9d24,O'Connor LA 2026 J Thorac Dis,B,B,indirect comparator,no,no,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+Rfd5298c544,Donati F 2026 J Pediatr Surg,B,B,indirect comparator,no,no,verified_pubtype=nonrandomized comparative study; LA-near-cue=False,no
+R60d9b5e181,Piasecki-Masters C 2026 Am J Phys Med Rehabil,B,C,noncomparative,no,NR,verified_pubtype=cohort/observational study; LA-near-cue=False,yes
+R99c62a2195,Bhargava M 2026 Int J Clin Pediatr Dent,A,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+Rc83b931914,Papadakis L 2026 J Pediatr Surg,A,A,direct LA comparator,yes,yes,verified_pubtype=nonrandomized comparative study; LA-near-cue=True,no
+Rc68d3b9d41,Jarrin Lopez A 2026 Front Pediatr,A,A,direct LA comparator,yes,no,verified_pubtype=cohort/observational study; LA-near-cue=True,no
+R1fe3a9ac56,Ng MK 2026 J Arthroplasty,B,B,indirect comparator,no,no,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+R2703fc3a9f,Hershfeld B 2026 Cureus,B,B,indirect comparator,no,no,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+R3e01ba7e71,Drake L 2026 JTCVS Open,A,A,direct LA comparator,yes,no,verified_pubtype=cohort/observational study; LA-near-cue=True,no
+R6c32c4e477,Al-Waeli HR 2026 Niger Postgrad Med J,B,B,indirect comparator,no,no,verified_pubtype=randomized controlled trial; LA-near-cue=False,no
+R062fedbd76,Jiravisitkul P 2026 World J Clin Pediatr,A,A,direct LA comparator,yes,yes,verified_pubtype=randomized controlled trial; LA-near-cue=True,no
+R7962c2cf6d,Natarajan B. 2026 World Journal of Dentistry,—,A,direct LA comparator,yes,no,verified_pubtype=randomized controlled trial; LA-near-cue=True,yes
+Rf7d9cd7c25,Başkurt A 2026 J Pediatr Nurs,B,B,indirect comparator,no,no,verified_pubtype=technical report with primary patient data; LA-near-cue=False,no
+Rd8729ca12d,Xiao AX 2026 J Shoulder Elbow Surg,B,B,indirect comparator,no,no,verified_pubtype=cohort/observational study; LA-near-cue=False,no
+R1a58f5705c,Hashemi M 2026 Am J Phys Med Rehabil,—,A,direct LA comparator,yes,no,verified_pubtype=cohort/observational study; LA-near-cue=True,yes
+Re47bc56ab7,Hare R 2026 J Pediatr Surg,B,B,indirect comparator,no,no,verified_pubtype=nonrandomized comparative study; LA-near-cue=False,no
+Rdc57626e12,Kalava A 2026 A A Pract,—,C,noncomparative,no,NR,verified_pubtype=case series; LA-near-cue=False,yes
+Rd57be4b4c2,Bauones S 2026 Cardiovasc Intervent Radiol,C,C,noncomparative,no,NR,verified_pubtype=case series; LA-near-cue=False,no
+Rdb1a2968d0,Pereira JA 2026 Neurol Int,C,C,noncomparative,no,NR,verified_pubtype=case series; LA-near-cue=False,no
+Rd6234b6093,Gritsenko K 2026 Orthop Rev (Pavia),B,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+R46153006ad,Szostawicki M. 2026 Polish Annals of Medicine,—,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
+R3ef7214fd9,Rice S 2026 Pediatr Dermatol,B,C,noncomparative,no,NR,verified_pubtype=technical report with primary patient data; LA-near-cue=False,yes
