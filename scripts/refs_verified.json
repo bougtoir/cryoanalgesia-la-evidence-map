@@ -1,0 +1,472 @@
+{
+ "30178033": {
+  "authors": "Tricco AC, Lillie E, Zarin W, O'Brien KK, Colquhoun H, Levac D, et al",
+  "title": "PRISMA Extension for Scoping Reviews (PRISMA-ScR): Checklist and Explanation",
+  "journal": "Ann Intern Med",
+  "year": "2018",
+  "vol": "169",
+  "issue": "7",
+  "pages": "467-473",
+  "doi": "10.7326/M18-0850"
+ },
+ "33570328": {
+  "authors": "Peters MDJ, Marnie C, Tricco AC, Pollock D, Munn Z, Alexander L, et al",
+  "title": "Updated methodological guidance for the conduct of scoping reviews",
+  "journal": "JBI Evid Implement",
+  "year": "2021",
+  "vol": "19",
+  "issue": "1",
+  "pages": "3-10",
+  "doi": "10.1097/XEB.0000000000000277"
+ },
+ "16698416": {
+  "authors": "Kehlet H, Jensen TS, Woolf CJ",
+  "title": "Persistent postsurgical pain: risk factors and prevention",
+  "journal": "Lancet",
+  "year": "2006",
+  "vol": "367",
+  "issue": "9522",
+  "pages": "1618-25",
+  "doi": "10.1016/S0140-6736(06)68700-X"
+ },
+ "16880882": {
+  "authors": "Trescot AM",
+  "title": "Cryoanalgesia in interventional pain management",
+  "journal": "Pain Physician",
+  "year": "2003",
+  "vol": "6",
+  "issue": "3",
+  "pages": "345-60",
+  "doi": ""
+ },
+ "38963513": {
+  "authors": "Gabriel RA, Seng EC, Curran BP, Winston P, Trescot AM, Filipovski I",
+  "title": "A Narrative Review of Ultrasound-Guided and Landmark-based Percutaneous Cryoneurolysis for the Management of Acute and Chronic Pain",
+  "journal": "Curr Pain Headache Rep",
+  "year": "2024",
+  "vol": "28",
+  "issue": "11",
+  "pages": "1097-1104",
+  "doi": "10.1007/s11916-024-01281-z"
+ },
+ "2995903": {
+  "authors": "Wang JK",
+  "title": "Cryoanalgesia for painful peripheral nerve lesions",
+  "journal": "Pain",
+  "year": "1985",
+  "vol": "22",
+  "issue": "2",
+  "pages": "191-194",
+  "doi": "10.1016/0304-3959(85)90179-4"
+ },
+ "8169463": {
+  "authors": "Ernst E, Fialka V",
+  "title": "Ice freezes pain? A review of the clinical effectiveness of analgesic cold therapy",
+  "journal": "J Pain Symptom Manage",
+  "year": "1994",
+  "vol": "9",
+  "issue": "1",
+  "pages": "56-9",
+  "doi": "10.1016/0885-3924(94)90150-3"
+ },
+ "25168120": {
+  "authors": "Hogan ME, Smart S, Shah V, Taddio A",
+  "title": "A systematic review of vapocoolants for reducing pain from venipuncture and venous cannulation in children and adults",
+  "journal": "J Emerg Med",
+  "year": "2014",
+  "vol": "47",
+  "issue": "6",
+  "pages": "736-49",
+  "doi": "10.1016/j.jemermed.2014.06.028"
+ },
+ "27113639": {
+  "authors": "Griffith RJ, Jordan V, Herd D, Reed PW, Dalziel SR",
+  "title": "Vapocoolants (cold spray) for pain treatment during intravenous cannulation",
+  "journal": "Cochrane Database Syst Rev",
+  "year": "2016",
+  "vol": "4",
+  "issue": "4",
+  "pages": "CD009484",
+  "doi": "10.1002/14651858.CD009484.pub2"
+ },
+ "36780438": {
+  "authors": "Wang L, Fang L, Zhou Y, Fang X, Liu J, Qu G",
+  "title": "Efficacy and safety of vapocoolant spray for vascular puncture in children and adults: A systematic review and meta-analysis",
+  "journal": "PLoS One",
+  "year": "2023",
+  "vol": "18",
+  "issue": "2",
+  "pages": "e0279463",
+  "doi": "10.1371/journal.pone.0279463"
+ },
+ "34408872": {
+  "authors": "Park R, Coomber M, Gilron I, Shanthanna H",
+  "title": "Cryoanalgesia for postsurgical pain relief in adults: A systematic review and meta-analysis",
+  "journal": "Ann Med Surg (Lond)",
+  "year": "2021",
+  "vol": "69",
+  "issue": "",
+  "pages": "102689",
+  "doi": "10.1016/j.amsu.2021.102689"
+ },
+ "32929487": {
+  "authors": "Daemen JHT, de Loos ER, Vissers YLJ, Bakens MJAM, Maessen JG, Hulsew\u00e9 KWE",
+  "title": "Intercostal nerve cryoablation versus thoracic epidural for postoperative analgesia following pectus excavatum repair: a systematic review and meta-analysis",
+  "journal": "Interact Cardiovasc Thorac Surg",
+  "year": "2020",
+  "vol": "31",
+  "issue": "4",
+  "pages": "486-498",
+  "doi": "10.1093/icvts/ivaa151"
+ },
+ "40720602": {
+  "authors": "Notrica DM, McMahon LE, Hahn A, Ndikintum N, Dua M, Jaroszewski DE",
+  "title": "Intercostal Nerve Cryoablation During Pectus Excavatum Surgery for Postoperative Pain Management: A Systematic Review and Meta-Analysis",
+  "journal": "Ann Surg",
+  "year": "2025",
+  "vol": "",
+  "issue": "",
+  "pages": "",
+  "doi": "10.1097/SLA.0000000000006855"
+ },
+ "42332433": {
+  "authors": "Santos K, F\u00e1rez CC, Alhwaishel K, Hakkeem B, Kim JYBK, Chanayire GW, et al",
+  "title": "Is cryoanalgesia superior to thoracic epidural analgesia for postoperative recovery after the nuss procedure? An updated meta-analysis",
+  "journal": "Korean J Pain",
+  "year": "2026",
+  "vol": "39",
+  "issue": "3",
+  "pages": "397-408",
+  "doi": "10.3344/kjp.25189"
+ },
+ "41965210": {
+  "authors": "Ikarine I, Altawil L, Kartiko S, Chau H, Bauman ZM, Taylor BC, et al",
+  "title": "Intercostal Nerve Cryoablation as an Adjunct to Surgical Stabilization of Rib Fractures: A Systematic Review, Meta-Analysis, and GRADE Assessment",
+  "journal": "J Surg Res",
+  "year": "2026",
+  "vol": "322",
+  "issue": "",
+  "pages": "61-69",
+  "doi": "10.1016/j.jss.2026.03.044"
+ },
+ "41537297": {
+  "authors": "Kroczek K, Ga\u0142\u0105zka P",
+  "title": "Incidence of adverse effects and complications after application of cryoanalgesia during pectus excavatum surgery: A systematic review",
+  "journal": "Pol Przegl Chir",
+  "year": "2025",
+  "vol": "97",
+  "issue": "6",
+  "pages": "69-76",
+  "doi": "10.5604/01.3001.0055.2293"
+ },
+ "32617406": {
+  "authors": "Tirupathi SP, Rajasekhar S",
+  "title": "Effect of precooling on pain during local anesthesia administration in children: a systematic review",
+  "journal": "J Dent Anesth Pain Med",
+  "year": "2020",
+  "vol": "20",
+  "issue": "3",
+  "pages": "119-127",
+  "doi": "10.17245/jdapm.2020.20.3.119"
+ },
+ "40231138": {
+  "authors": "de Andrade ABL, de Moraes SLD, de Fran\u00e7a AJB, Costa RTF, Pellizzer EP, Vasconcelos BCDE",
+  "title": "Effect of precooling on the assessment of pain during local anesthesia in adults: A systematic review and meta-analysis",
+  "journal": "J Clin Exp Dent",
+  "year": "2025",
+  "vol": "17",
+  "issue": "3",
+  "pages": "e341-e349",
+  "doi": "10.4317/jced.62351"
+ },
+ "34831517": {
+  "authors": "Almohaimede A, Al-Madi E",
+  "title": "Is Intracanal Cryotherapy Effective in Reducing Postoperative Endodontic Pain? An Updated Systematic Review and Meta-Analysis of Randomized Clinical Trials",
+  "journal": "Int J Environ Res Public Health",
+  "year": "2021",
+  "vol": "18",
+  "issue": "22",
+  "pages": "",
+  "doi": "10.3390/ijerph182211750"
+ },
+ "39069570": {
+  "authors": "Wang S, Wu Y, Xiao Y, Tang Y",
+  "title": "Intraoperative cryoanalgesia on reducing post-tonsillectomy pain scales: a meta-analysis of randomized controlled trials",
+  "journal": "Eur Arch Otorhinolaryngol",
+  "year": "2024",
+  "vol": "281",
+  "issue": "11",
+  "pages": "5641-5649",
+  "doi": "10.1007/s00405-024-08817-4"
+ },
+ "40613355": {
+  "authors": "Goodwin B, Brancaccio H, Kaplan M, Rome V, Shah S, Mukhopadhyay S, et al",
+  "title": "Preoperative cryoneurolysis for peri- and postoperative pain in total knee arthroplasty: a systematic review and pooled analysis",
+  "journal": "Pain Manag",
+  "year": "2025",
+  "vol": "15",
+  "issue": "8",
+  "pages": "527-534",
+  "doi": "10.1080/17581869.2025.2522063"
+ },
+ "40513900": {
+  "authors": "Hajiaghajani S, Poursalehian M, Samakoosh AN, Bahrami O, Hecht CJ, Kamath AF",
+  "title": "Does Preoperative Anterior Genicular Nerve Cryoneurolysis Improve Early Outcomes of Primary Total Knee Arthroplasty? A Systematic Review and Meta-Analysis",
+  "journal": "J Arthroplasty",
+  "year": "2026",
+  "vol": "41",
+  "issue": "1",
+  "pages": "249-257.e2",
+  "doi": "10.1016/j.arth.2025.06.027"
+ },
+ "36111102": {
+  "authors": "Goyal S, Kumar A, Sharma RS, Goyal D, Singh GK",
+  "title": "Efficacy of cryoneurolysis in the management of chronic non-cancer pain: A systematic review and meta-analysis",
+  "journal": "Indian J Anaesth",
+  "year": "2022",
+  "vol": "66",
+  "issue": "7",
+  "pages": "485-497",
+  "doi": "10.4103/ija.ija_154_22"
+ },
+ "39707720": {
+  "authors": "Brancaccio H, Goodwin B, DesRochers J, Birnbaum A, Cagatay U, Koutsenko B, et al",
+  "title": "Cryoneurolysis for phantom limb pain: a systematic review",
+  "journal": "Pain Manag",
+  "year": "2024",
+  "vol": "14",
+  "issue": "12",
+  "pages": "673-680",
+  "doi": "10.1080/17581869.2024.2441650"
+ },
+ "33189429": {
+  "authors": "Hall LM, Ediriweera Y, Banks J, Nambiar A, Heal C",
+  "title": "Cooling to reduce the pain associated with vaccination: A systematic review",
+  "journal": "Vaccine",
+  "year": "2020",
+  "vol": "38",
+  "issue": "51",
+  "pages": "8082-8089",
+  "doi": "10.1016/j.vaccine.2020.11.005"
+ },
+ "33034900": {
+  "authors": "East CE, Dorward ED, Whale RE, Liu J",
+  "title": "Local cooling for relieving pain from perineal trauma sustained during childbirth",
+  "journal": "Cochrane Database Syst Rev",
+  "year": "2020",
+  "vol": "10",
+  "issue": "10",
+  "pages": "CD006304",
+  "doi": "10.1002/14651858.CD006304.pub4"
+ },
+ "32955997": {
+  "authors": "Bailey AG, Brown JN, Hammond JM",
+  "title": "Cryotherapy for the prevention of chemotherapy-induced peripheral neuropathy: A systematic review",
+  "journal": "J Oncol Pharm Pract",
+  "year": "2021",
+  "vol": "27",
+  "issue": "1",
+  "pages": "156-164",
+  "doi": "10.1177/1078155220959431"
+ },
+ "38127092": {
+  "authors": "Tidwell CM, DeMarco PJ",
+  "title": "Temperature-Mediated Neural Interventions in Knee Osteoarthritis: a Review of Cryoneurolysis and Cooled Radiofrequency Ablation with Ultrasound Guidance",
+  "journal": "Curr Rheumatol Rep",
+  "year": "2024",
+  "vol": "26",
+  "issue": "3",
+  "pages": "89-95",
+  "doi": "10.1007/s11926-023-01127-4"
+ },
+ "34079913": {
+  "authors": "Cha PI, Min JG, Patil A, Choi J, Kothary NN, Forrester JD",
+  "title": "Efficacy of intercostal cryoneurolysis as an analgesic adjunct for chest wall pain after surgery or trauma: systematic review",
+  "journal": "Trauma Surg Acute Care Open",
+  "year": "2021",
+  "vol": "6",
+  "issue": "1",
+  "pages": "e000690",
+  "doi": "10.1136/tsaco-2021-000690"
+ },
+ "40292042": {
+  "authors": "Passos FS, Bregion PB, Oliveira RE, Siemeni T, Treml RE, Pessoa BM, et al",
+  "title": "Cryoanalgesia in Lung Transplantation - A Systematic Review and Meta-analysis",
+  "journal": "JHLT Open",
+  "year": "2025",
+  "vol": "8",
+  "issue": "",
+  "pages": "100263",
+  "doi": "10.1016/j.jhlto.2025.100263"
+ },
+ "39716781": {
+  "authors": "DesRochers J, Fry S, Khadr A, Rana N, Siu G",
+  "title": "Cryoneurolysis for management of post-mastectomy pain: a systematic review",
+  "journal": "Pain Manag",
+  "year": "2024",
+  "vol": "14",
+  "issue": "12",
+  "pages": "665-671",
+  "doi": "10.1080/17581869.2024.2443380"
+ },
+ "9374583": {
+  "authors": "Cohen Reis E, Holubkov R",
+  "title": "Vapocoolant spray is equally effective as EMLA cream in reducing immunization pain in school-aged children",
+  "journal": "Pediatrics",
+  "year": "1997",
+  "vol": "100",
+  "issue": "6",
+  "pages": "E5",
+  "doi": "10.1542/peds.100.6.e5"
+ },
+ "36512721": {
+  "authors": "Ilfeld BM, Smith CR, Turan A, Mariano ER, Miller ME, Fisher RL, et al",
+  "title": "Ultrasound-guided Percutaneous Cryoneurolysis to Treat Chronic Postamputation Phantom Limb Pain: A Multicenter Randomized Controlled Trial",
+  "journal": "Anesthesiology",
+  "year": "2023",
+  "vol": "138",
+  "issue": "1",
+  "pages": "82-97",
+  "doi": "10.1097/ALN.0000000000004429"
+ },
+ "39522714": {
+  "authors": "Weksler B, Maxwell C, Drake L, Crist L, Specht K, Kuchta P, et al",
+  "title": "A randomized study of cryoablation of intercostal nerves in patients undergoing minimally invasive thoracic surgery",
+  "journal": "J Thorac Cardiovasc Surg",
+  "year": "2025",
+  "vol": "169",
+  "issue": "5",
+  "pages": "1375-1382.e1",
+  "doi": "10.1016/j.jtcvs.2024.10.058"
+ },
+ "31675351": {
+  "authors": "Kvarstein G, H\u00f6gstr\u00f6m H, Allen SM, Rosland JH",
+  "title": "Cryoneurolysis for cervicogenic headache - a double blinded randomized controlled study",
+  "journal": "Scand J Pain",
+  "year": "2019",
+  "vol": "20",
+  "issue": "1",
+  "pages": "39-50",
+  "doi": "10.1515/sjpain-2019-0086"
+ },
+ "35929983": {
+  "authors": "Ilfeld BM, Finneran JJ, Swisher MW, Said ET, Gabriel RA, Sztain JF, et al",
+  "title": "Preoperative Ultrasound-guided Percutaneous Cryoneurolysis for the Treatment of Pain after Mastectomy: A Randomized, Participant- and Observer-masked, Sham-controlled Study",
+  "journal": "Anesthesiology",
+  "year": "2022",
+  "vol": "137",
+  "issue": "5",
+  "pages": "529-542",
+  "doi": "10.1097/ALN.0000000000004334"
+ },
+ "6102235": {
+  "authors": "Katz J, Nelson W, Forest R, Bruce DL",
+  "title": "Cryoanalgesia for post-thoracotomy pain",
+  "journal": "Lancet",
+  "year": "1980",
+  "vol": "1",
+  "issue": "8167",
+  "pages": "512-3",
+  "doi": "10.1016/s0140-6736(80)92766-x"
+ },
+ "41199434": {
+  "authors": "Drake L, Weksler B, Specht K, Kuchta P, Crist L, Williams BA, et al",
+  "title": "Cryoanalgesia Increases Neuropathic Pain in Adults Undergoing Minimally Invasive Surgery: A 1-Year Follow-up of a Randomized Study",
+  "journal": "Ann Surg",
+  "year": "2026",
+  "vol": "283",
+  "issue": "6",
+  "pages": "943-949",
+  "doi": "10.1097/SLA.0000000000006973"
+ },
+ "17870625": {
+  "authors": "Ju H, Feng Y, Yang BX, Wang J",
+  "title": "Comparison of epidural analgesia and intercostal nerve cryoanalgesia for post-thoracotomy pain control",
+  "journal": "Eur J Pain",
+  "year": "2008",
+  "vol": "12",
+  "issue": "3",
+  "pages": "378-84",
+  "doi": "10.1016/j.ejpain.2007.07.011"
+ },
+ "31699436": {
+  "authors": "Dekonenko C, Dorman RM, Duran Y, Juang D, Aguayo P, Fraser JD, et al",
+  "title": "Postoperative pain control modalities for pectus excavatum repair: A prospective observational study of cryoablation compared to results of a randomized trial of epidural vs patient-controlled analgesia",
+  "journal": "J Pediatr Surg",
+  "year": "2020",
+  "vol": "55",
+  "issue": "8",
+  "pages": "1444-1447",
+  "doi": "10.1016/j.jpedsurg.2019.09.021"
+ },
+ "27590462": {
+  "authors": "R\u00fcsch D, Koch T, Seel F, Eberhart L",
+  "title": "Vapocoolant Spray Versus Lidocaine Infiltration for Radial Artery Cannulation: A Prospective, Randomized, Controlled Clinical Trial",
+  "journal": "J Cardiothorac Vasc Anesth",
+  "year": "2017",
+  "vol": "31",
+  "issue": "1",
+  "pages": "77-83",
+  "doi": "10.1053/j.jvca.2016.06.008"
+ },
+ "40035332": {
+  "authors": "Bastianello M, Torre M, Bonfiglio R, Calevo MG, Palomba L, Uva P, et al",
+  "title": "Cryoanalgesia for Pain Management After Pectus Excavatum Repair (COPPER) in Adolescents: A Randomized Controlled Trial",
+  "journal": "Paediatr Anaesth",
+  "year": "2025",
+  "vol": "35",
+  "issue": "5",
+  "pages": "347-358",
+  "doi": "10.1111/pan.15090"
+ },
+ "38478876": {
+  "authors": "Ilfeld BM, Smith CR, Turan A, Mariano ER, Miller ME, Fisher RL, et al",
+  "title": "Smallest Clinically Meaningful Improvement in Amputation-Related Pain and Brief Pain Inventory Scores as Defined by Patient Reports of Global Improvement After Cryoneurolysis: a Retrospective Analysis of a Randomized, Controlled Clinical Trial",
+  "journal": "Anesth Analg",
+  "year": "2024",
+  "vol": "139",
+  "issue": "6",
+  "pages": "1325-1331",
+  "doi": "10.1213/ANE.0000000000006833"
+ },
+ "7811482": {
+  "authors": "Brichon PY, Pison C, Chaffanjon P, Fayot P, Buchberger M, N\u00e9ron L, et al",
+  "title": "Comparison of epidural analgesia and cryoanalgesia in thoracic surgery",
+  "journal": "Eur J Cardiothorac Surg",
+  "year": "1994",
+  "vol": "8",
+  "issue": "9",
+  "pages": "482-6",
+  "doi": "10.1016/1010-7940(94)90019-1"
+ },
+ "17572521": {
+  "authors": "Soueid A, Richard B",
+  "title": "Ethyl chloride as a cryoanalgesic in pediatrics for venipuncture",
+  "journal": "Pediatr Emerg Care",
+  "year": "2007",
+  "vol": "23",
+  "issue": "6",
+  "pages": "380-3",
+  "doi": "10.1097/01.pec.0000278396.25129.3f"
+ },
+ "42528259": {
+  "authors": "van Polen EJ, Duijsens GHNM, Janssen N, Daemen JHT, Franssen AJPM, Franssen CJ, et al",
+  "title": "Intercostal Nerve Cryoablation Versus Thoracic Epidural Analgesia for Minimally Invasive Repair of Pectus Excavatum: A Randomized Clinical Trial (ICE-Trial)",
+  "journal": "Eur J Cardiothorac Surg",
+  "year": "2026",
+  "vol": "68",
+  "issue": "8",
+  "pages": "",
+  "doi": "10.1093/ejcts/ezag203"
+ },
+ "19430625": {
+  "authors": "Aminabadi NA, Farahani RM",
+  "title": "The effect of pre-cooling the injection site on pediatric pain perception during the administration of local anesthesia",
+  "journal": "J Contemp Dent Pract",
+  "year": "2009",
+  "vol": "10",
+  "issue": "3",
+  "pages": "43-50",
+  "doi": ""
+ }
+}
