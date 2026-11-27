@@ -16,7 +16,7 @@ for k,v in [('primary_study_reports',len(p)),('unique_cohorts',len(pr)),('tier_A
 chk('PRISMA 1231=662+428+101+40',cc['eligibility_excluded']+len(p)+syn+prot,cc['eligibility_assessed'])
 chk('TIER_A_COMPLETE rows == Tier A cohorts',len(taf),tier['A'])
 chk('randomized_primary (study_design == RCT, all reports)',sum(r['study_design']=='RCT' for r in p),cc['randomized_primary'])
-print('Tier A effect directions (computed, descriptive):', dict(ed))
+print('Tier A effect directions (computed, descriptive):', {'favors_cryoanalgesia':ed['favors_cryoanalgesia'],'no_significant_difference':ed['no_significant_difference'],'favors_comparator':ed['favors_comparator'],'unclear/NR (incl. NR)':ed['unclear/NR']+ed['NR']})
 print('Tier A opioid outcome reported:', sum(r['opioid_outcome']=='reported' for r in ta))
 print('Tier A explicit persistent-pain definition:', sum(r['persistent_pain_definition'] not in ('','NR') for r in ta))
 ct=collections.Counter((r['clinical_domain'],r['evidence_tier']) for r in pr)
