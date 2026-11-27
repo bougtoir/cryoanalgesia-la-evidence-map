@@ -2,11 +2,11 @@
 Usage: python3 scripts/verify_counts.py  (run from repository root; Python 3 standard library only)"""
 import csv,json,sys,collections,os
 D=os.path.join(os.path.dirname(os.path.abspath(__file__)),'..')+'/'
-cc=json.load(open(D+'CANONICAL_COUNTS_FINAL_RECONCILED.json'))
-p=list(csv.DictReader(open(D+'PRIMARY_STUDY_MAP.csv')))
+cc=json.load(open(D+'CANONICAL_COUNTS_FINAL_RECONCILED.json',encoding='utf-8'))
+p=list(csv.DictReader(open(D+'PRIMARY_STUDY_MAP.csv',encoding='utf-8')))
 pr=[r for r in p if r['study_id']==r['cohort_id']]
-taf=list(csv.DictReader(open(D+'TIER_A_COMPLETE.csv')))
-syn=sum(1 for _ in csv.DictReader(open(D+'SYNTHESIS_REPORTS.csv'))); prot=sum(1 for _ in csv.DictReader(open(D+'PROTOCOLS_ONGOING.csv')))
+taf=list(csv.DictReader(open(D+'TIER_A_COMPLETE.csv',encoding='utf-8')))
+syn=sum(1 for _ in csv.DictReader(open(D+'SYNTHESIS_REPORTS.csv',encoding='utf-8'))); prot=sum(1 for _ in csv.DictReader(open(D+'PROTOCOLS_ONGOING.csv',encoding='utf-8')))
 tier=collections.Counter(r['evidence_tier'] for r in pr); ed=collections.Counter(r['effect_direction'] for r in taf)
 ta=[r for r in pr if r['evidence_tier']=='A']
 res=[]
