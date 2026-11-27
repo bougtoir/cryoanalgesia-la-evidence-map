@@ -9,3 +9,7 @@ Post-OSF-registration rebuild (OSF DOI 10.17605/OSF.IO/KJ5RS). Sources searched 
 - `PRISMA_FLOW_DATA.csv`, `PRISMA_FLOW_FINAL.png`, `Figure2_domain_tier.png`, `Figure3_year_tier.png` — figures and flow data.
 - `scripts/` — post-OSF pipeline (search_post_osf, central_harvest, dedup_post, sentinel_test, screening/classification, finalize, figure/document builders), plus intermediate datasets.
 - `phase_a_legacy/` — earlier pre-registration pipeline (PubMed/OpenAlex/Crossref/CT.gov), retained for audit history.
+
+## Verify the reported counts
+
+`python3 scripts/verify_counts.py` (Python 3 standard library; run from the repository root) recomputes the PRISMA arithmetic, report and unique-cohort counts, Tier A/B/C, the domain-by-tier table, randomized reports, Tier A effect directions, opioid and persistent-pain counts from the CSV/JSON files in this repository and checks them against `CANONICAL_COUNTS_FINAL_RECONCILED.json`. The other scripts in `scripts/` document the original pipeline; they reference the author's workspace paths and external search APIs and are not intended to be re-run as-is.
